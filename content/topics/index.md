@@ -71,7 +71,7 @@ sections:
           image:
             filename: biocam_whale_carcass_0.jpg
             filters:
-              brightness: 0.4
+              brightness: 0.6
           position: center
           color: '#555'
       - title: Science and industrial applications
@@ -81,7 +81,7 @@ sections:
           image:
             filename: nw_hutton_-_well.png
             filters:
-              brightness: 0.4
+              brightness: 0.6
           position: center
           color: '#555'
     design:
