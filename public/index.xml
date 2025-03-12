@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AUV2026, Southampton</title>
+    <link>https://auv2026-southampton.com/</link>
+      <atom:link href="https://auv2026-southampton.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>AUV2026, Southampton</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://auv2026-southampton.com/media/icon_hu_2c847a22f61cca1a.png</url>
+      <title>AUV2026, Southampton</title>
+      <link>https://auv2026-southampton.com/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://auv2026-southampton.com/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://auv2026-southampton.com/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Industry</title>
+      <link>https://auv2026-southampton.com/industry/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://auv2026-southampton.com/industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organisors</title>
+      <link>https://auv2026-southampton.com/organisers/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://auv2026-southampton.com/organisers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Review Track</title>
+      <link>https://auv2026-southampton.com/journaltrack/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://auv2026-southampton.com/journaltrack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Standard Track</title>
+      <link>https://auv2026-southampton.com/standardtrack/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://auv2026-southampton.com/standardtrack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topics</title>
+      <link>https://auv2026-southampton.com/topics/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://auv2026-southampton.com/topics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>venue</title>
+      <link>https://auv2026-southampton.com/venue/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://auv2026-southampton.com/venue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://auv2026-southampton.com/contact/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://auv2026-southampton.com/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
