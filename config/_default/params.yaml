@@ -37,19 +37,22 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
-    show_search: true
+    show_day_night: false
+    show_search: false
     highlight_active_link: false
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} AUV2026 Technical Program Committee
+    
+
+     Contact [auv2026@soton.ac.uk](auv2026@soton.ac.uk)'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -72,7 +75,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://auv2026-southampton'
     content_dir: content
     branch: main
   avatar:
@@ -82,7 +85,7 @@ features:
     provider: ''
     disqus:
       shortname: ''
-      show_count: true
+      show_count: false
     commento:
       url: ''
     giscus:
@@ -109,7 +112,7 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: true
+    enable: false
 
 # Citation style
 
