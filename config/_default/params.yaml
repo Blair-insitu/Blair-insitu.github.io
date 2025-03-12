@@ -48,7 +48,7 @@ footer:
     notice: '© {year} AUV2026 Technical Program Committee
     
 
-     Contact [auv2026@soton.ac.uk](auv2026@soton.ac.uk)'
+     Contact [auv2026@soton.ac.uk](mailto:email@domain.com)'
     license:
       enable: false
       allow_derivatives: false

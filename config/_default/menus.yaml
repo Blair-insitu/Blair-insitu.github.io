@@ -10,10 +10,10 @@ main:
   - name: Topics
     url: topics
     weight: 20
-  - name: Journal Track
+  - name: Journal track
     url: journaltrack
     weight: 30
-  - name: Standard Track
+  - name: Standard track
     url: standardtrack
     weight: 40
   - name: Industry
