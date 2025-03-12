@@ -10,23 +10,23 @@ sections:
     content:
       slides:
       - title: Core topics include
-        content: '<span style="display: inline-block; text-align: left; margin-right: 24.2%; color: white;">- Vehicle design</span>
+        content: '<span style="color: white;">- Vehicle design</span>
         
 
-        <span style="display: inline-block; text-align: left; margin-right: 21.5%; color: white;">- Planning & control</span>
+        <span style="color: white;">- Planning & control</span>
         
 
-        <span style="display: inline-block; text-align: left; margin-right: 19.5%; color: white;">- Navigation & sensing</span>
+        <span style="color: white;">- Navigation & sensing</span>
         
 
-        <span style="display: inline-block; text-align: left; margin-right: 0.4%; color: white;">- Operations communication & data management</span>
+        <span style="color: white;">- Operations communication & data management</span>
         
 
-        <span style="display: inline-block; text-align: left; margin-right: 11.4%; color: white;">- Science & industrial applications</span>
+        <span style="color: white;">- Science & industrial applications</span>
 
         
-        <span style="display: inline-block; text-align: left; margin-right: 15%; color: white;">**Click arrows for description**</span>'
-        align: right
+        <span style="color: white;">**Click arrows for description**</span>'
+        align: left
         background:
           image:
             filename: boatymcboatface.png
