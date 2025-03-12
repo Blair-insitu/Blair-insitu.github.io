@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yvan Petillot | AUV2026, Southampton</title>
+    <link>https://auv2026-southampton.com/author/yvan-petillot/</link>
+      <atom:link href="https://auv2026-southampton.com/author/yvan-petillot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yvan Petillot</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://auv2026-southampton.com/author/yvan-petillot/avatar_hu_dd7ffea52cc6ff7d.jpeg</url>
+      <title>Yvan Petillot</title>
+      <link>https://auv2026-southampton.com/author/yvan-petillot/</link>
+    </image>
+    
+  </channel>
+</rss>
