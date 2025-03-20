@@ -32,18 +32,34 @@ sections:
         [Chris Roman](https://web.uri.edu/gso/meet/chris-roman/), University of Rhode Island, USA
 
 
+        [Oscar Pizarro](https://www.ntnu.edu/employees/oscar.pizarro), Norwegian University of Science and Technology (NTNU), Norway
+
+
+        [Martin Ludvigsen](https://www.ntnu.edu/employees/martin.ludvigsen), Norwegian University of Science and Technology (NTNU), Norway
+
+
+        [Joao Sousa](https://lsts.pt/member/jo%C3%A3o-sousa), University of Porto, Portugal
+
+
+        [Ralph Bachmeyer](https://www.marum.de/en/Prof.-Dr.-ralf-bachmayer.html), Marum University of Bremen, Germany
+
 
         [Toshihiro Maki](https://www.iis.u-tokyo.ac.jp/en/research/staff/toshihiro-maki/), IIS University of Tokyo, Japan
 
 
-        [Yuya Nishida](https://hyokadb02.jimu.kyutech.ac.jp/html/100000925_en.html), Kyushu Institute of Technology, Japan
+        [Yuya Nishida](https://hyokadb02.jimu.kyutech.ac.jp/html/100000925_en.html), Kyushu Institute of Technology (Kyutech), Japan
 
 
-        [Hayato Kondo](https://tumsatdb.kaiyodai.ac.jp/html/100000559_en.html), Tokyo University of Marine Science and Technology, Japan    
-
+        [Hayato Kondo](https://tumsatdb.kaiyodai.ac.jp/html/100000559_en.html), Tokyo University of Marine Science and Technology (TUMSAT), Japan    
 
 
         [Takumi Matsuda](https://gyoseki1.mind.meiji.ac.jp/mjuhp/KgApp?resId=S002588&Language=2), Meiji University, Japan
+
+
+        [John Folkesson](https://www.kth.se/profile/johnf), Royal Institute of Technology (KTH), Sweden
+
+        [Nuno Cruz](https://www.inesctec.pt/en/people/nuno-cruz#short_bio), University of Porto, Portugal
+
 
 
 
