@@ -19,4 +19,14 @@ sections:
       show_interests: true
       show_role: true
       show_social: false
+
+    content:
+      title: International Committee
+      subtitle: 
+      text: '| Member  | Affiliation  | Region  |
+|-----+-----+-----|
+| Stefan Williams | ACFR, University of Sydney | Australia |
+| Stefan Williams | ACFR, University of Sydney | Australia |'
+    design:
+      columns: '1' 
 ---
