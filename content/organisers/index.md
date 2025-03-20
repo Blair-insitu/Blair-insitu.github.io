@@ -25,7 +25,7 @@ sections:
       title: International Committee
       subtitle: 
       text: 
-        'Our international committee plays a critical role in gathering contributions from around the world. If you would like to join our team, please contact [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk)
+        'Our international committee plays a critical role to encourage contributions from around the world. If you would like to join our team, please contact [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk)
 
 
         [Stefan William](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/stefan-williams.html), ACRF University of Sydney, Australia
@@ -43,19 +43,17 @@ sections:
         [Martin Ludvigsen](https://www.ntnu.edu/employees/martin.ludvigsen), Norwegian University of Science and Technology (NTNU), Norway
 
 
-        [John Folkesson](https://www.kth.se/profile/johnf), Royal Institute of Technology (KTH), Sweden
-
-
-
-        [Joao Sousa](https://lsts.pt/member/jo%C3%A3o-sousa), University of Porto, Portugal        
-        
-
 
         [Nuno Cruz](https://www.inesctec.pt/en/people/nuno-cruz#short_bio), University of Porto, Portugal
 
 
-        [Gabriel Oliver](https://srv.uib.es/gabriel-oliver-codina/), University of the Balearic Islands, Spain
 
+        [Joao Sousa](https://lsts.pt/member/jo%C3%A3o-sousa), University of Porto, Portugal     
+
+
+
+
+        [Gabriel Oliver](https://srv.uib.es/gabriel-oliver-codina/), University of the Balearic Islands, Spain
 
 
 
@@ -63,13 +61,18 @@ sections:
 
 
 
-        [Toshihiro Maki](https://www.iis.u-tokyo.ac.jp/en/research/staff/toshihiro-maki/), IIS University of Tokyo, Japan
+
+        [John Folkesson](https://www.kth.se/profile/johnf), Royal Institute of Technology (KTH), Sweden
+
+
+
+        [Toshihiro Maki](http://makilab.iis.u-tokyo.ac.jp/english/), IIS University of Tokyo, Japan
 
 
         [Yuya Nishida](https://hyokadb02.jimu.kyutech.ac.jp/html/100000925_en.html), Kyushu Institute of Technology (Kyutech), Japan
 
 
-        [Hayato Kondo](https://tumsatdb.kaiyodai.ac.jp/html/100000559_en.html), Tokyo University of Marine Science and Technology (TUMSAT), Japan    
+        [Hayato Kondo](http://www.ocean.e.kaiyodai.ac.jp/index-e.html), Tokyo University of Marine Science and Technology (TUMSAT), Japan    
 
 
         [Takumi Matsuda](https://gyoseki1.mind.meiji.ac.jp/mjuhp/KgApp?resId=S002588&Language=2), Meiji University, Japan
@@ -90,13 +93,19 @@ sections:
 
 
 
-        [Malika Meghjani](https://www.malikameghjani.com/), ingapore University of Technology and Design, Singapore
+        [Fausto Ferreira](https://labust.fer.hr/labust/about/people/fausto_ferreira), University of Zagreb, Croatia
+
+
+        [Dula Nad](https://www.fer.unizg.hr/en/djula.nadj), University of Zagreb, Croatia
 
 
 
+        [Irfan Hussain](https://www.ku.ac.ae/college-people/irfan-hussain) Khalifa University, UAE
 
 
-        '
+
+        [Malika Meghjani](https://www.malikameghjani.com/), ingapore University of Technology and Design, Singapore'
+        
     design:
       columns: '1' 
 ---
