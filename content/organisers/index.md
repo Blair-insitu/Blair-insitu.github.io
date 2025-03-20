@@ -24,10 +24,13 @@ sections:
     content:
       title: International Committee
       subtitle: 
-      text: '| Member  | Affiliation  | Region  |
-|-----+-----+-----|
-| Stefan Williams | ACFR, University of Sydney | Australia |
-| Stefan Williams | ACFR, University of Sydney | Australia |'
+      text: '
+
+      | Italic default | Bold default | Strikethrough default | Code default |
+|----------------|--------------|-----------------------|--------------|
+| *italics*      |**bold**      |~~strikethrough~~      |`code`        |
+| *italics*      |**bold**      |~~strikethrough~~      |`code`        |
+| *italics*      |**bold**      |~~strikethrough~~      |`code`'
     design:
       columns: '1' 
 ---
