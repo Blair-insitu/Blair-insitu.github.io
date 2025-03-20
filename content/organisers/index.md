@@ -1,5 +1,5 @@
 ---
-title: Organisors
+title: Organisers
 date: 2025-03-12
 
 type: landing
@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: people
     content:
-      title: Meet the Organisors
+      title: Meet the Organisers
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
