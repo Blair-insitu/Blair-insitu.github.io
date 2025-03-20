@@ -25,21 +25,35 @@ sections:
       title: International Committee
       subtitle: 
       text: 
-        '[Stefan William](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/stefan-williams.html), ACRF University of Sydney, Australia
+        'Our international committee plays a critical role in gathering contributions from around the world. If you would like to join our team, please contact [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk)
+
+
+        [Stefan William](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/stefan-williams.html), ACRF University of Sydney, Australia
 
 
 
         [Chris Roman](https://web.uri.edu/gso/meet/chris-roman/), University of Rhode Island, USA
 
 
+
         [Oscar Pizarro](https://www.ntnu.edu/employees/oscar.pizarro), Norwegian University of Science and Technology (NTNU), Norway
+
 
 
         [Martin Ludvigsen](https://www.ntnu.edu/employees/martin.ludvigsen), Norwegian University of Science and Technology (NTNU), Norway
 
 
-        [Joao Sousa](https://lsts.pt/member/jo%C3%A3o-sousa), University of Porto, Portugal
+        [John Folkesson](https://www.kth.se/profile/johnf), Royal Institute of Technology (KTH), Sweden
 
+
+
+        [Joao Sousa](https://lsts.pt/member/jo%C3%A3o-sousa), University of Porto, Portugal        
+        
+
+        [Nuno Cruz](https://www.inesctec.pt/en/people/nuno-cruz#short_bio), University of Porto, Portugal
+
+
+        [Gabriel Oliver](https://srv.uib.es/gabriel-oliver-codina/), University of the Balearic Islands, Spain
 
         [Ralph Bachmeyer](https://www.marum.de/en/Prof.-Dr.-ralf-bachmayer.html), Marum University of Bremen, Germany
 
@@ -56,9 +70,23 @@ sections:
         [Takumi Matsuda](https://gyoseki1.mind.meiji.ac.jp/mjuhp/KgApp?resId=S002588&Language=2), Meiji University, Japan
 
 
-        [John Folkesson](https://www.kth.se/profile/johnf), Royal Institute of Technology (KTH), Sweden
 
-        [Nuno Cruz](https://www.inesctec.pt/en/people/nuno-cruz#short_bio), University of Porto, Portugal
+        [Son-Cheol Yu](https://eee.postech.ac.kr/professor_type/yu-son-cheol/), Pohang University of Science and Technology (POSTECH), Korea
+
+
+        [M A Atmanand](https://atmanand.co.in/), Indian Institute of Technology Madras - Chennai, India
+
+
+        [Marco Bibuli](https://publications.cnr.it/authors/marco.bibuli), Italian National Research Council Institute of Marine engineering (CNR-INM), Italy
+
+
+
+        [Enrica Zereik](https://publications.cnr.it/authors/enrica.zereik), Italian National Research Council Institute of Marine engineering (CNR-INM), Italy
+
+
+
+        [Malika Meghjani](https://www.malikameghjani.com/), ingapore University of Technology and Design, Singapore
+
 
 
 
