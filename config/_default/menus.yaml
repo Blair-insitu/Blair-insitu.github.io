@@ -22,6 +22,6 @@ main:
   - name: Venue
     url: venue
     weight: 60
-  - name: Organisors
-    url: organisors
+  - name: Organisers
+    url: organisers
     weight: 70
