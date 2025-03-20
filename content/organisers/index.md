@@ -27,6 +27,7 @@ sections:
       text: 
         '[Stefan William](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/stefan-williams.html), ACRF University of Sydney, Australia
 
+
         [Chris Roman](https://web.uri.edu/gso/meet/chris-roman/), University of Rhode Island, USA
 
         '
