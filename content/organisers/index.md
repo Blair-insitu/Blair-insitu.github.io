@@ -104,8 +104,8 @@ sections:
 
 
 
-        [Malika Meghjani](https://www.malikameghjani.com/), ingapore University of Technology and Design, Singapore'
-        
+        [Malika Meghjani](https://www.malikameghjani.com/), Singapore University of Technology and Design, Singapore'
+
     design:
       columns: '1' 
 ---
