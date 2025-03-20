@@ -20,6 +20,7 @@ sections:
       show_role: true
       show_social: false
 
+  - block: markdown
     content:
       title: International Committee
       subtitle: 
