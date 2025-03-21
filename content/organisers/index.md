@@ -108,4 +108,22 @@ sections:
 
     design:
       columns: '1' 
+
+  - block: markdown
+
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: sponsors_d.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: auto
+          text_color_light: true
+      spacing:
+        padding: ['-300px', '0', '-300px', '0']
+      css_class:
+
 ---
