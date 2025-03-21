@@ -32,6 +32,10 @@ sections:
 
 
 
+        [Hanumant Sing](https://coe.northeastern.edu/people/singh-hanumant/), Northeaster University, USA
+
+
+
         [Chris Roman](https://web.uri.edu/gso/meet/chris-roman/), University of Rhode Island, USA
 
 
