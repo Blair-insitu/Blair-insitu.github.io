@@ -25,7 +25,7 @@ sections:
 
 
         
-        **Follow this link for [full instructions](https://ieeexplore.ieee.org/ielx8/48/10839485/10839495.pdf?tp=&arnumber=10839495&isnumber=10839485&ref=))**
+        **Follow this link to [journal special issues](https://ieeeoes.org/publication/ieee-joe/) or this direct link for [pdf instructions](https://ieeexplore.ieee.org/ielx8/48/10839485/10839495.pdf?tp=&arnumber=10839495&isnumber=10839485&ref=)**
     design:
       columns: '1'
       background:
