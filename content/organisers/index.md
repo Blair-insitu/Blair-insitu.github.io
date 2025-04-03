@@ -112,8 +112,6 @@ sections:
 
 
 
-        [Mike Jakuba](https://www.whoi.edu/profile/mjakuba/?_gl=1*19frcg9*_gcl_au*NDQwMTA3MzAzLjE3NDM2ODI2NDE.*_ga*MzY4ODM1NDg5LjE3NDM2ODI2NDI.*_ga_HLKFZX9JZK*MTc0MzY4MjY0MS4xLjEuMTc0MzY4MjczMC4wLjAuMA..), Wood's Hole Oceanographic Institution, USA
-
     design:
       columns: '1' 
 
