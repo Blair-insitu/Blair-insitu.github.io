@@ -28,11 +28,11 @@ sections:
         'Our international committee plays a critical role to encourage contributions from around the world. If you would like to join our team, please contact [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk)
 
 
-        [Stefan William](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/stefan-williams.html), ACRF University of Sydney, Australia
+        [Stefan Williams](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/stefan-williams.html), ACRF University of Sydney, Australia
 
 
 
-        [Hanumant Sing](https://coe.northeastern.edu/people/singh-hanumant/), Northeaster University, USA
+        [Hanumant Singh](https://coe.northeastern.edu/people/singh-hanumant/), Northeaster University, USA
 
 
 
@@ -64,7 +64,7 @@ sections:
         [Ralph Bachmeyer](https://www.marum.de/en/Prof.-Dr.-ralf-bachmayer.html), Marum University of Bremen, Germany
 
 
-
+    
 
         [John Folkesson](https://www.kth.se/profile/johnf), Royal Institute of Technology (KTH), Sweden
 
@@ -109,6 +109,10 @@ sections:
 
 
         [Malika Meghjani](https://www.malikameghjani.com/), Singapore University of Technology and Design, Singapore'
+
+
+
+        [Mike Jakuba](https://www.whoi.edu/profile/mjakuba/?_gl=1*19frcg9*_gcl_au*NDQwMTA3MzAzLjE3NDM2ODI2NDE.*_ga*MzY4ODM1NDg5LjE3NDM2ODI2NDI.*_ga_HLKFZX9JZK*MTc0MzY4MjY0MS4xLjEuMTc0MzY4MjczMC4wLjAuMA..), Wood's Hole Oceanographic Institution, USA
 
     design:
       columns: '1' 
