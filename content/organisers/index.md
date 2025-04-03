@@ -111,6 +111,7 @@ sections:
         [Malika Meghjani](https://www.malikameghjani.com/), Singapore University of Technology and Design, Singapore'
 
 
+        [Mike Jakuba](https://www.whoi.edu/oceanus/featured-researcher/michael-jakuba/), Wood's Hole Oceanographic Institution, USA
 
     design:
       columns: '1' 
