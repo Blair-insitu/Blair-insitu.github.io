@@ -40,7 +40,7 @@ sections:
 
 
 
-        [Mike Jakuba](https://www.whoi.edu/oceanus/featured-researcher/michael-jakuba/), Wood's Hole Oceanographic Institution, USA
+        [Mike Jakuba](https://www.whoi.edu/oceanus/featured-researcher/michael-jakuba/), Woods Hole Oceanographic Institution, USA
 
 
 
