@@ -44,7 +44,12 @@ sections:
 
 
 
-        [Oscar Pizarro](https://www.ntnu.edu/employees/oscar.pizarro), Norwegian University of Science and Technology (NTNU), Norway
+        [Katie Skinner](https://fieldrobotics.engin.umich.edu/team), University of Michigan, USA
+
+
+
+
+    [Oscar Pizarro](https://www.ntnu.edu/employees/oscar.pizarro), Norwegian University of Science and Technology (NTNU), Norway
 
 
 
