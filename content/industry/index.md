@@ -2,17 +2,38 @@
 title: Industry
 date: 2025-03-12
 type: landing
-
 sections:
   - block: contact
     content:
       title: Industry
-
       text: |
-         We welcome participation and support from industry. Below is a list of industry packages. If you are interested in being involved or have any questions, please complete this [MS form](https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2LmyOTW14llJg8BmiSB3VBFUREpDVElHNDU5N1daSVdSRUtVTTJONDNaWC4u) and we will be in touch.
+        We welcome participation and support from industry. Below is a list of industry packages. If you are interested in being involved or have any questions, please complete this [MS form](https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2LmyOTW14llJg8BmiSB3VBFUREpDVElHNDU5N1daSVdSRUtVTTJONDNaWC4u) and we will be in touch.
 
-    <iframe src="/pdfs/AUV2026_industry_pack_v1.pdf" width="100%" height="600px"></iframe>
+      ## Industry Package PDF
 
+      <div id="pdf-container" style="width: 100%; height: 600px;"></div>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
+
+      <script>
+          const url = "/pdfs/AUV2026_industry_pack_v1.pdf"; // Path to your PDF
+          const loadingTask = pdfjsLib.getDocument(url);
+          loadingTask.promise.then(pdf => {
+              pdf.getPage(1).then(page => {
+                  const scale = 1.5; // Zoom level
+                  const viewport = page.getViewport({ scale: scale });
+                  const canvas = document.createElement("canvas");
+                  const context = canvas.getContext("2d");
+                  canvas.width = viewport.width;
+                  canvas.height = viewport.height;
+                  document.getElementById("pdf-container").appendChild(canvas);
+                  page.render({
+                      canvasContext: context,
+                      viewport: viewport
+                  });
+              });
+          });
+      </script>
 
     design:
       columns: '1'
