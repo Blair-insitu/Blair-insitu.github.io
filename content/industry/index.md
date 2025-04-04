@@ -11,8 +11,8 @@ sections:
 
       text: 
          We welcome participation and support from industry. Below is a list of industry packages. If you are interested in being involved or have any questions, please complete this [MS form](https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2LmyOTW14llJg8BmiSB3VBFUREpDVElHNDU5N1daSVdSRUtVTTJONDNaWC4u) and we will be in touch.
-        
-         <iframe src="[https://drive.google.com/file/d/1lEj9J3VGBvsuFbS6K8y8F1zG8D9n5rH5/preview](https://drive.google.com/file/d/17KP_PKJDcl1nlf4qvl_xAqLvWc0IwPc5/view?usp=sharing)" width="100%" height="600px" style="border: none;"></iframe>
+
+    <iframe src="https://drive.google.com/file/d/17KP_PKJDcl1nlf4qvl_xAqLvWc0IwPc5/view?usp=sharing" width="100%" height="600px" style="border: none;"></iframe>
 
 
 
