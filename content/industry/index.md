@@ -11,7 +11,6 @@ sections:
 
         ## Industry Package PDF
 
-        <!-- Embed PDF using Google Docs Viewer -->
         <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/Blair-insitu/Blair-insitu.github.io/main/static/pdfs/AUV2026_industry_pack_v1.pdf&embedded=true" width="100%" height="600px" style="border: none;"></iframe>
 
     design:
