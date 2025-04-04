@@ -12,10 +12,9 @@ sections:
       text: |
          We welcome participation and support from industry. Below is a list of industry packages. If you are interested in being involved or have any questions, please complete this [MS form](https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2LmyOTW14llJg8BmiSB3VBFUREpDVElHNDU5N1daSVdSRUtVTTJONDNaWC4u) and we will be in touch.
 
-    # Embed PDF using Google Docs Viewer directly in markdown body
-    iframe_content: |
-      <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/Blair-insitu/Blair-insitu.github.io/main/static/AUV2026_industry_pack_v1.pdf&embedded=true" width="100%" height="600px" style="border: none;"></iframe>
-
+      html_content: |
+        <embed src="/pdfs/AUV2026_industry_pack_v1.pdf" width="100%" height="600px" type="application/pdf">
+        
     design:
       columns: '1'
       background:
