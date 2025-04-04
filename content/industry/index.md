@@ -13,7 +13,6 @@ sections:
 
       ## Industry Package PDF
 
-      <!-- Embed PDF directly into page -->
       <object data="/AUV2026_industry_pack_v1.pdf" type="application/pdf" width="100%" height="600px">
         <embed src="/AUV2026_industry_pack_v1.pdf" type="application/pdf" width="100%" height="600px">
         </embed>
