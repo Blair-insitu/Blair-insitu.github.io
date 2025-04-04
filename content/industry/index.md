@@ -12,7 +12,43 @@ sections:
          We welcome participation and support from industry. Below is a list of industry packages. If you are interested in being involved or have any questions, please complete this [MS form](https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2LmyOTW14llJg8BmiSB3VBFUREpDVElHNDU5N1daSVdSRUtVTTJONDNaWC4u) and we will be in touch.
 
       ## Industry Package PDF
-      <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/uc?id=17KP_PKJDcl1nlf4qvl_xAqLvWc0IwPc5" width="100%" height="600px" style="border: none;"></iframe>
+      <div id="pdf-viewer" style="width: 100%; height: 600px;"></div>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
+      <script>
+        var url = 'https://raw.githubusercontent.com/Blair-insitu/Blair-insitu.github.io/main/static/AUV2026_industry_pack_v1.pdf';
+
+        // Asynchronously download the PDF
+        pdfjsLib.getDocument(url).promise.then(function(pdf) {
+          console.log('PDF loaded');
+          
+          // Fetch the first page
+          pdf.getPage(1).then(function(page) {
+            console.log('Page loaded');
+            
+            var scale = 1.5;
+            var viewport = page.getViewport({ scale: scale });
+
+            // Prepare canvas using PDF page dimensions
+            var canvas = document.createElement('canvas');
+            var context = canvas.getContext('2d');
+            canvas.width = viewport.width;
+            canvas.height = viewport.height;
+
+            // Append the canvas to the container
+            document.getElementById('pdf-viewer').appendChild(canvas);
+
+            // Render the page into the canvas context
+            var renderContext = {
+              canvasContext: context,
+              viewport: viewport
+            };
+            page.render(renderContext);
+          });
+        }, function(error) {
+          console.error('Error loading PDF: ' + error);
+        });
+      </script>
 
     design:
       columns: '1'
