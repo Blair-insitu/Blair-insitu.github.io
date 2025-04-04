@@ -11,30 +11,9 @@ sections:
 
       ## Industry Package PDF
 
-      <div id="pdf-container" style="width: 100%; height: 600px;"></div>
-
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
-
-      <script>
-          const url = "/pdfs/AUV2026_industry_pack_v1.pdf"; // Path to your PDF
-          const loadingTask = pdfjsLib.getDocument(url);
-          loadingTask.promise.then(pdf => {
-              pdf.getPage(1).then(page => {
-                  const scale = 1.5; // Zoom level
-                  const viewport = page.getViewport({ scale: scale });
-                  const canvas = document.createElement("canvas");
-                  const context = canvas.getContext("2d");
-                  canvas.width = viewport.width;
-                  canvas.height = viewport.height;
-                  document.getElementById("pdf-container").appendChild(canvas);
-                  page.render({
-                      canvasContext: context,
-                      viewport: viewport
-                  });
-              });
-          });
-      </script>
-
+      <!-- Embed PDF using Google Docs Viewer -->
+      <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/Blair-insitu/Blair-insitu.github.io/main/static/pdfs/AUV2026_industry_pack_v1.pdf&embedded=true" width="100%" height="600px" style="border: none;"></iframe>
+    
     design:
       columns: '1'
       background:
