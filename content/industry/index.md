@@ -12,11 +12,7 @@ sections:
          We welcome participation and support from industry. Below is a list of industry packages. If you are interested in being involved or have any questions, please complete this [MS form](https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2LmyOTW14llJg8BmiSB3VBFUREpDVElHNDU5N1daSVdSRUtVTTJONDNaWC4u) and we will be in touch.
 
       ## Industry Package PDF
-
-      <object data="/AUV2026_industry_pack_v1.pdf" type="application/pdf" width="100%" height="600px">
-        <embed src="/AUV2026_industry_pack_v1.pdf" type="application/pdf" width="100%" height="600px">
-        </embed>
-      </object>
+      <iframe src="https://raw.githubusercontent.com/Blair-insitu/Blair-insitu.github.io/main/static/AUV2026_industry_pack_v1.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
     design:
       columns: '1'
