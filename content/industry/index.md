@@ -10,10 +10,10 @@ sections:
       title: Industry
 
       text: 
-         There will be opportunities for industry to get involved, including industry booths and packages for patrons. 
+         We welcome participation and support from industry. Below is a list of industry packages. If you are interested in being involved or have any questions, please complete this [MS form](https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2LmyOTW14llJg8BmiSB3VBFUREpDVElHNDU5N1daSVdSRUtVTTJONDNaWC4u) and we will be in touch.
+        
+         <iframe src="/AUV2026_industry_pack_v1.pdf" width="100%" height="800px"></iframe>
 
-
-        Full details will be posted on this page.
 
     design:
       columns: '1'
