@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Ian Folger
+title: Adrian Bodenmann
 
 # Full Name (for SEO)
-first_name: Ian
-last_name: Folger
+first_name: Adrian
+last_name: Bodenmann
 
 # Is this the primary user of the site?
 
 # Role/position
-role: Symposium Manager
+role: Treasurer
 
 # Organizations/Affiliations
 organizations:
-  - name: National OCeanography Centre
+  - name: University of Southampton
     url: ''
 
 
@@ -28,4 +28,5 @@ user_groups:
   -  Local Organising Committee
 ---
 
-Ian has a huge wealth of event management and development experience spanning many years. Working across academia, Hospitality, Public and Private Sector. Event Managing for the NOC for the past 10 years.
+Adrian is a Senior Research Fellow working in high-resolution visual seafloor mapping,
+uncertainty characterisation and remote-awareness.

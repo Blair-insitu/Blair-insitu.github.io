@@ -28,5 +28,5 @@ user_groups:
   -  Local Organising Committee
 ---
 
-Adrian is a Senior Research Fellow working in high-resolution visual seafloor mapping,
-uncertainty characterisation and remote-awareness.
+
+Ian has a huge wealth of event management and development experience spanning many years. Working across academia, Hospitality, Public and Private Sector. Event Managing for the NOC for the past 10 years.
