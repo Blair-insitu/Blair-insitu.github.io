@@ -13,7 +13,7 @@ role: Symposium Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: National OCeanography Centre
+  - name: National Oceanography Centre
     url: ''
 
 
@@ -28,4 +28,5 @@ user_groups:
   -  Local Organising Committee
 ---
 
-Ian has a huge wealth of event management and development experience spanning many years. Working across academia, Hospitality, Public and Private Sector. Event Managing for the NOC for the past 10 years.
+Adrian is a Senior Research Fellow working in high-resolution visual seafloor mapping,
+uncertainty characterisation and remote-awareness.

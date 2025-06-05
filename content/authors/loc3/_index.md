@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Sue Brindle
+title: Ian Folger
 
 # Full Name (for SEO)
-first_name: Sue
-last_name: Brindle
+first_name: Ian
+last_name: Folger
 
 # Is this the primary user of the site?
 
 # Role/position
-role: Secretariat
+role: Symposium Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Southampton
+  - name: National OCeanography Centre
     url: ''
 
 
@@ -28,4 +28,4 @@ user_groups:
   -  Local Organising Committee
 ---
 
-Sue has many years’ experience of working at the University, serving the Institute of Sound and Vibration Research for over 30 years prior to joining the Southampton Marine and Maritime Institute.
+Ian has a huge wealth of event management and development experience spanning many years. Working across academia, Hospitality, Public and Private Sector. Event Managing for the NOC for the past 10 years.
