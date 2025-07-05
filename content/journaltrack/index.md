@@ -44,7 +44,7 @@ sections:
     content:
       title: Key Dates
       subtitle: ''
-      text:  '**~~15th July~~ <span style="color:red;">17 August</span> 2025 - Submission deadline**                     
+      text:  '**~~15 July~~ <span style="color:red;">17 August</span> 2025 - Submission deadline**                     
 
 
         Transfer from the standard track to the peer review track is not possible       
