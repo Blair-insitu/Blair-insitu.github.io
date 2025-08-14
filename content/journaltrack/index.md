@@ -9,7 +9,7 @@ sections:
     content:
       title: Peer review track
       text: |-
-        Papers for the symposium's peer review track should be submitted directly to the IEEE Journal of Oceanic Engineering Special Issue through the **[Journal’s website](https://controls.papercept.net/journals/joe)** by ~~15 July~~  ~~17 August~~ **<span style="color:red;">25 August</span>** 2025.
+        Papers for the symposium's peer review track should be submitted directly to the IEEE Journal of Oceanic Engineering Special Issue through the **[Journal’s website](https://controls.papercept.net/journals/joe)** by ~~15 July~~  ~~17 August~~ **<span style="color:red;">25 August 2025</span>**.
 
 
         - **Cover letter:** when submitting manuscripts, authors should indicate the contribution is intended for the **AUV 2026** Special Issue.
@@ -44,7 +44,7 @@ sections:
     content:
       title: Key Dates
       subtitle: ''
-      text:  '**~~15 July~~ **~~17 August~~ <span style="color:red;">25 August</span> 2025 - Submission deadline**                     
+      text:  '**~~15 July~~ **~~17 August~~ <span style="color:red;">25 August 2025 </span>- Submission deadline**                     
 
 
         Transfer from the standard track to the peer review track is not possible       
