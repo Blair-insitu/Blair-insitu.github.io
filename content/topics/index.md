@@ -19,7 +19,7 @@ sections:
         <span style="color: white;">- Navigation & sensing</span>
         
 
-        <span style="color: white;">- Operations communication & data management</span>
+        <span style="color: white;">- Operations, communication & data management</span>
         
 
         <span style="color: white;">- Science & industrial applications</span>
