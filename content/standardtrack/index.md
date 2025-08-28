@@ -15,13 +15,14 @@ sections:
 
 
         **<span style="color:red;">Prepare your abstract</span>**
-        <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:1.0;">
+        <ul style="margin-top:0; margin-bottom:1.0; padding-left:1.2em; line-height:1.0;">
           <li>Use the <a href="https://www.ieee.org/conferences/publishing/templates">IEEE conference template</a></li>
           <li>A4, English language</li>
           <li>No more than <strong>2 pages</strong> of content (title, author and affiliation, figures and tables)</li>
           <li>You may use an <strong>additional page for references only</strong></li>
           <li>Convert your abstract to a <strong>PDF when ready for submission</strong></li>
         </ul>
+    
 
 
 
