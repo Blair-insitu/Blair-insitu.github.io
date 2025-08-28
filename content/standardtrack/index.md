@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Standard Track - **<span style="color:yellow;">ABSTRACTS LIVE</span>**
+      title: Standard Track
       text: |-
         Our standard track consists of an abstract review followed by submission of full length papers of **6 pages or less**. There’s a quick guide on how journal track and standard track submissions relate at the bottom of this page.
 
