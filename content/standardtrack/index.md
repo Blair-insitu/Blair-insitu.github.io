@@ -1,4 +1,3 @@
-<img width="468" height="95" alt="image" src="https://github.com/user-attachments/assets/cb5bcd92-c087-42ae-a147-173271ceaff1" />---
 title: Standard Track
 date: 2025-03-12
 
