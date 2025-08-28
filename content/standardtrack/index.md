@@ -32,7 +32,7 @@ sections:
         - Please indicate your preferred presentation format
           - Oral (and indicate if poster would be of interest if no oral slots are available)
           - Poster
-        - Upload your pdf. You should recieve a confirmation email, if not contact [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk)
+        - Upload your pdf. You should recieve a confirmation email, if not contact <auv2026@soton.ac.uk>
 
         Authors will be notified by email by 1 March 2026, at which point registration and visa letter details will be available. Full papers (6 pages IEEE conference template) are due 1 July 2026 together with IEEE copyright form. Details available nearer the time.
 
@@ -40,7 +40,8 @@ sections:
         By submitting your abstract, you consent to the collection and processing of your personal data for the purposes of organising and managing the AUV2026 Conference. This includes communication regarding your submission, inclusion in the conference programme and materials if accepted, and related administrative tasks.  
         Your data will be handled in accordance with the [UK General Data Protection Regulation](https://www.gov.uk/data-protection) and the [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted). We will only collect data necessary for the abstract review and event coordination process, and it will be stored securely and retained only for as long as necessary.  
         You have the right to access, amend, or request deletion of your data at any time. If your abstract includes information about other individuals, please ensure you have obtained their consent before submission.  
-        If you have any questions about how your data will be used, or wish to exercise your rights under data protection law, please contact [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk).  
+        If you have any questions about how your data will be used, or wish to exercise your rights under data protection law, please contact <auv2026@soton.ac.uk>.
+    
         Further details on our privacy policy are are available on the [University of Southampton’s privacy notice page](https://www.southampton.ac.uk/about/governance/regulations-policies/privacy-policy).
 
     design:
