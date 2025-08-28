@@ -20,7 +20,7 @@ sections:
           <li>A4, English language</li>
           <li>No more than <strong>2 pages</strong> of content (title, author and affiliation, figures and tables)</li>
           <li>You may use an <strong>additional page for references only</strong></li>
-          <li>Convert your abstract to a <strong>PDF when ready for submission</strong></li>
+          <li>Convert your abstract to a <strong>PDF when ready to submt</strong></li>
         </ul>
         <br><br>
     
