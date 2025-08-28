@@ -13,14 +13,14 @@ sections:
 
         **CALL FOR ABSTRACTS - OPEN, deadline 1 February 2026**
 
-        Prepare your abstract:
+        **Prepare your abstract**
         - Use the [IEEE conference template](https://www.ieee.org/conferences/publishing/templates)
         - A4, English language
         - No more than **2 pages** of content (title, author and affiliation, figures and tables)
         - You may use an **additional page for references only**
         - Convert your abstract to a **PDF when ready for submission**
 
-        Submit your abstract
+        **Submit your abstract**
         - Upload your 2 page + references pdf to the [submission portal](https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ) before 1 February 2026
         - Please enter name and details of the presenting author
         - Please indicate which topics the paper best fits from the following. You can select more than one:
