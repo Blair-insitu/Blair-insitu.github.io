@@ -29,7 +29,7 @@ sections:
 
         **<span style="color:yellow;">Submit your abstract</span>**
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
-          <li>Upload your 2 page + references pdf to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ" target="_blank">SUBMISSION PORTAL</a> before **<span style="color:yellow;">1 February 2026</span>**</li>
+          <li>Upload your 2 page + references pdf to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ" target="_blank">SUBMISSION PORTAL</a> before <span style="color:yellow;">1 February 2026</span></li>
           <li>Please enter name and details of the presenting author</li>
           <li>Please indicate which topics the paper best fits:
             <ul style="margin-top:0; margin-bottom:0; padding-left:1em; line-height:1.2;">
