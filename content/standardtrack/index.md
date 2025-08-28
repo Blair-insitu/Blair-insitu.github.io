@@ -14,7 +14,7 @@ sections:
         **CALL FOR ABSTRACTS - OPEN, deadline 1 February 2026**
 
 
-        **Prepare your abstract**
+        **<span style="color:red;">Prepare your abstract</span>**
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:1.0;">
           <li>Use the <a href="https://www.ieee.org/conferences/publishing/templates">IEEE conference template</a></li>
           <li>A4, English language</li>
@@ -25,7 +25,7 @@ sections:
 
 
 
-        **Submit your abstract**
+        **<span style="color:red;">Submit your abstract</span>**
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:1.0;">
           <li>Upload your 2 page + references pdf to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ">submission portal</a> before 1 February 2026</li>
           <li>Please enter name and details of the presenting author</li>
