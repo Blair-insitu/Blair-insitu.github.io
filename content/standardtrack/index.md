@@ -50,7 +50,7 @@ sections:
         </ul>
          <br><br>
 
-        **Submitted your abstract?**
+        **<span style="color:yellow;">Submitted your abstract?</span>**
 
         You will be notified by email by 1 March 2026, at which point registration and visa letter details will be available. Full papers (6 pages IEEE conference template) are due 1 July 2026 together with IEEE copyright form. Details available nearer the time.
 
