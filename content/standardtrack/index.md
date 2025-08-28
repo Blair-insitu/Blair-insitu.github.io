@@ -42,7 +42,7 @@ sections:
           </li>
           <li>Please indicate your preferred presentation format:
             <ul style="margin-top:0; margin-bottom:0; padding-left:1em; line-height:1.2;">
-              <li>Oral (and indicate if poster would be of interest if no oral slots are available)</li>
+              <li>Oral (you'll be asked if a poster is OK if no oral slots are available)</li>
               <li>Poster</li>
             </ul>
           </li>
