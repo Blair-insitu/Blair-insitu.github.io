@@ -14,25 +14,35 @@ sections:
         **CALL FOR ABSTRACTS - OPEN, deadline 1 February 2026**
 
         **Prepare your abstract**
-        - Use the [IEEE conference template](https://www.ieee.org/conferences/publishing/templates)
-        - A4, English language
-        - No more than **2 pages** of content (title, author and affiliation, figures and tables)
-        - You may use an **additional page for references only**
-        - Convert your abstract to a **PDF when ready for submission**
+        <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:1.2;">
+          <li>Use the <a href="https://www.ieee.org/conferences/publishing/templates">IEEE conference template</a></li>
+          <li>A4, English language</li>
+          <li>No more than <strong>2 pages</strong> of content (title, author and affiliation, figures and tables)</li>
+          <li>You may use an <strong>additional page for references only</strong></li>
+          <li>Convert your abstract to a <strong>PDF when ready for submission</strong></li>
+        </ul>
 
         **Submit your abstract**
-        - Upload your 2 page + references pdf to the [submission portal](https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ) before 1 February 2026
-        - Please enter name and details of the presenting author
-        - Please indicate which topics the paper best fits from the following. You can select more than one:
-          - Vehicle design
-          - Planning & control
-          - Navigation & sensing
-          - Operations communication & data management
-          - Science & industrial applications
-        - Please indicate your preferred presentation format
-          - Oral (and indicate if poster would be of interest if no oral slots are available)
-          - Poster
-        - Upload your pdf. You should recieve a confirmation email, if not contact <auv2026@soton.ac.uk>
+        <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:1.2;">
+          <li>Upload your 2 page + references pdf to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ">submission portal</a> before 1 February 2026</li>
+          <li>Please enter name and details of the presenting author</li>
+          <li>Please indicate which topics the paper best fits:
+            <ul style="margin-top:0; margin-bottom:0; padding-left:1em; line-height:1.2;">
+              <li>Vehicle design</li>
+              <li>Planning & control</li>
+              <li>Navigation & sensing</li>
+              <li>Operations communication & data management</li>
+              <li>Science & industrial applications</li>
+            </ul>
+          </li>
+          <li>Please indicate your preferred presentation format:
+            <ul style="margin-top:0; margin-bottom:0; padding-left:1em; line-height:1.2;">
+              <li>Oral (and indicate if poster would be of interest if no oral slots are available)</li>
+              <li>Poster</li>
+            </ul>
+          </li>
+          <li>Upload your pdf. You should receive a confirmation email, if not contact <auv2026@soton.ac.uk></li>
+        </ul>
 
         Authors will be notified by email by 1 March 2026, at which point registration and visa letter details will be available. Full papers (6 pages IEEE conference template) are due 1 July 2026 together with IEEE copyright form. Details available nearer the time.
 
@@ -41,7 +51,7 @@ sections:
         Your data will be handled in accordance with the [UK General Data Protection Regulation](https://www.gov.uk/data-protection) and the [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted). We will only collect data necessary for the abstract review and event coordination process, and it will be stored securely and retained only for as long as necessary.  
         You have the right to access, amend, or request deletion of your data at any time. If your abstract includes information about other individuals, please ensure you have obtained their consent before submission.  
         If you have any questions about how your data will be used, or wish to exercise your rights under data protection law, please contact <auv2026@soton.ac.uk>.
-    
+
         Further details on our privacy policy are are available on the [University of Southampton’s privacy notice page](https://www.southampton.ac.uk/about/governance/regulations-policies/privacy-policy).
 
     design:
@@ -50,7 +60,7 @@ sections:
         image: 
           filename: boatymcboatface_light.png
           filters:
-            brightness: 0.5
+            brightness: 0.3
           parallax: false
           position: center
           size: cover
