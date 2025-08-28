@@ -96,7 +96,7 @@ sections:
       subtitle: ''
       text: |-
 
-        There are two routes to submit you work to AUV2026. Journal track (deadline already past) and standard track. Papers accepted for either route can be presented at the conference.
+        AUV2026 has two tracks for submitting your contributions. Journal track (deadline already past) and standard track (submit abstracts via this page). Papers accepted via either route can be presented at the conference.
         
         | Situation | What to do |
         |-----------|------------|
