@@ -15,7 +15,7 @@ sections:
 
 
         **<span style="color:yellow;">Prepare your abstract</span>**
-        <ul style="margin-top:0; margin-bottom:1.0; padding-left:1.2em; line-height:1.0;">
+        <ul style="margin-top:0; margin-bottom:1.0; padding-left:1.2em; line-height:0.8;">
           <li>Use the <a href="https://www.ieee.org/conferences/publishing/templates">IEEE conference template</a></li>
           <li>A4, English language</li>
           <li>No more than <strong>2 pages</strong> of content (title, author and affiliation, figures and tables)</li>
@@ -28,8 +28,8 @@ sections:
 
 
         **<span style="color:yellow;">Submit your abstract</span>**
-        <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:1.0;">
-          <li>Upload your 2 page + references pdf to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ">SUBMISSION PORTAL</a> before **<span style="color:orange;">1 February 2026**</span></li>
+        <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
+          <li>Upload your 2 page + references pdf to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ" target="_blank">SUBMISSION PORTAL</a> before **<span style="color:orange;">1 February 2026**</span></li>
           <li>Please enter name and details of the presenting author</li>
           <li>Please indicate which topics the paper best fits:
             <ul style="margin-top:0; margin-bottom:0; padding-left:1em; line-height:1.2;">
