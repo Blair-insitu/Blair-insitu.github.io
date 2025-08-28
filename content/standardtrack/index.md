@@ -41,7 +41,7 @@ sections:
     Your data will be handled in accordance with the [UK General Data Protection Regulation](https://www.gov.uk/data-protection) and the [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted). We will only collect data necessary for the abstract review and event coordination process, and it will be stored securely and retained only for as long as necessary.
     You have the right to access, amend, or request deletion of your data at any time. If your abstract includes information about other individuals, please ensure you have obtained their consent before submission.
     If you have any questions about how your data will be used, or wish to exercise your rights under data protection law, please contact (auv2026@soton.ac.uk)[mailto:auv2026@soton.ac.uk].
-    Further details on our privacy policy are are available on the (University of Southampton’s privacy notice page)[https://www.southampton.ac.uk/about/governance/regulations-policies/privacy-policy].
+    Further details on our privacy policy are are available on the (University of Southampton’s privacy notice page)[https://www.southampton.ac.uk/about/governance/regulations-policies/privacy-policy].'
                    
     design:
       columns: '1'
