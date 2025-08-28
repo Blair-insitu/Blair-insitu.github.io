@@ -77,7 +77,7 @@ sections:
         **1 September 2025 - Call for abstract opens**
 
         **1 February 2026 - Abstract submission deadline**
-    - Transfer from the peer-review track to the standard track after this date is possible, subject to the agreement of the editors, technical committee and authors     
+            Transfer from the peer-review track to the standard track after this date is possible, subject to the agreement of the editors, technical committee and authors     
 
         **1 March 2026 - Notification of acceptance**
 
