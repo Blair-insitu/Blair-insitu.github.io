@@ -1,5 +1,5 @@
 ---
-title: Standard Track
+title: Standard Track - CALL FOR ABSTRACTS LIVE
 date: 2025-08-28
 
 type: landing
