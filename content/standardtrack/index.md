@@ -1,5 +1,5 @@
 ---
-title: Standard Track - CALL FOR ABSTRACTS LIVE
+title: Standard Track 
 date: 2025-08-28
 
 type: landing
@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Standard Track
+      title: Standard Track - **<span style="color:yellow;">CALL FOR ABSTRACTS IS LIVE</span>**
       text: |-
         Our standard track consists of an abstract review followed by submission of full length papers of **6 pages or less**.
 
