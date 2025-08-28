@@ -44,7 +44,10 @@ sections:
           <li>Upload your pdf. You should receive a confirmation email, if not contact <auv2026@soton.ac.uk></li>
         </ul>
 
-        Authors will be notified by email by 1 March 2026, at which point registration and visa letter details will be available. Full papers (6 pages IEEE conference template) are due 1 July 2026 together with IEEE copyright form. Details available nearer the time.
+
+
+        **Submited your abstract?**
+    You will be notified by email by 1 March 2026, at which point registration and visa letter details will be available. Full papers (6 pages IEEE conference template) are due 1 July 2026 together with IEEE copyright form. Details available nearer the time.
 
         **Data Protection and Ethics Statement**  
         By submitting your abstract, you consent to the collection and processing of your personal data for the purposes of organising and managing the AUV2026 Conference. This includes communication regarding your submission, inclusion in the conference programme and materials if accepted, and related administrative tasks.  
