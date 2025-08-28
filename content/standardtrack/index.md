@@ -68,7 +68,7 @@ sections:
         image: 
           filename: boatymcboatface_light.png
           filters:
-            brightness: 0.8
+            brightness: 0.2
           parallax: false
           position: center
           size: cover
