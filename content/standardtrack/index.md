@@ -14,7 +14,7 @@ sections:
         **CALL FOR ABSTRACTS - OPEN, deadline 1 February 2026**
 
 
-        **<span style="color:red;">Prepare your abstract</span>**
+        **<span style="color:yellow;">Prepare your abstract</span>**
         <ul style="margin-top:0; margin-bottom:1.0; padding-left:1.2em; line-height:1.0;">
           <li>Use the <a href="https://www.ieee.org/conferences/publishing/templates">IEEE conference template</a></li>
           <li>A4, English language</li>
@@ -22,11 +22,12 @@ sections:
           <li>You may use an <strong>additional page for references only</strong></li>
           <li>Convert your abstract to a <strong>PDF when ready for submission</strong></li>
         </ul>
+        <br><br>
     
 
 
 
-        **<span style="color:red;">Submit your abstract</span>**
+        **<span style="color:yellow;">Submit your abstract</span>**
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:1.0;">
           <li>Upload your 2 page + references pdf to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ">SUBMISSION PORTAL</a> before **<span style="color:red;">1 February 2026**</span></li>
           <li>Please enter name and details of the presenting author</li>
@@ -47,8 +48,10 @@ sections:
           </li>
           <li>Upload your pdf. You should receive a confirmation email, if not contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a></li>
         </ul>
+         <br><br>
 
         **Submitted your abstract?**
+
         You will be notified by email by 1 March 2026, at which point registration and visa letter details will be available. Full papers (6 pages IEEE conference template) are due 1 July 2026 together with IEEE copyright form. Details available nearer the time.
 
         **Data Protection and Ethics Statement**  
