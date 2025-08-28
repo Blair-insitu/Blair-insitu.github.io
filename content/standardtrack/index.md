@@ -11,10 +11,10 @@ sections:
       text: |-
         Our standard track consists of an abstract review followed by submission of full length papers of **6 pages or less**.
 
-        **CALL FOR ABSTRACTS - OPEN UNTIL 1 FEBRUARY 2026**
+        **CALL FOR ABSTRACTS - OPEN, deadline 1 February 2026**
 
         **Prepare your abstract**
-        <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:1.0;">
+        <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:1.2;">
           <li>Use the <a href="https://www.ieee.org/conferences/publishing/templates">IEEE conference template</a></li>
           <li>A4, English language</li>
           <li>No more than <strong>2 pages</strong> of content (title, author and affiliation, figures and tables)</li>
@@ -23,7 +23,7 @@ sections:
         </ul>
 
         **Submit your abstract**
-        <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:1.0;">
+        <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:1.2;">
           <li>Upload your 2 page + references pdf to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ">submission portal</a> before 1 February 2026</li>
           <li>Please enter name and details of the presenting author</li>
           <li>Please indicate which topics the paper best fits:
@@ -41,7 +41,7 @@ sections:
               <li>Poster</li>
             </ul>
           </li>
-          <li>Upload your pdf. You should receive a confirmation email, if not contact <auv2026@soton.ac.uk></li>
+          <li>Upload your pdf. You should receive a confirmation email, if not contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a></li>
         </ul>
 
         **Submitted your abstract?**
@@ -51,7 +51,7 @@ sections:
         By submitting your abstract, you consent to the collection and processing of your personal data for the purposes of organising and managing the AUV2026 Conference. This includes communication regarding your submission, inclusion in the conference programme and materials if accepted, and related administrative tasks.  
         Your data will be handled in accordance with the [UK General Data Protection Regulation](https://www.gov.uk/data-protection) and the [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted). We will only collect data necessary for the abstract review and event coordination process, and it will be stored securely and retained only for as long as necessary.  
         You have the right to access, amend, or request deletion of your data at any time. If your abstract includes information about other individuals, please ensure you have obtained their consent before submission.  
-        If you have any questions about how your data will be used, or wish to exercise your rights under data protection law, please contact <auv2026@soton.ac.uk>.
+        If you have any questions about how your data will be used, or wish to exercise your rights under data protection law, please contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>.
 
         Further details on our privacy policy are are available on the [University of Southampton’s privacy notice page](https://www.southampton.ac.uk/about/governance/regulations-policies/privacy-policy).
 
@@ -77,8 +77,7 @@ sections:
         **1 September 2025 - Call for abstract opens**
 
         **1 February 2026 - Abstract submission deadline**
-
-        Transfer from the peer-review track to the standard track after this date is possible, subject to the agreement of the editors, technical committee and authors     
+    - Transfer from the peer-review track to the standard track after this date is possible, subject to the agreement of the editors, technical committee and authors     
 
         **1 March 2026 - Notification of acceptance**
 
