@@ -10,7 +10,8 @@ sections:
       title: Venue and Travel Information
 
       text: 
-         'The symposium will be held in Southampton, UK at the National Oceanography Centre (NOC)  (Southampton University Waterfront campus).  Located within the bustling port of Southampton widely know as the Cruise Capital of the UK. Close to the city centre with good transport links. 
+         'The symposium will be held in Southampton, UK at the National Oceanography Centre (NOC)  (Southampton University Waterfront campus), located within the port of Southampton, near the city centre with good transport links. 
+
 
          **Southampton** is a major port on the south coast of England and has a long maritime history. It has a museum partly devoted to the story of the Titanic which sailed from Southampton on its ill-fated maiden voyage in 1912. Close by is the beautiful ‘New Forest’ which was first recorded in the Domesday Book in 1086, and was a vital source of timber for the ship building industry in bygone years. The historic cities of Winchester and Salisbury, and the world heritage site Stonehenge are within easy reach by public transport.'  
 
