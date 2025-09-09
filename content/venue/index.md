@@ -34,10 +34,18 @@ sections:
          '**Southampton** is a major port on the south coast of England and has a long maritime history. It has a museum partly devoted to the story of the Titanic which sailed from Southampton on its ill-fated maiden voyage in 1912. Close by is the beautiful ‘New Forest’ which was first recorded in the Domesday Book in 1086, and was a vital source of timber for the ship building industry in bygone years. The historic cities of Winchester and Salisbury, and the world heritage site Stonehenge are within easy reach by public transport.
 
 
-          **Getting here:**
+          ## Getting here
+
+          Southampton and the National Oceanography Centre have excellent travel links, including main line train station and International Airport,  details are available by [clicking here](https://noc.ac.uk/about-us/contact-us)  
 
 
-          Southampton and the National Oceanography Centre have excellent travel links, including main line train station and International Airport,  details are available by [clicking here](https://noc.ac.uk/about-us/contact-us)'  
+          ## Accomodation
+
+          Information on local hotels will be provided nearer the time.
+
+          ## VISA letters
+
+          Information about UK visa requirements is available via the [government website](https://www.gov.uk/browse/visas-immigration). Letters will be made available to registered authors of accepted papers on request.'
 
     design:
       columns: '1'

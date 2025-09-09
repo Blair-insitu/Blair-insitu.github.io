@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AUV2026, Southampton</title>
-    <link>https://auv2026-southampton.com/</link>
-      <atom:link href="https://auv2026-southampton.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>AUV2026, Southampton</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://auv2026-southampton.com/media/icon_hu_2c847a22f61cca1a.png</url>
+      <url>http://localhost:1313/media/icon_hu_2c847a22f61cca1a.png</url>
       <title>AUV2026, Southampton</title>
-      <link>https://auv2026-southampton.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Example Event</title>
-      <link>https://auv2026-southampton.com/event/example/</link>
+      <link>http://localhost:1313/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://auv2026-southampton.com/event/example/</guid>
+      <guid>http://localhost:1313/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -28,58 +28,66 @@
     </item>
     
     <item>
-      <title>Industry</title>
-      <link>https://auv2026-southampton.com/industry/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://auv2026-southampton.com/industry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Organisors</title>
-      <link>https://auv2026-southampton.com/organisors/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://auv2026-southampton.com/organisors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peer Review Track</title>
-      <link>https://auv2026-southampton.com/journaltrack/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://auv2026-southampton.com/journaltrack/</guid>
+      <title>Registration</title>
+      <link>http://localhost:1313/registration/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/registration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Standard Track</title>
-      <link>https://auv2026-southampton.com/standardtrack/</link>
+      <link>http://localhost:1313/standardtrack/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/standardtrack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peer Review Track</title>
+      <link>http://localhost:1313/journaltrack/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/journaltrack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry</title>
+      <link>http://localhost:1313/industry/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://auv2026-southampton.com/standardtrack/</guid>
+      <guid>http://localhost:1313/industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organisers</title>
+      <link>http://localhost:1313/organisers/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/organisers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topics</title>
-      <link>https://auv2026-southampton.com/topics/</link>
+      <link>http://localhost:1313/topics/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://auv2026-southampton.com/topics/</guid>
+      <guid>http://localhost:1313/topics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>venue</title>
-      <link>https://auv2026-southampton.com/venue/</link>
+      <link>http://localhost:1313/venue/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://auv2026-southampton.com/venue/</guid>
+      <guid>http://localhost:1313/venue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://auv2026-southampton.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://auv2026-southampton.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
     

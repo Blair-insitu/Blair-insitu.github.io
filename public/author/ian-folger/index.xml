@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ian Folger | AUV2026, Southampton</title>
-    <link>https://auv2026-southampton.com/author/ian-folger/</link>
-      <atom:link href="https://auv2026-southampton.com/author/ian-folger/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/ian-folger/</link>
+      <atom:link href="http://localhost:1313/author/ian-folger/index.xml" rel="self" type="application/rss+xml" />
     <description>Ian Folger</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://auv2026-southampton.com/author/ian-folger/avatar_hu_10546ef7a33f993d.jpg</url>
+      <url>http://localhost:1313/author/ian-folger/avatar_hu_10546ef7a33f993d.jpg</url>
       <title>Ian Folger</title>
-      <link>https://auv2026-southampton.com/author/ian-folger/</link>
+      <link>http://localhost:1313/author/ian-folger/</link>
     </image>
     
   </channel>

@@ -2,80 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://auv2026-southampton.com/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/</loc>
+    <loc>http://localhost:1313/registration/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/standardtrack/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/journaltrack/</loc>
+    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/industry/</loc>
+    <loc>http://localhost:1313/industry/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/organisors/</loc>
+    <loc>http://localhost:1313/organisers/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/journaltrack/</loc>
+    <loc>http://localhost:1313/topics/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/standardtrack/</loc>
+    <loc>http://localhost:1313/venue/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/topics/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://auv2026-southampton.com/venue/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://auv2026-southampton.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/author/alexander-phillips/</loc>
+    <loc>http://localhost:1313/author/adrian-bodenmann/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/authors/</loc>
+    <loc>http://localhost:1313/author/alexander-phillips/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/author/blair-thornton/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/categories/</loc>
+    <loc>http://localhost:1313/author/blair-thornton/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/author/ian-folger/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/author/nick-townsend/</loc>
+    <loc>http://localhost:1313/author/ian-folger/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/publication_types/</loc>
+    <loc>http://localhost:1313/author/nick-townsend/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/author/sara-bernardini/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/author/sue-brindle/</loc>
+    <loc>http://localhost:1313/author/sara-bernardini/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/tags/</loc>
+    <loc>http://localhost:1313/author/sue-brindle/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/author/yogang-singh/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://auv2026-southampton.com/author/yvan-petillot/</loc>
+    <loc>http://localhost:1313/author/yogang-singh/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/yvan-petillot/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

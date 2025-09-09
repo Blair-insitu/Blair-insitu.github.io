@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yogang Singh | AUV2026, Southampton</title>
-    <link>https://auv2026-southampton.com/author/yogang-singh/</link>
-      <atom:link href="https://auv2026-southampton.com/author/yogang-singh/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yogang-singh/</link>
+      <atom:link href="http://localhost:1313/author/yogang-singh/index.xml" rel="self" type="application/rss+xml" />
     <description>Yogang Singh</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://auv2026-southampton.com/author/yogang-singh/avatar_hu_85cd22d85b78a9ab.jpg</url>
+      <url>http://localhost:1313/author/yogang-singh/avatar_hu_85cd22d85b78a9ab.jpg</url>
       <title>Yogang Singh</title>
-      <link>https://auv2026-southampton.com/author/yogang-singh/</link>
+      <link>http://localhost:1313/author/yogang-singh/</link>
     </image>
     
   </channel>

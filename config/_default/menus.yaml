@@ -19,9 +19,12 @@ main:
   - name: Industry
     url: industry
     weight: 50
+  - name: Registration
+    url: registration
+    weight: 60
   - name: Venue
     url: venue
-    weight: 60
+    weight: 70
   - name: Organisers
     url: organisers
-    weight: 70
+    weight: 80
