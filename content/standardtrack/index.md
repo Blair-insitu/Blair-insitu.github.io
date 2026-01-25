@@ -12,7 +12,7 @@ sections:
         Our standard track consists of an abstract review followed by submission of full length papers of **6 pages or less**. There’s a quick guide on how journal track and standard track submissions relate at the bottom of this page.
 
 
-        **CALL FOR ABSTRACTS - OPEN, deadline 1 February 2026**
+        **CALL FOR ABSTRACTS - OPEN, deadline <s>1 February 2026</s> <b style="color:red;">8 February 2026</b>**
 
         **<span style="color:yellow;">Prepare your abstract</span>**
         <ul style="margin-top:0; margin-bottom:1.0; padding-left:1.2em; line-height:0.8;">
