@@ -80,7 +80,7 @@ sections:
       text: |-
         **1 September 2025 - Call for abstracts opens**
 
-        **1 February 2026 - Abstract submission deadline**          
+        **<s>1 February 2026</s> <b style="color:red;">8 February 2026</b> - Abstract submission deadline**          
 
         **1 March 2026 - Notification of acceptance**
 
