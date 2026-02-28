@@ -63,7 +63,7 @@ sections:
 
   - block: markdown
     content:
-      title: Journal and conference tracks
+      title: Journal and Conference Tracks
       subtitle: ''
       text: |-
         AUV2026 has two tracks for submitting your contributions. Journal track (deadline already past) and standard track (submit via this page). Papers accepted via either route are presented at the symposium.
