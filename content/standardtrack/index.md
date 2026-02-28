@@ -39,7 +39,7 @@ sections:
             <th style="text-align:left; padding:4px;">Date</th>
             <th style="text-align:left; padding:4px;">Event</th>
           </tr>
-        
+
           <tr>
             <td style="padding:4px;"><s>1 September 2025</s></td>
             <td style="padding:4px;"><s>Call for abstracts opens</s></td>
