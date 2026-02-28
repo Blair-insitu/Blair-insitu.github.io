@@ -10,12 +10,12 @@ sections:
       text: |-
         Abstract decisions will be issued by 1 March 2026. Accepted authors are invited to submit a full paper for oral or poster presentation at the symposium as specified in the decision email. Only papers presented at the symposium will be included in the IEEE conference proceedings.
 
-        Visa letters are available on request (contact mailto:auv2026@soton.ac.ukauv2026@soton.ac.uk</a>). If you did not receive a decision email, please contact us. See the quick guide at the bottom of this page for how journal‑track and standard‑track submissions relate.
+        Visa letters are available on request (contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>). If you did not receive a decision email, please contact us. See the quick guide at the bottom of this page for how journal‑track and standard‑track submissions relate.
         <br>
     
         **<span style="color:#C68600;"><strong>Prepare your paper</strong></span>**
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
-          <li>Use the https://www.ieee.org/conferences/publishing/templates</li>
+          <li>Use the <a href="https://www.ieee.org/conferences/publishing/templates" target="_blank">IEEE conference template</a></li>
           <li>A4, English language</li>
           <li>No more than <strong>6 pages</strong> including title, figures, tables, acknoweledgements and references</li>
           <li>Convert your paper to a <strong>PDF</strong> when ready to submit</li>
@@ -25,8 +25,8 @@ sections:
     
         **<span style="color:#C68600;"><strong>Submit: Deadline 1st July 2026</strong></span>**
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
-          <li>Upload a PDF of your paper and a signed static/pdfs/ieeecopyrightform-2.pdfIEEE copyright and consent form</a> to the https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQPAPER PORTAL</a>.</li>
-          <li>You should receive a confirmation email; if not contact mailto:auv2026@soton.ac.ukauv2026@soton.ac.uk</a>.</li>
+          <li>Upload a PDF of your paper and a signed <a href="static/pdfs/ieeecopyrightform-2.pdf" target="_blank">IEEE copyright and consent form</a> to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ" target="_blank">PAPER PORTAL</a>.</li>
+          <li>You should receive a confirmation email; if not contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>.</li>
         </ul>
 
         <br>
@@ -82,10 +82,9 @@ sections:
       title: 
       subtitle: ''
       text: |-
-
         **IEEE Copyright and Consent**
     
-        It is IEEE's policy to own the copyright to the technical contributions it publishes on behalf of the interests of the IEEE, its authors, and their employers, and to facilitate the appropriate reuse of this material by others. To comply with U.S. copyright law, authors are required to sign an IEEE copyright transfer form with the final manuscript. It returns to authors and their employers the full rights to reuse their material for their own purposes. Policies on posting your article online (such as arXiv.org) can be found https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE-Article-Sharing-and-Posting-Policies.pdf.
+        It is IEEE's policy to own the copyright to the technical contributions it publishes on behalf of the interests of the IEEE, its authors, and their employers, and to facilitate the appropriate reuse of this material by others. To comply with U.S. copyright law, authors are required to sign an IEEE copyright transfer form with the final manuscript. It returns to authors and their employers the full rights to reuse their material for their own purposes. Policies on posting your article online (such as arXiv.org) can be found <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE-Article-Sharing-and-Posting-Policies.pdf" target="_blank">here</a>.
 
         <br>
     
@@ -97,9 +96,9 @@ sections:
     
         You have the right to access, amend, or request deletion of your data at any time. If your abstract includes information about other individuals, please ensure you have obtained their consent before submission.
     
-        If you have any questions about how your data will be used, or wish to exercise your rights under data protection law, please contact mailto:auv2026@soton.ac.ukauv2026@soton.ac.uk</a>.
+        If you have any questions about how your data will be used, or wish to exercise your rights under data protection law, please contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>.
 
-        Further details on our privacy policy are available on the University of Southampton’s https://www.southampton.ac.uk/about/governance/regulations-policies/privacy-policy.
+        Further details on our privacy policy are available on the University of Southampton’s <a href="https://www.southampton.ac.uk/about/governance/regulations-policies/privacy-policy" target="_blank">privacy notice page</a>.
     design:
       columns: '1'
 
