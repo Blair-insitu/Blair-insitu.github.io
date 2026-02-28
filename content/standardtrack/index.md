@@ -142,10 +142,10 @@ sections:
     design:
       columns: '1'
    
-  - block: markdown
+- block: markdown
     content:
       title: ''
-    subtitle: ''
+      subtitle: ''
       text: ''
     design:
       columns: '1'
@@ -161,4 +161,3 @@ sections:
       spacing:        
         padding: ['60px', '0', '60px', '0']
       css_class: ""
----
