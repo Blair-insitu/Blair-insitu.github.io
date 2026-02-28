@@ -25,7 +25,7 @@ sections:
 
         **<span style="color:green;"><strong>Submit: Deadline 1st July 2026</strong></span>**
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
-          <li>Upload a PDF of your paper and a signed <a href="static/pdfs/ieeecopyrightform-2.pdf">IEEE copyright and consent form</a> to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ" target="_blank">PAPER PORTAL</a> by <s>1 July 2026</s>.</li>
+          <li>Upload a PDF of your paper and a signed <a href="static/pdfs/ieeecopyrightform-2.pdf">IEEE copyright and consent form</a> to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ" target="_blank">PAPER PORTAL</a>.</li>
           <li>You should receive a confirmation email, if not contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>.</li>
         </ul>
 
