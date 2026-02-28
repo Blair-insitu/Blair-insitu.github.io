@@ -32,51 +32,6 @@ sections:
         
         <br>
         
-        <strong><span style="color:#C68600;">Key Dates</span></strong>
-        
-        <table style="width:100%; border-collapse:collapse; margin-top:0.5em;">
-          <tr>
-            <th style="text-align:left; padding:4px;">Date</th>
-            <th style="text-align:left; padding:4px;">Event</th>
-          </tr>
-
-          <tr>
-            <td style="padding:4px;"><s>1 September 2025</s></td>
-            <td style="padding:4px;"><s>Call for abstracts opens</s></td>
-          </tr>
-        
-          <tr>
-            <td style="padding:4px;">
-              <s>1 February 2026 <b style="color:red;">8 February 2026</b></s>
-            </td>
-            <td style="padding:4px;"><s>Abstract submission deadline</s></td>
-          </tr>
-        
-          <tr>
-            <td style="padding:4px;">1 March 2026</td>
-            <td style="padding:4px;">Notification of acceptance</td>
-          </tr>
-        
-          <tr>
-            <td style="padding:4px;">31 March 2026</td>
-            <td style="padding:4px;">Registration opens</td>
-          </tr>
-        
-          <tr>
-            <td style="padding:4px;">1 July 2026</td>
-            <td style="padding:4px;">Final paper submission</td>
-          </tr>
-        
-          <tr>
-            <td style="padding:4px;">6 July 2026</td>
-            <td style="padding:4px;">Early bird registration deadline</td>
-          </tr>
-        
-          <tr>
-            <td style="padding:4px;">1–3 September 2026</td>
-            <td style="padding:4px;">Symposium dates</td>
-          </tr>
-        </table>
         <!-- 
         **CALL FOR ABSTRACTS - CLOSED, deadline <s>1 February 2026</s> <b style="color:red;"><s>8 February 2026</s></b>**
 
@@ -128,11 +83,13 @@ sections:
         # Keep this modest so the section is only as tall as needed
         padding: ['30px', '0', '30px', '0']
 
+  
   - block: markdown
     content:
       title: 
       subtitle: ''
       text: |-
+
         **IEEE Copyright and Consent**
     
         It is IEEE's policy to own the copyright to the technical contributions it publishes on behalf of the interests of the IEEE, its authors, and their employers, and to facilitate the appropriate reuse of this material by others. To comply with U.S. copyright law, authors are required to sign an IEEE copyright transfer form with the final manuscript. It returns to authors and their employers the full rights to reuse their material for their own purposes. Policies on posting your article online (such as arXiv.org) can be found <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE-Article-Sharing-and-Posting-Policies.pdf" target="_blank">here</a>.
@@ -153,6 +110,26 @@ sections:
     design:
       columns: '1'
 
+- block: markdown
+    content:
+      title: Key Dates
+      subtitle: ''
+      text: |-
+
+            | Date | Event |
+            |------|--------|
+            | 1 September 2025 | <s>Call for abstracts opens</s> |
+            | <s>1 February 2026</s> <b style="color:red;">8 February 2026</b> | <s>Abstract submission deadline</s> |
+            | 1 March 2026 | Notification of acceptance |
+            | 31 March 2026 | Registration opens |
+            | 1 July 2026 | Final paper submission |
+            | 6 July 2026 | Early bird registration deadline |
+            | 1–3 September 2026 | Symposium dates |
+
+    design:
+      columns: '1'
+
+    
   - block: markdown
     content:
       title: Journal track and standard track
@@ -169,7 +146,7 @@ sections:
     design:
       columns: '1'
    
-  # 5) Sponsors image strip at the bottom
+  
   - block: markdown
     content:
       title: ''
@@ -187,6 +164,6 @@ sections:
           size: auto
           text_color_light: true
       spacing:        
-        padding: ['10px', '0', '10px', '0']
+        padding: ['60px', '0', '60px', '0']
       css_class: ""
 ---
