@@ -125,10 +125,9 @@ sections:
             | 1 July 2026 | Final paper submission |
             | 6 July 2026 | Early bird registration deadline |
             | 1–3 September 2026 | Symposium dates |
-
     design:
       columns: '1'
-
+  
     
   - block: markdown
     content:
