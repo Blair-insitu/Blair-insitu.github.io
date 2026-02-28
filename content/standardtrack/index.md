@@ -30,8 +30,6 @@ sections:
         <br><br>
 
 
-qA±§§
-
         **CALL FOR ABSTRACTS - CLOSED, deadline <s>1 February 2026</s> <b style="color:red;"><s>8 February 2026</s></b> **
 
         **<span style="color:yellow;"><s>Prepare your abstract</s></span>**
