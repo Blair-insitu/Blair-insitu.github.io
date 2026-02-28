@@ -13,7 +13,7 @@ sections:
 
         Visa letters are available on request (contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>). If you did not receive a decision email, please contact us. See the quick guide at the bottom of this page for how journal‑track and standard‑track submissions relate.
     
-        **<span style="color:white;"><strong>Prepare your paper</strong></span>**
+        **<span style="color:#FFD700;"><strong>Prepare your paper</strong></span>**
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
           <li>Use the <a href="https://www.ieee.org/conferences/publishing/templates">IEEE conference template</a></li>
           <li>A4, English language</li>
@@ -23,7 +23,7 @@ sections:
 
         <br><br>
 
-        **<span style="color:white;"><strong>Submit: Deadline 1st July 2026</strong></span>**
+        **<span style="color:#FFD700;"><strong>Submit: Deadline 1st July 2026</strong></span>**
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
           <li>Upload a PDF of your paper and a signed <a href="static/pdfs/ieeecopyrightform-2.pdf">IEEE copyright and consent form</a> to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ" target="_blank">PAPER PORTAL</a>.</li>
           <li>You should receive a confirmation email, if not contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>.</li>
