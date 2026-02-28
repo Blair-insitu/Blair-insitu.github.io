@@ -29,17 +29,54 @@ sections:
           <li>Upload a PDF of your paper and a signed <a href="static/pdfs/ieeecopyrightform-2.pdf">IEEE copyright and consent form</a> to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ" target="_blank">PAPER PORTAL</a>.</li>
           <li>You should receive a confirmation email, if not contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>.</li>
         </ul>
-
-        **<span style="color:#C68600;"><strong>Key Dates</strong></span>**
-        <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
-        <li><s>**1 September 2025 - Call for abstracts opens**</s></li>
-        <li><s>1 February 2026 <b style="color:red;">8 February 2026</b> - Abstract submission deadline</s></li>
-        <li>1 March 2026 - Notification of acceptance</li>
-        <li>31 Marck 2026 - Registration opens**</li>
-        <li>1 July 2026 - Final paper submission**</li>
-        <li>6 July 2026 - Early bird registration deadline**</li>
-        <li>1 - 3 September 2026 - Symposium Dates</li>
-
+        
+        <br>
+        
+        <strong><span style="color:#C68600;">Key Dates</span></strong>
+        
+        <table style="width:100%; border-collapse:collapse; margin-top:0.5em;">
+          <tr>
+            <th style="text-align:left; padding:4px;">Date</th>
+            <th style="text-align:left; padding:4px;">Event</th>
+          </tr>
+        
+          <tr>
+            <td style="padding:4px;"><s>1 September 2025</s></td>
+            <td style="padding:4px;"><s>Call for abstracts opens</s></td>
+          </tr>
+        
+          <tr>
+            <td style="padding:4px;">
+              <s>1 February 2026 <b style="color:red;">8 February 2026</b></s>
+            </td>
+            <td style="padding:4px;"><s>Abstract submission deadline</s></td>
+          </tr>
+        
+          <tr>
+            <td style="padding:4px;">1 March 2026</td>
+            <td style="padding:4px;">Notification of acceptance</td>
+          </tr>
+        
+          <tr>
+            <td style="padding:4px;">31 March 2026</td>
+            <td style="padding:4px;">Registration opens</td>
+          </tr>
+        
+          <tr>
+            <td style="padding:4px;">1 July 2026</td>
+            <td style="padding:4px;">Final paper submission</td>
+          </tr>
+        
+          <tr>
+            <td style="padding:4px;">6 July 2026</td>
+            <td style="padding:4px;">Early bird registration deadline</td>
+          </tr>
+        
+          <tr>
+            <td style="padding:4px;">1–3 September 2026</td>
+            <td style="padding:4px;">Symposium dates</td>
+          </tr>
+        </table>
         <!-- 
         **CALL FOR ABSTRACTS - CLOSED, deadline <s>1 February 2026</s> <b style="color:red;"><s>8 February 2026</s></b>**
 
