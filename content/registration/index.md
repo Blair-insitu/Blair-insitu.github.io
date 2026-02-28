@@ -48,11 +48,6 @@ sections:
 
         We have a limited number of places for accompanying guests to join the symposium Gala dinner on Wednesday 2nd September 2026. 
 
-        ## Student Travel Grant
-
-        We are providing grants to partially support travel for student lead authors giving talks or posters. The amount will depend on the travel details and available funds, and will be communicated to students upon notification of abstract acceptance.  
-
-        The grant will be available as a reimbursement on submission of receipts after the conference has finished.
 
     design:
       columns: '1'
