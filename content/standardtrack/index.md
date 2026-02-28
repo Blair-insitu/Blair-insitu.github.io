@@ -97,7 +97,7 @@ sections:
       text: |-
         AUV2026 has two tracks for submitting your contributions. Journal track (deadline already past) and standard track (submit via this page). Papers accepted via either route are presented at the symposium.
 
-        <table style="border-collapse: collapse; width: 50%; margin: auto;">
+        <table style="border-collapse: collapse; width: 80%; margin: auto;">
           <thead>
             <tr>
               <th style="border: 2px solid black; padding: 0.2rem;">Situation</th>
