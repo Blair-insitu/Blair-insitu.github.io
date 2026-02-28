@@ -49,15 +49,44 @@ sections:
       title: Key Dates
       subtitle: ''
       text: |-
-        | Date | Event |
-        |------|--------|
-        | 1 September 2025 | Call for abstracts opens |
-        | <s>1 February 2026</s> <b style="color:red;">8 February 2026</b> | Abstract submission deadline |
-        | 1 March 2026 | Notification of acceptance |
-        | 31 March 2026 | Registration opens |
-        | 1 July 2026 | Final paper submission |
-        | 6 July 2026 | Early bird registration deadline |
-        | 1–3 September 2026 | Symposium dates |
+        <table style="border-collapse: collapse; width: 50%; margin: auto;">
+          <thead>
+            <tr>
+              <th style="border: 2px solid black; padding: 0.2rem;">Date</th>
+              <th style="border: 2px solid black; padding: 0.2rem;">Event</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;">1 September 2025</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">Call for abstracts opens</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;"><s>1 February 2026</s> <b style="color:red;">8 February 2026</b></td>
+              <td style="border: 2px solid black; padding: 0.2rem;">Abstract submission deadline</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;">1 March 2026</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">Notification of acceptance</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;">31 March 2026</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">Registration opens</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;">1 July 2026</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">Final paper submission</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;">6 July 2026</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">Early bird registration deadline</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;">1–3 September 2026</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">Symposium dates</td>
+            </tr>
+          </tbody>
+        </table>
     design:
       columns: '1'
 
