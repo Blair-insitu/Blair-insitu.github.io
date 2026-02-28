@@ -21,17 +21,10 @@ sections:
           <li>Convert your paper to a <strong>PDF</strong> when ready to submit</li>
         </ul>
 
-        <br><br>
-
         **<span style="color:#FFD700;"><strong>Submit: Deadline 1st July 2026</strong></span>**
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
           <li>Upload a PDF of your paper and a signed <a href="static/pdfs/ieeecopyrightform-2.pdf">IEEE copyright and consent form</a> to the <a href="https://southampton.qualtrics.com/jfe/form/SV_es2jQ1nWbpUoZxQ" target="_blank">PAPER PORTAL</a>.</li>
           <li>You should receive a confirmation email, if not contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>.</li>
-        </ul>
-
-        <br><br>
-
-
         </ul>
 
         <!-- 
@@ -45,8 +38,6 @@ sections:
           <li>You may use an <strong>additional page for references only</strong></li>
           <li>Convert your abstract to a <strong>PDF</strong> when ready to submit</li>
         </ul>
-
-        <br><br>
 
         **<span style="color:yellow;">Submit your abstract</span>**
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
@@ -71,10 +62,12 @@ sections:
         </ul>
         -->
 
-        <br><br>
+        <br>
 
         **IEEE Copyright and Consent**
         It is IEEE's policy to own the copyright to the technical contributions it publishes on behalf of the interests of the IEEE, its authors, and their employers, and to facilitate the appropriate reuse of this material by others. To comply with U.S. copyright law, authors are required to sign an IEEE copyright transfer form with the final manuscript. It returns to authors and their employers the full rights to reuse their material for their own purposes. Policies on posting your article online (such as arXiv.org) can be found <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE-Article-Sharing-and-Posting-Policies.pdf" target="_blank">here</a>.</li>
+
+        <br>
 
         **Data Protection and Ethics Statement**  
         By submitting your abstract, you consent to the collection and processing of your personal data for the purposes of organising and managing the AUV2026 Conference. This includes communication regarding your submission, inclusion in the conference programme and materials if accepted, and related administrative tasks.  
