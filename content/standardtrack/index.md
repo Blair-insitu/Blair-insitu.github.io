@@ -96,16 +96,35 @@ sections:
       subtitle: ''
       text: |-
         AUV2026 has two tracks for submitting your contributions. Journal track (deadline already past) and standard track (submit via this page). Papers accepted via either route are presented at the symposium.
-        
-        | Situation | What to do |
-        |-----------|------------|
-        | **Submitted to journal track and accepted** | You will get a presentation slot (oral or poster). |
-        | **Submitted to journal track, not accepted but suitable for conference** | If you accepted to transfer to standard track, shorten your paper to the 6-page limit and submit via this page. You will get a presentation slot (oral or poster). |
-        | **Submitted to journal track, not accepted and not suitable for conference** | Sorry, your paper cannot be presented. |
-        | **Submitting standard track, but want it considered for the journal** | Not possible. |
+
+        <table style="border-collapse: collapse; width: 50%; margin: auto;">
+          <thead>
+            <tr>
+              <th style="border: 2px solid black; padding: 0.2rem;">Situation</th>
+              <th style="border: 2px solid black; padding: 0.2rem;">What to do</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;"><strong>Submitted to journal track and accepted</strong></td>
+              <td style="border: 2px solid black; padding: 0.2rem;">You will get a presentation slot (oral or poster).</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;"><strong>Submitted to journal track, not accepted but suitable for conference</strong></td>
+              <td style="border: 2px solid black; padding: 0.2rem;">If you accepted to transfer to standard track, shorten your paper to the 6-page limit and submit via this page. You will get a presentation slot (oral or poster).</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;"><strong>Submitted to journal track, not accepted and not suitable for conference</strong></td>
+              <td style="border: 2px solid black; padding: 0.2rem;">Sorry, your paper cannot be presented.</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;"><strong>Submitting standard track, but want it considered for the journal</strong></td>
+              <td style="border: 2px solid black; padding: 0.2rem;">Not possible.</td>
+            </tr>
+          </tbody>
+        </table>
     design:
       columns: '1'
-
   - block: markdown
     content:
       title: 
