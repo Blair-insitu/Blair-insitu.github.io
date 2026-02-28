@@ -50,8 +50,7 @@ sections:
       spacing:
         # Keep modest padding so the section isn’t taller than needed
         padding: ['40px', '0', '40px', '0']
-
-  # 2) Additional Information (now below the Boaty section)
+  
   - block: markdown
     content:
       title: Additional Information
@@ -76,8 +75,7 @@ sections:
         Further details on our privacy policy are available on the University of Southampton’s <a href="https://www.southampton.ac.uk/about/governance/regulations-policies/privacy-policy" target="_blank">privacy notice page</a>.
     design:
       columns: '1'
-
-  # 3) Key Dates (unchanged)
+  
   - block: markdown
     content:
       title: Key Dates
@@ -95,7 +93,6 @@ sections:
     design:
       columns: '1'
 
-  # 4) Journal vs Standard (unchanged)
   - block: markdown
     content:
       title: Journal track and standard track
@@ -113,8 +110,7 @@ sections:
         | **Submitting standard track, but want it considered for the journal** | Not possible—the journal deadline has passed. |
     design:
       columns: '1'
-
-  # 5) Sponsors image strip (appears at the bottom)
+  
   - block: markdown
     content:
       title: ''
