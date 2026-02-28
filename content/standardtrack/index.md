@@ -46,13 +46,13 @@ sections:
 
   - block: markdown
     content:
-      title: 
+      title: Key Date
       subtitle: ''
       text: |-
-        | Key Dates | Event |
+        | Dates | Event |
         |------|--------|
         | 1 September 2025 | Call for abstracts opens |
-        | <s>1 February 2026</s> <b style="color:red;"><s>8 February 2026</s></b> | Abstract submission deadline |
+        | <s>1 February 2026</s> <b style="color:red;">8 February 2026</b> | Abstract submission deadline |
         | 1 March 2026 | Notification of acceptance |
         | 31 March 2026 | Registration opens |
         | 1 July 2026 | Final paper submission |
@@ -63,7 +63,7 @@ sections:
 
   - block: markdown
     content:
-      title: 
+      title: Journal and conference tracks
       subtitle: ''
       text: |-
         AUV2026 has two tracks for submitting your contributions. Journal track (deadline already past) and standard track (submit via this page). Papers accepted via either route are presented at the symposium.
