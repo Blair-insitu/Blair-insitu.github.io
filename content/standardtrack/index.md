@@ -67,23 +67,6 @@ sections:
 
         <br>
 
-        **IEEE Copyright and Consent**
-    
-        It is IEEE's policy to own the copyright to the technical contributions it publishes on behalf of the interests of the IEEE, its authors, and their employers, and to facilitate the appropriate reuse of this material by others. To comply with U.S. copyright law, authors are required to sign an IEEE copyright transfer form with the final manuscript. It returns to authors and their employers the full rights to reuse their material for their own purposes. Policies on posting your article online (such as arXiv.org) can be found <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE-Article-Sharing-and-Posting-Policies.pdf" target="_blank">here</a>.
-
-        <br>
-
-        **Data Protection and Ethics Statement**
-    
-        By submitting your abstract, you consent to the collection and processing of your personal data for the purposes of organising and managing the AUV2026 Conference. This includes communication regarding your submission, inclusion in the conference programme and materials if accepted, and related administrative tasks.
-    
-        Your data will be handled in accordance with the UK General Data Protection Regulation and the Data Protection Act 2018. We will only collect data necessary for the abstract review and event coordination process, and it will be stored securely and retained only for as long as necessary.
-    
-        You have the right to access, amend, or request deletion of your data at any time. If your abstract includes information about other individuals, please ensure you have obtained their consent before submission.
-    
-        If you have any questions about how your data will be used, or wish to exercise your rights under data protection law, please contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>.
-
-        Further details on our privacy policy are available on the University of Southampton’s privacy notice <a href="https://www.southampton.ac.uk/about/governance/regulations-policies/privacy-policy" target="_blank">page</a>.
     design:
       columns: '1'
       background:
@@ -97,4 +80,47 @@ sections:
           text_color_light: true
       spacing:
         padding: ['50px', '0', '50px', '0']
+---
+
+
+  - block: markdown
+    content:
+      title: Key Dates
+      subtitle: ''
+      text: **IEEE Copyright and Consent**
+    
+        It is IEEE's policy to own the copyright to the technical contributions it publishes on behalf of the interests of the IEEE, its authors, and their employers, and to facilitate the appropriate reuse of this material by others. To comply with U.S. copyright law, authors are required to sign an IEEE copyright transfer form with the final manuscript. It returns to authors and their employers the full rights to reuse their material for their own purposes. Policies on posting your article online (such as arXiv.org) can be found <a href="https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE-Article-Sharing-and-Posting-Policies.pdf" target="_blank">here</a>.
+
+        <br>
+    
+        **Data Protection and Ethics Statement**
+    
+        By submitting your abstract, you consent to the collection and processing of your personal data for the purposes of organising and managing the AUV2026 Conference. This includes communication regarding your submission, inclusion in the conference programme and materials if accepted, and related administrative tasks.
+    
+        Your data will be handled in accordance with the UK General Data Protection Regulation and the Data Protection Act 2018. We will only collect data necessary for the abstract review and event coordination process, and it will be stored securely and retained only for as long as necessary.
+    
+        You have the right to access, amend, or request deletion of your data at any time. If your abstract includes information about other individuals, please ensure you have obtained their consent before submission.
+    
+        If you have any questions about how your data will be used, or wish to exercise your rights under data protection law, please contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>.
+
+        Further details on our privacy policy are available on the University of Southampton’s privacy notice <a href="https://www.southampton.ac.uk/about/governance/regulations-policies/privacy-policy" target="_blank">page</a>.       
+
+      columns: '1'
+      
+  - block: markdown
+
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: sponsors_d.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: auto
+          text_color_light: true
+      spacing:
+        padding: ['-300px', '0', '-300px', '0']
+      css_class:
 ---
