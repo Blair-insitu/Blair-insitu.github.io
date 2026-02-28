@@ -11,7 +11,7 @@ sections:
       text: |-
         Abstract decisions will be issued by 1 March 2026. Accepted authors are invited to submit a full paper for oral or poster presentation at the symposium as specified in the decision email. Only papers presented at the symposium will be included in the IEEE conference proceedings.
 
-    Visa letters are available on request (contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>). If you did not receive a decision email, please contact us. See the quick guide at the bottom of this page for how journal‑track and standard‑track submissions relate.
+        Visa letters are available on request (contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>). If you did not receive a decision email, please contact us. See the quick guide at the bottom of this page for how journal‑track and standard‑track submissions relate.
     
         **<span style="color:yellow;">Prepare your paper</span>**
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">        
