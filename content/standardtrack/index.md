@@ -23,6 +23,7 @@ sections:
         </ul>
 
         <br>
+        <br>
     
         **<span style="color:#DAA520;"><strong>Submit: Deadline 1st July 2026</strong></span>**
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
@@ -85,7 +86,7 @@ sections:
         image: 
           filename: boatymcboatface_light.png
           filters:
-            brightness: 0.3
+            brightness: 0.5
           parallax: false
           position: center
           size: cover
