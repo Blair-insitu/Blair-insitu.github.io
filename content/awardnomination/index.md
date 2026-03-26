@@ -15,7 +15,6 @@ sections:
 
     Nominations must be received using the [nomination form](https://forms.office.com/e/xe3TRnMLeq) by the 6th July 2026. The awards will be presented at AUV 2026.
 
-        
     design:
       columns: '1'
       background:
