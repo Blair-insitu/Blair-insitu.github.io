@@ -58,6 +58,7 @@ Information about the **peer-review track** and the **standard track** can be fo
 
           <!-- Column 1: Sonardyne -->
           <div>
+            <img src="/sonardyne.png" style="width:100%; height:auto;">
             <h3><strong>Sonardyne</strong></h3>
             <p>
             Sonardyne has built a reputation for innovation, reliability, and technical excellence, 
@@ -68,11 +69,12 @@ Information about the **peer-review track** and the **standard track** can be fo
           science, Sonardyne’s portfolio of acoustic, optical, and sonar technologies plays a critical 
           role in expanding and supporting the safe and effective operation of marine systems worldwide.
             </p>
-            <img src="/sonardyne.png" style="width:100%; height:auto;">
+            
           </div>
 
           <!-- Column 2: Cellula Robotics -->
           <div>
+            <img src="/cellularobotics.png" style="width:100%; height:auto;">
             <h3><strong>Cellula Robotics</strong></h3>
             <p>
             As a key sponsor of AUV2026, Cellula Robotics brings deep expertise in long-range 
@@ -83,8 +85,7 @@ Information about the **peer-review track** and the **standard track** can be fo
           persistent subsea monitoring and mission-critical operations. Their focus on reliability, 
           collaboration, and real-world deployment makes them a valuable contributor to the advancement 
           of autonomous submersible robotics.
-            </p>
-            <img src="/cellularobotics.png" style="width:100%; height:auto;">
+            </p>            
           </div>
 
         </div>
