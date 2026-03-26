@@ -57,13 +57,14 @@ Information about the **peer-review track** and the **standard track** can be fo
           **Sonardyne**
 
           Sonardyne has built a reputation for innovation, reliability, and technical excellence, and is a key sponsor for AUV 2026. With over 50 years of experience at the forefront of underwater technology, Sonardyne engineers, manufactures, and supports advanced solutions that enable precise navigation, positioning, communication, and data acquisition in subsea environments. Operating in sectors spanning offshore energy, maritime defence, and ocean science, Sonardyne’s portfolio of acoustic, optical, and sonar technologies plays a critical role in expanding and supporting the safe and effective operation of marine systems worldwide.
-        ![](sonardyne.png)
+            <img src="/sonardyne.png" alt="Industry Package" style="width: 100%; height: auto;">
+
 
           ___
           **Cellula Robotics**
 
           As a key sponsor of AUV 2026, Cellula Robotics brings deep expertise in long-range autonomous underwater vehicle (AUV) systems and integrated subsea solutions. With operations spanning Canada, the USA, and the UK, Cellula supports defence, security, environmental, and surveying applications to address the world’s most complex maritime challenges. The company specialises in hydrogen fuel cell-powered, long-endurance AUV platforms designed for persistent subsea monitoring and mission-critical operations. Their focus on reliability, collaboration, and real-world deployment makes them a valuable contributor to the advancement of autonomous submersible robotics.
-        ![](cellula.png)
+            <img src="/cellula.png" alt="Industry Package" style="width: 100%; height: auto;">
 
     design:
       columns: '2' 
