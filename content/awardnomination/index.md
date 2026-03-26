@@ -15,7 +15,7 @@ sections:
         image: 
           filename: floatymcfloatface.png
           filters:
-            brightness: 0.4
+            brightness: 0.8
           parallax: false
           position: center
           size: cover
