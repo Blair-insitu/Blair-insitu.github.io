@@ -42,7 +42,7 @@ sections:
               <td style="border: 2px solid black; padding: 0.2rem;">£220</td>
               <td style="border: 2px solid black; padding: 0.2rem;">£195</td>
             </tr>
-              <td style="border: 2px solid black; padding: 0.2rem;">Additional gala dinner</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">Additional gala dinner guest</td>
               <td style="border: 2px solid black; padding: 0.2rem;">£150</td>
               <td style="border: 2px solid black; padding: 0.2rem;">£150</td>
             </tr>    
