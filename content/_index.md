@@ -64,7 +64,7 @@ Information about the **peer-review track** and the **standard track** can be fo
           **Cellula Robotics**
 
           As a key sponsor of AUV 2026, Cellula Robotics brings deep expertise in long-range autonomous underwater vehicle (AUV) systems and integrated subsea solutions. With operations spanning Canada, the USA, and the UK, Cellula supports defence, security, environmental, and surveying applications to address the world’s most complex maritime challenges. The company specialises in hydrogen fuel cell-powered, long-endurance AUV platforms designed for persistent subsea monitoring and mission-critical operations. Their focus on reliability, collaboration, and real-world deployment makes them a valuable contributor to the advancement of autonomous submersible robotics.
-            <img src="/cellula.png" alt="Industry Package" style="width: 100%; height: auto;">
+            <img src="/cellularobotics.png" alt="Industry Package" style="width: 100%; height: auto;">
 
     design:
       columns: '2' 
