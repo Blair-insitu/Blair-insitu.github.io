@@ -13,7 +13,7 @@ sections:
 
           Rising Star Award: This award is to honor mid-career researchers and faculty that have made a demonstrable difference to our field and have the potential of continuing on the stellar track that they are following.
 
-          Nominations must be received using the [nomination form](https://forms.office.com/e/xe3TRnMLeq) by the 6th July 2026. The awards will be presented at AUV 2026.
+          Nominations must be received using the [nomination form](https://forms.office.com/e/xe3TRnMLeq) by the **6th July 2026** for consideration by the award committee. The awards will be presented at AUV 2026.
 
     design:
       columns: '1'
