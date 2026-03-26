@@ -13,7 +13,7 @@ sections:
 
         Details of the programme will be posted here.
 
-        - **Posters:** Fit a A0 landscape poster board. Printed posters should be brought to the venue.
+        - **Posters:** Fit a A0 portrait poster board. Printed posters should be brought to the venue.
 
         - **Presentations:** 12 minutes + 3minutes for questions. There will be a windows PC with the latest version of microsoft powerpoint and adobe PDF installed. Upload presentation before the start of your session. There will also be an HDMI input if you prefer to use your own laptop. Please coordinate with your session chair.
 
