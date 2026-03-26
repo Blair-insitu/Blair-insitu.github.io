@@ -19,7 +19,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: floatymcfloatface.png
+          filename: floatymcfloatface_light.png
           filters:
             brightness: 0.8
           parallax: false
