@@ -50,33 +50,32 @@ Information about the **peer-review track** and the **standard track** can be fo
       columns: '1' 
 
 
-- block: markdown
-  content:
-    title: AUV2026 gratefully acknowledges our event partners
-    text: |
+  - block: markdown
+    content:
+      title: AUV2026 gratefully acknowledges our event partners
+      text: |
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start;">
 
-      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start;">
-
-        <!-- Column 1: Sonardyne -->
-        <div>
-          <h3><strong>Sonardyne</strong></h3>
-          <p>
-          Sonardyne has built a reputation for innovation, reliability, and technical excellence, 
+          <!-- Column 1: Sonardyne -->
+          <div>
+            <h3><strong>Sonardyne</strong></h3>
+            <p>
+            Sonardyne has built a reputation for innovation, reliability, and technical excellence, 
           and is a key sponsor for AUV 2026. With over 50 years of experience at the forefront of 
           underwater technology, Sonardyne engineers, manufactures, and supports advanced solutions 
           that enable precise navigation, positioning, communication, and data acquisition in subsea 
           environments. Operating in sectors spanning offshore energy, maritime defence, and ocean 
           science, Sonardyne’s portfolio of acoustic, optical, and sonar technologies plays a critical 
           role in expanding and supporting the safe and effective operation of marine systems worldwide.
-          </p>
-          <img src="/sonardyne.png" style="width:100%; height:auto;">
-        </div>
+            </p>
+            <img src="/sonardyne.png" style="width:100%; height:auto;">
+          </div>
 
-        <!-- Column 2: Cellula Robotics -->
-        <div>
-          <h3><strong>Cellula Robotics</strong></h3>
-          <p>
-          As a key sponsor of AUV 2026, Cellula Robotics brings deep expertise in long-range 
+          <!-- Column 2: Cellula Robotics -->
+          <div>
+            <h3><strong>Cellula Robotics</strong></h3>
+            <p>
+            As a key sponsor of AUV2026, Cellula Robotics brings deep expertise in long-range 
           autonomous underwater vehicle (AUV) systems and integrated subsea solutions. With operations 
           spanning Canada, the USA, and the UK, Cellula supports defence, security, environmental, and 
           surveying applications to address the world’s most complex maritime challenges. The company 
@@ -84,15 +83,14 @@ Information about the **peer-review track** and the **standard track** can be fo
           persistent subsea monitoring and mission-critical operations. Their focus on reliability, 
           collaboration, and real-world deployment makes them a valuable contributor to the advancement 
           of autonomous submersible robotics.
-          </p>
-          <img src="/cellularobotics.png" style="width:100%; height:auto;">
+            </p>
+            <img src="/cellularobotics.png" style="width:100%; height:auto;">
+          </div>
+
         </div>
+    design:
+      columns: '1'
 
-      </div>
-  design:
-    columns: '1'
-
-    
 
   - block: markdown
 
