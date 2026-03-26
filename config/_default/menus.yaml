@@ -10,21 +10,27 @@ main:
   - name: Topics
     url: topics
     weight: 20
+  - name: Technical programme
+    url: technicalprogramme
+    weight: 30
   - name: Journal track
     url: journaltrack
-    weight: 30
+    weight: 40
   - name: Standard track
     url: standardtrack
-    weight: 40
+    weight: 50
   - name: Industry
     url: industry
-    weight: 50
+    weight: 60
+  - name: Award nomination
+    url: awardnomination
+    weight: 70
   - name: Registration
     url: registration
-    weight: 60
+    weight: 80
   - name: Venue
     url: venue
-    weight: 70
+    weight: 90
   - name: Organisers
     url: organisers
-    weight: 80
+    weight: 99
