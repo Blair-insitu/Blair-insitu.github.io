@@ -11,7 +11,7 @@ sections:
 
         ## Fees
 
-        Pricing details are as follows, where the early bird deadline will be Monday 6th July 2026.
+        Pricing details are as follows, where the early bird deadline will be Monday 6th July 2026. When registering, please indicate if you would like to join a Marine Autonomony and Robotic Systems (MARS) facility tour.
 
         <table style="border-collapse: collapse; width: 50%; margin: auto;">
           <thead>
@@ -42,6 +42,10 @@ sections:
               <td style="border: 2px solid black; padding: 0.2rem;">£220</td>
               <td style="border: 2px solid black; padding: 0.2rem;">£195</td>
             </tr>
+              <td style="border: 2px solid black; padding: 0.2rem;">Additional gala dinner</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">£150</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">£150</td>
+            </tr>    
           </tbody>
         </table>
 
