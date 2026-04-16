@@ -32,83 +32,85 @@ sections:
           text_color_light: false
       spacing:
         padding: ['100px', '0', '100px', '0']
-- block: markdown
-  content:
-    title: Keynotes
-    text: |
-      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start;">
 
-        <!-- Column 1: Gwyn Griffiths -->
-        <div>
-          <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
-
-          <table style="width:100%; border-collapse: collapse;">
-            <tr>
-              <td style="vertical-align: top; width: 5.5cm; padding-right: 20px;">
-                <img src="/Gwyn%20Griffiths.jpg" style="height:5cm; width:auto;">
-              </td>
-              <td style="vertical-align: top;">
-                Gwyn was Chief Technologist and founder of the Marine Autonomous and Robotic Systems group
-                at the UK National Oceanography Centre and Professor of Underwater Systems Engineering
-                at the University of Southampton until 2012. His involvement with the Autosub programme
-                and AUVs began in 1989 with an assessment of the mission control requirements. Responsible
-                primarily for strategic direction and, with the science community, creating funding
-                opportunities, he also championed new approaches to AUV risk management. Awards include
-                the SUT President's Award in 2010 and the IEEE OES Distinguished Technical Achievement
-                Award in 2013. He was inducted as a Member of the Order of the British Empire (MBE) by
-                Queen Elizabeth II in 2015. He continues to publish on the history of AUVs.
-              </td>
-            </tr>
-
-            <tr>
-              <td colspan="2" style="padding-top: 10px;">
-                <strong>Autosub under ice: A story of large risks, great people and great science</strong>
-                <br>
-                The scientific case for using autonomous underwater vehicles (AUVs) under ice to gather
-                information on the ice itself, the water beneath, and the seabed terrain is truly compelling.
-                It was compelling in 1989 in the scientific requirements for the embryonic Autosub AUV
-                Programme and is even stronger today. This historical perspective covers failures as
-                well as successes, highlighting sustained collaboration, technological maturity, and
-                the need for persistent under‑ice presence with periodic data telemetry.
-              </td>
-            </tr>
-          </table>
+  - block: markdown
+    content:
+      title: Keynotes
+      text: |
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start;">
+  
+          <!-- Column 1: Gwyn Griffiths -->
+          <div>
+            <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
+  
+            <table style="width:100%; border-collapse: collapse;">
+              <tr>
+                <td style="vertical-align: top; width: 5.5cm; padding-right: 20px;">
+                  <img src="/Gwyn%20Griffiths.jpg" style="height:5cm; width:auto;">
+                </td>
+                <td style="vertical-align: top;">
+                  Gwyn was Chief Technologist and founder of the Marine Autonomous and Robotic Systems group
+                  at the UK National Oceanography Centre and Professor of Underwater Systems Engineering
+                  at the University of Southampton until 2012. His involvement with the Autosub programme
+                  and AUVs began in 1989 with an assessment of the mission control requirements. Responsible
+                  primarily for strategic direction and, with the science community, creating funding
+                  opportunities, he also championed new approaches to AUV risk management. Awards include
+                  the SUT President's Award in 2010 and the IEEE OES Distinguished Technical Achievement
+                  Award in 2013. He was inducted as a Member of the Order of the British Empire (MBE) by
+                  Queen Elizabeth II in 2015. He continues to publish on the history of AUVs.
+                </td>
+              </tr>
+  
+              <tr>
+                <td colspan="2" style="padding-top: 10px;">
+                  <strong>Autosub under ice: A story of large risks, great people and great science</strong>
+                  <br>
+                  The scientific case for using autonomous underwater vehicles (AUVs) under ice to gather
+                  information on the ice itself, the water beneath, and the seabed terrain is truly compelling.
+                  It was compelling in 1989 in the scientific requirements for the embryonic Autosub AUV
+                  Programme and is even stronger today. This historical perspective covers failures as
+                  well as successes, highlighting sustained collaboration, technological maturity, and
+                  the need for persistent under‑ice presence with periodic data telemetry.
+                </td>
+              </tr>
+            </table>
+          </div>
+  
+          <!-- Column 2: Dan Hook -->
+          <div>
+            <h3><strong>Dan Hook</strong></h3>
+  
+            <table style="width:100%; border-collapse: collapse;">
+              <tr>
+                <td style="vertical-align: top; width: 5.5cm; padding-right: 20px;">
+                  <img src="/Dan%20Hook.jpg" style="height:5cm; width:auto;">
+                </td>
+                <td style="vertical-align: top;">
+                  Dan trained as a Naval Architect at the University of Southampton. As one of the founders
+                  of ASV Ltd he helped grow the company as a pioneer in USV/ASV development for scientific,
+                  commercial, and defence applications. After selling the business to L3 Harris in 2018
+                  he became CTO of Ocean Infinity, helping to develop the Armada fleet of lean crewed and
+                  uncrewed assets. He was a non‑executive director of the National Oceanography Centre for
+                  six years and a seed investor in several robotics start‑ups. He is currently the CEO of
+                  RAD, developing propulsion and control equipment for surface vessels.
+                </td>
+              </tr>
+  
+              <tr>
+                <td colspan="2" style="padding-top: 10px;">
+                  <strong>USVs – 25 year recap and 5 year look ahead</strong>
+                  <br>
+                  An insightful review of USV development and deployment over the last 25 years, examining
+                  how early innovation has led to the next five years of expected rapid adoption.
+                </td>
+              </tr>
+            </table>
+          </div>
+  
         </div>
-
-        <!-- Column 2: Dan Hook -->
-        <div>
-          <h3><strong>Dan Hook</strong></h3>
-
-          <table style="width:100%; border-collapse: collapse;">
-            <tr>
-              <td style="vertical-align: top; width: 5.5cm; padding-right: 20px;">
-                <img src="/Dan%20Hook.jpg" style="height:5cm; width:auto;">
-              </td>
-              <td style="vertical-align: top;">
-                Dan trained as a Naval Architect at the University of Southampton. As one of the founders
-                of ASV Ltd he helped grow the company as a pioneer in USV/ASV development for scientific,
-                commercial, and defence applications. After selling the business to L3 Harris in 2018
-                he became CTO of Ocean Infinity, helping to develop the Armada fleet of lean crewed and
-                uncrewed assets. He was a non‑executive director of the National Oceanography Centre for
-                six years and a seed investor in several robotics start‑ups. He is currently the CEO of
-                RAD, developing propulsion and control equipment for surface vessels.
-              </td>
-            </tr>
-
-            <tr>
-              <td colspan="2" style="padding-top: 10px;">
-                <strong>USVs – 25 year recap and 5 year look ahead</strong>
-                <br>
-                An insightful review of USV development and deployment over the last 25 years, examining
-                how early innovation has led to the next five years of expected rapid adoption.
-              </td>
-            </tr>
-          </table>
-        </div>
-
-      </div>
-  design:
-    columns: '1'
+    design:
+      columns: '1'
+    
   - block: markdown
     design:
       columns: '1'
