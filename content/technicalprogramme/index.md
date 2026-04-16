@@ -18,6 +18,7 @@ sections:
         - **Presentations:** 12 minutes + 3minutes for questions. There will be a windows PC with the latest version of microsoft powerpoint and adobe PDF installed. Upload presentation before the start of your session. There will also be an HDMI input if you prefer to use your own laptop. Please coordinate with your session chair.
 
         All authors should have been contacted by our technical committee on their presentation format. If you submitted to our Journal or Standard track, and you **are unsure whether/how you will be presenting, get in touch [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk)**
+
     
     design:
       columns: '1'
