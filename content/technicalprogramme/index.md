@@ -34,7 +34,7 @@ sections:
         padding: ['100px', '0', '100px', '0']
   
 
-  - block: markdown
+  - block: html
     content:
       title: Keynotes
       text: |
