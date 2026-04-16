@@ -32,83 +32,83 @@ sections:
           text_color_light: false
       spacing:
         padding: ['100px', '0', '100px', '0']
-
-
-- block: markdown
-  content:
-    title: Keynotes
-    text: |
-      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
-
-        <!-- ===== Keynote 1 ===== -->
-        <div>
-
-          <!-- Photo + Bio -->
-          <div style="display: flex; gap: 20px; align-items: flex-start;">
-            <img src="/Gwyn Griffiths.jpg"
-                 alt="Prof Gwyn Griffiths"
-                 style="height: 5cm; width: auto; object-fit: contain;">
-
-            <div>
-              <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
-              <p>
-                Gwyn was Chief Technologist and founder of the Marine Autonomous and Robotic Systems group
-                at the UK National Oceanography Centre and Professor of Underwater Systems Engineering
-                at the University of Southampton until 2012. His involvement with the Autosub programme
-                began in 1989, focusing on mission control, strategy, funding, and risk management for AUVs.
-              </p>
+  
+  
+  - block: markdown
+    content:
+      title: Keynotes
+      text: |
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
+  
+          <!-- ===== Keynote 1 ===== -->
+          <div>
+  
+            <!-- Photo + Bio -->
+            <div style="display: flex; gap: 20px; align-items: flex-start;">
+              <img src="/Gwyn Griffiths.jpg"
+                   alt="Prof Gwyn Griffiths"
+                   style="height: 5cm; width: auto; object-fit: contain;">
+  
+              <div>
+                <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
+                <p>
+                  Gwyn was Chief Technologist and founder of the Marine Autonomous and Robotic Systems group
+                  at the UK National Oceanography Centre and Professor of Underwater Systems Engineering
+                  at the University of Southampton until 2012. His involvement with the Autosub programme
+                  began in 1989, focusing on mission control, strategy, funding, and risk management for AUVs.
+                </p>
+              </div>
             </div>
+  
+            <!-- Talk title + abstract -->
+            <h4 style="margin-top: 20px;">
+              <strong>Autosub under ice: A story of large risks, great people and great science</strong>
+            </h4>
+            <p>
+              The scientific case for using autonomous underwater vehicles under ice was compelling
+              in 1989 and is even stronger today. This talk reflects on the ambitious Autosub goals,
+              the engineering and strategic challenges encountered, and the lessons learned from both
+              successes and failures. The need for persistent under‑ice presence with reliable telemetry
+              is highlighted as a critical requirement for future environmental science.
+            </p>
+  
           </div>
-
-          <!-- Talk title + abstract -->
-          <h4 style="margin-top: 20px;">
-            <strong>Autosub under ice: A story of large risks, great people and great science</strong>
-          </h4>
-          <p>
-            The scientific case for using autonomous underwater vehicles under ice was compelling
-            in 1989 and is even stronger today. This talk reflects on the ambitious Autosub goals,
-            the engineering and strategic challenges encountered, and the lessons learned from both
-            successes and failures. The need for persistent under‑ice presence with reliable telemetry
-            is highlighted as a critical requirement for future environmental science.
-          </p>
-
-        </div>
-
-        <!-- ===== Keynote 2 ===== -->
-        <div>
-
-          <!-- Photo + Bio -->
-          <div style="display: flex; gap: 20px; align-items: flex-start;">
-            <img src="/Dan Hook.png"
-                 alt="Dan Hook"
-                 style="height: 5cm; width: auto; object-fit: contain;">
-
-            <div>
-              <h3><strong>Dan Hook</strong></h3>
-              <p>
-                Dan trained as a Naval Architect at the University of Southampton and co‑founded ASV Ltd,
-                helping pioneer USV development for scientific, commercial, and defence applications.
-                After ASV’s acquisition by L3 Harris in 2018, he became CTO of Ocean Infinity and later
-                CEO of RAD, developing propulsion and control systems for surface vessels.
-              </p>
+  
+          <!-- ===== Keynote 2 ===== -->
+          <div>
+  
+            <!-- Photo + Bio -->
+            <div style="display: flex; gap: 20px; align-items: flex-start;">
+              <img src="/Dan Hook.png"
+                   alt="Dan Hook"
+                   style="height: 5cm; width: auto; object-fit: contain;">
+  
+              <div>
+                <h3><strong>Dan Hook</strong></h3>
+                <p>
+                  Dan trained as a Naval Architect at the University of Southampton and co‑founded ASV Ltd,
+                  helping pioneer USV development for scientific, commercial, and defence applications.
+                  After ASV’s acquisition by L3 Harris in 2018, he became CTO of Ocean Infinity and later
+                  CEO of RAD, developing propulsion and control systems for surface vessels.
+                </p>
+              </div>
             </div>
+  
+            <!-- Talk title + abstract -->
+            <h4 style="margin-top: 20px;">
+              <strong>USVs – 25 year recap and 5 year look ahead</strong>
+            </h4>
+            <p>
+              An insightful review of USV development and deployment over the last 25 years,
+              examining how early innovation has led to the next five years of accelerated adoption
+              across multiple sectors.
+            </p>
+  
           </div>
-
-          <!-- Talk title + abstract -->
-          <h4 style="margin-top: 20px;">
-            <strong>USVs – 25 year recap and 5 year look ahead</strong>
-          </h4>
-          <p>
-            An insightful review of USV development and deployment over the last 25 years,
-            examining how early innovation has led to the next five years of accelerated adoption
-            across multiple sectors.
-          </p>
-
+  
         </div>
-
-      </div>
-  design:
-    columns: "1"
+    design:
+      columns: "1"
 
 
   - block: markdown
