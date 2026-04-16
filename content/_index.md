@@ -48,47 +48,72 @@ AUV2026 with be held in Southampton, UK between **1-3 September 2026**. In addit
 Information about the **peer-review track** and the **standard track** can be found on this website'
     design:
       columns: '1' 
-
-
+  
   - block: markdown
     content:
-      title: AUV2026 gratefully acknowledges our event partners
+      title: Keynotes
       text: |
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start;">
-
-          <!-- Column 1: Sonardyne -->
-          <div>
-            <img src="/sonardyne.png" style="width:100%; height:auto;">
-            <h3><strong>Sonardyne</strong></h3>
-            <p>
-            Sonardyne has built a reputation for innovation, reliability, and technical excellence, 
-          and is a key sponsor for AUV 2026. With over 50 years of experience at the forefront of 
-          underwater technology, Sonardyne engineers, manufactures, and supports advanced solutions 
-          that enable precise navigation, positioning, communication, and data acquisition in subsea 
-          environments. Operating in sectors spanning offshore energy, maritime defence, and ocean 
-          science, Sonardyne’s portfolio of acoustic, optical, and sonar technologies plays a critical 
-          role in expanding and supporting the safe and effective operation of marine systems worldwide.
-            </p>
-            
-          </div>
-
-          <!-- Column 2: Cellula Robotics -->
-          <div>
-            <img src="/cellularobotics.png" style="width:100%; height:auto;">
-            <h3><strong>Cellula Robotics</strong></h3>
-            <p>
-            As a key sponsor of AUV2026, Cellula Robotics brings deep expertise in long-range 
-          autonomous underwater vehicle (AUV) systems and integrated subsea solutions. With operations 
-          spanning Canada, the USA, and the UK, Cellula supports defence, security, environmental, and 
-          surveying applications to address the world’s most complex maritime challenges. The company 
-          specialises in hydrogen fuel cell-powered, long-endurance AUV platforms designed for 
-          persistent subsea monitoring and mission-critical operations. Their focus on reliability, 
-          collaboration, and real-world deployment makes them a valuable contributor to the advancement 
-          of autonomous submersible robotics.
-            </p>            
-          </div>
-
-        </div>
+        &lt;div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start;"&gt;
+  
+          &lt;!-- ===== Keynote 1 ===== --&gt;
+          &lt;div&gt;
+  
+            &lt;div style="display: flex; gap: 20px; align-items: flex-start;"&gt;
+              &lt;img src="/Gwyn%20Griffiths.jpg"
+                   alt="Prof Gwyn Griffiths"
+                   style="height: 5cm; width: auto;"&gt;
+  
+              &lt;div&gt;
+                &lt;h3&gt;&lt;strong&gt;Prof Gwyn Griffiths MBE&lt;/strong&gt;&lt;/h3&gt;
+                &lt;p&gt;
+                  Gwyn was Chief Technologist and founder of the Marine Autonomous and Robotic Systems group
+                  at the UK National Oceanography Centre and Professor of Underwater Systems Engineering
+                  at the University of Southampton until 2012. His involvement with the Autosub programme
+                  began in 1989, focusing on mission control, strategy, funding, and AUV risk management.
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+  
+            &lt;h4 style="margin-top: 20px;"&gt;
+              &lt;strong&gt;Autosub under ice: A story of large risks, great people and great science&lt;/strong&gt;
+            &lt;/h4&gt;
+            &lt;p&gt;
+              A historical perspective on ambitious under‑ice AUV missions, examining both successes
+              and failures and highlighting the case for persistent under‑ice presence as a cornerstone
+              of future environmental science.
+            &lt;/p&gt;
+  
+          &lt;/div&gt;
+  
+          &lt;!-- ===== Keynote 2 ===== --&gt;
+          &lt;div&gt;
+  
+            &lt;div style="display: flex; gap: 20px; align-items: flex-start;"&gt;
+              &lt;img src="/Dan%20Hook.png"
+                   alt="Dan Hook"
+                   style="height: 5cm; width: auto;"&gt;
+  
+              &lt;div&gt;
+                &lt;h3&gt;&lt;strong&gt;Dan Hook&lt;/strong&gt;&lt;/h3&gt;
+                &lt;p&gt;
+                  Dan trained as a Naval Architect at the University of Southampton and co‑founded ASV Ltd,
+                  pioneering USV development. After the company’s acquisition by L3 Harris in 2018, he
+                  became CTO of Ocean Infinity and is now CEO of RAD.
+                &lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+  
+            &lt;h4 style="margin-top: 20px;"&gt;
+              &lt;strong&gt;USVs – 25 year recap and 5 year look ahead&lt;/strong&gt;
+            &lt;/h4&gt;
+            &lt;p&gt;
+              A review of 25 years of USV development and how this experience underpins the next five
+              years of accelerated adoption across multiple sectors.
+            &lt;/p&gt;
+  
+          &lt;/div&gt;
+  
+        &lt;/div&gt;
     design:
       columns: '1'
 
