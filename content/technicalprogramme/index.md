@@ -32,17 +32,17 @@ sections:
           text_color_light: false
       spacing:
         padding: ['100px', '0', '100px', '0']
-    
-  
+
   - block: markdown
     content:
       title: Keynotes
       text: |
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start;">
   
+          <!-- ===== Keynote 1 ===== -->
           <div>
             <div style="display:flex;gap:20px;align-items:flex-start;">
-              <img src="/Gwyn%20Griffiths.jpg" style="height:5cm;width:auto;" alt="Prof Gwyn Griffiths">
+              <img src="/Gwyn%20Griffiths.jpg" alt="Prof Gwyn Griffiths" style="height:5cm;width:auto;">
   
               <div>
                 <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
@@ -61,9 +61,28 @@ sections:
             </p>
           </div>
   
+          <!-- ===== Keynote 2 ===== -->
           <div>
             <div style="display:flex;gap:20px;align-items:flex-start;">
-
+              <img src="/Dan%20Hook.png" alt="Dan Hook" style="height:5cm;width:auto;">
+  
+              <div>
+                <h3><strong>Dan Hook</strong></h3>
+                <p>
+                  Dan trained as a Naval Architect at the University of Southampton and co‑founded ASV Ltd.
+                  After its acquisition by L3 Harris in 2018, he became CTO of Ocean Infinity and is now
+                  CEO of RAD.
+                </p>
+              </div>
+            </div>
+  
+            <h4><strong>USVs – 25 year recap and 5 year look ahead</strong></h4>
+            <p>
+              A review of 25 years of USV development and how this experience underpins accelerated adoption.
+            </p>
+          </div>
+  
+        </div>
 
 
   - block: markdown
