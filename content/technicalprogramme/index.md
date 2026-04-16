@@ -41,16 +41,14 @@ sections:
   
           <!-- Column 1: Gwyn Griffiths -->
           <div>
+            <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
             <img src="/Gwyn%20Griffiths.jpg" style="height:5cm;width:auto;">
-            <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>  
             <p>
               Gwyn was Chief Technologist and founder of the Marine Autonomous and Robotic Systems group
               at the UK National Oceanography Centre and Professor of Underwater Systems Engineering
               at the University of Southampton until 2012. His involvement with the Autosub programme
               began in 1989.
             </p>
-          </div>
-          <div>
   
             <h3><strong>Autosub under ice: A story of large risks, great people and great science</strong></h3>
             <p>
@@ -61,8 +59,8 @@ sections:
   
           <!-- Column 2: Dan Hook -->
           <div>
-            <img src="/Dan%20Hook.jpg" style="height:5cm;width:auto;">
-            <h3><strong>Dan Hook</strong></h3>  
+            <h3><strong>Dan Hook</strong></h3>
+            <img src="/Dan%20Hook.jpg" style="height:5cm;width:auto;">            
             <p>
               Dan trained as a Naval Architect at the University of Southampton and co‑founded ASV Ltd.
               After its acquisition by L3 Harris in 2018, he became CTO of Ocean Infinity and is now
