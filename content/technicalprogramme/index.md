@@ -33,7 +33,7 @@ sections:
       spacing:
         padding: ['100px', '0', '100px', '0']
   
-  
+
   - block: markdown
     content:
       title: Keynotes
@@ -47,7 +47,7 @@ sections:
             <div style="display: flex; gap: 20px; align-items: flex-start;">
               <img src="/Gwyn Griffiths.jpg"
                    alt="Prof Gwyn Griffiths"
-                   style="height: 5cm; width: auto; object-fit: contain;">
+                   style="height: 5cm; width: auto; object-fit: contain;" />
   
               <div>
                 <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
@@ -60,7 +60,7 @@ sections:
               </div>
             </div>
   
-            <!-- Talk title + abstract -->
+            <!-- Talk -->
             <h4 style="margin-top: 20px;">
               <strong>Autosub under ice: A story of large risks, great people and great science</strong>
             </h4>
@@ -68,8 +68,8 @@ sections:
               The scientific case for using autonomous underwater vehicles under ice was compelling
               in 1989 and is even stronger today. This talk reflects on the ambitious Autosub goals,
               the engineering and strategic challenges encountered, and the lessons learned from both
-              successes and failures. The need for persistent under‑ice presence with reliable telemetry
-              is highlighted as a critical requirement for future environmental science.
+              successes and failures. Persistent under-ice presence with reliable telemetry remains
+              critical for future environmental science.
             </p>
   
           </div>
@@ -81,26 +81,26 @@ sections:
             <div style="display: flex; gap: 20px; align-items: flex-start;">
               <img src="/Dan Hook.png"
                    alt="Dan Hook"
-                   style="height: 5cm; width: auto; object-fit: contain;">
+                   style="height: 5cm; width: auto; object-fit: contain;" />
   
               <div>
                 <h3><strong>Dan Hook</strong></h3>
                 <p>
                   Dan trained as a Naval Architect at the University of Southampton and co‑founded ASV Ltd,
-                  helping pioneer USV development for scientific, commercial, and defence applications.
-                  After ASV’s acquisition by L3 Harris in 2018, he became CTO of Ocean Infinity and later
+                  helping pioneer USV development for scientific, commercial and defence applications.
+                  After ASV’s acquisition by L3 Harris in 2018 he became CTO of Ocean Infinity and is now
                   CEO of RAD, developing propulsion and control systems for surface vessels.
                 </p>
               </div>
             </div>
   
-            <!-- Talk title + abstract -->
+            <!-- Talk -->
             <h4 style="margin-top: 20px;">
               <strong>USVs – 25 year recap and 5 year look ahead</strong>
             </h4>
             <p>
               An insightful review of USV development and deployment over the last 25 years,
-              examining how early innovation has led to the next five years of accelerated adoption
+              and how this experience underpins the next five years of accelerated adoption
               across multiple sectors.
             </p>
   
