@@ -50,7 +50,7 @@ sections:
               began in 1989.
             </p>
   
-            <h4><strong>Autosub under ice: A story of large risks, great people and great science</strong></h4>
+            <p><strong>Autosub under ice: A story of large risks, great people and great science</strong></p>
             <p>
               A historical perspective on ambitious under‑ice AUV missions, examining both successes
               and failures and the case for persistent under‑ice presence.
@@ -67,7 +67,7 @@ sections:
               CEO of RAD.
             </p>
   
-            <h4><strong>USVs – 25 year recap and 5 year look ahead</strong></h4>
+            <p><strong>USVs – 25 year recap and 5 year look ahead</strong></p>
             <p>
               A review of 25 years of USV development and how this experience underpins accelerated
               adoption across multiple sectors.
