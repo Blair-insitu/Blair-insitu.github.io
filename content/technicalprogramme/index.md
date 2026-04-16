@@ -73,7 +73,15 @@ sections:
             </div>
   
             <p><br>
-
+              <strong>USVs – 25 year recap and 5 year look ahead</strong><br>
+              An insightful review of USV development and deployment over the last 25 years and how this has led to the next 5 years of expected rapid adoption. 
+            </p>
+  
+          </div>
+  
+        </div>
+    design:
+      columns: '1'
 
 
   - block: markdown
