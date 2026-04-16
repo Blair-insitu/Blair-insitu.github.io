@@ -40,12 +40,12 @@ sections:
     content:
       title: Keynotes
       text: |
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start;">
+        <div style="display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 40px; align-items: start;">
   
           <!-- Column 1: Gwyn Griffiths -->
           <div>
             <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
-            <img src="/Gwyn%20Griffiths.jpg" style="width:100%; height:auto;">          
+            <img src="/Gwyn%20Griffiths.jpg" style="width:82%; height:auto;">          
             <p>
               Gwyn was Chief Technologist and founder of the Marine Autonomous and Robotic Systems group at the UK National Oceanography Centre and Professor of Underwater Systems Engineering at the University of Southampton until 2012. His involvement with the Autosub programme and AUVs began in 1989 with an assessment of the mission control requirements. Responsible primarily for strategic direction and, with the science community, creating funding opportunities, he also championed new approaches to AUV risk management. Awards include the SUT President's Award in 2010, the IEEE OES Distinguished Technical Achievement Award in 2013. He was inducted as a Member of the Order of the British Empire (MBE) by Queen Elizabeth II in 2015. He continues to publish on the history of AUVs.
               <br><br>
