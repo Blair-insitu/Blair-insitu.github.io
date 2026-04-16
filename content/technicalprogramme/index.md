@@ -59,7 +59,7 @@ sections:
   
           <!-- Column 2: Dan Hook -->
           <div>
-            <img src="/Dan%20Hook.png" style="height:5cm;width:auto;">
+            <img src="/Dan%20Hook.jpg" style="height:5cm;width:auto;">
             <h3><strong>Dan Hook</strong></h3>  
             <p>
               Dan trained as a Naval Architect at the University of Southampton and co‑founded ASV Ltd.
