@@ -33,71 +33,37 @@ sections:
       spacing:
         padding: ['100px', '0', '100px', '0']
     
+  
   - block: markdown
     content:
       title: Keynotes
       text: |
-        &lt;div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start;"&gt;
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start;">
   
-          &lt;!-- ===== Keynote 1 ===== --&gt;
-          &lt;div&gt;
+          <div>
+            <div style="display:flex;gap:20px;align-items:flex-start;">
+              <img src="/Gwyn%20Griffiths.jpg" style="height:5cm;width:auto;" alt="Prof Gwyn Griffiths">
   
-            &lt;div style="display: flex; gap: 20px; align-items: flex-start;"&gt;
-              &lt;img src="/Gwyn%20Griffiths.jpg"
-                   alt="Prof Gwyn Griffiths"
-                   style="height: 5cm; width: auto;"&gt;
-  
-              &lt;div&gt;
-                &lt;h3&gt;&lt;strong&gt;Prof Gwyn Griffiths MBE&lt;/strong&gt;&lt;/h3&gt;
-                &lt;p&gt;
+              <div>
+                <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
+                <p>
                   Gwyn was Chief Technologist and founder of the Marine Autonomous and Robotic Systems group
                   at the UK National Oceanography Centre and Professor of Underwater Systems Engineering
-                  at the University of Southampton until 2012. His involvement with the Autosub programme
-                  began in 1989, focusing on mission control, strategy, funding, and AUV risk management.
-                &lt;/p&gt;
-              &lt;/div&gt;
-            &lt;/div&gt;
+                  at the University of Southampton until 2012.
+                </p>
+              </div>
+            </div>
   
-            &lt;h4 style="margin-top: 20px;"&gt;
-              &lt;strong&gt;Autosub under ice: A story of large risks, great people and great science&lt;/strong&gt;
-            &lt;/h4&gt;
-            &lt;p&gt;
-              A historical perspective on ambitious under‑ice AUV missions, examining both successes
-              and failures and highlighting the case for persistent under‑ice presence.
-            &lt;/p&gt;
+            <h4><strong>Autosub under ice: A story of large risks, great people and great science</strong></h4>
+            <p>
+              A historical perspective on ambitious under‑ice AUV missions, examining successes,
+              failures, and the case for persistent under‑ice presence.
+            </p>
+          </div>
   
-          &lt;/div&gt;
-  
-          &lt;!-- ===== Keynote 2 ===== --&gt;
-          &lt;div&gt;
-  
-            &lt;div style="display: flex; gap: 20px; align-items: flex-start;"&gt;
-              &lt;img src="/Dan%20Hook.png"
-                   alt="Dan Hook"
-                   style="height: 5cm; width: auto;"&gt;
-  
-              &lt;div&gt;
-                &lt;h3&gt;&lt;strong&gt;Dan Hook&lt;/strong&gt;&lt;/h3&gt;
-                &lt;p&gt;
-                  Dan trained as a Naval Architect at the University of Southampton and co‑founded ASV Ltd.
-                  After its acquisition by L3 Harris in 2018, he became CTO of Ocean Infinity and is now
-                  CEO of RAD.
-                &lt;/p&gt;
-              &lt;/div&gt;
-            &lt;/div&gt;
-  
-            &lt;h4 style="margin-top: 20px;"&gt;
-              &lt;strong&gt;USVs – 25 year recap and 5 year look ahead&lt;/strong&gt;
-            &lt;/h4&gt;
-            &lt;p&gt;
-              A review of 25 years of USV development and how this experience underpins accelerated adoption.
-            &lt;/p&gt;
-  
-          &lt;/div&gt;
-  
-        &lt;/div&gt;
-    design:
-      columns: '1'
+          <div>
+            <div style="display:flex;gap:20px;align-items:flex-start;">
+
 
 
   - block: markdown
