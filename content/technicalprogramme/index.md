@@ -32,66 +32,52 @@ sections:
           text_color_light: false
       spacing:
         padding: ['100px', '0', '100px', '0']
-
+  
   - block: markdown
     content:
       title: Keynotes
       text: |
         &lt;div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start;"&gt;
   
-          &lt;!-- ===== Keynote 1 ===== --&gt;
+          &lt;!-- Column 1: Gwyn Griffiths --&gt;
           &lt;div&gt;
+            &lt;img src="/Gwyn%20Griffiths.jpg" style="height:5cm;width:auto;"&gt;
   
-            &lt;div style="display: flex; gap: 20px; align-items: flex-start;"&gt;
-              &lt;img src="/Gwyn%20Griffiths.jpg"
-                   alt="Prof Gwyn Griffiths"
-                   style="height: 5cm; width: auto;"&gt;
+            &lt;h3&gt;&lt;strong&gt;Prof Gwyn Griffiths MBE&lt;/strong&gt;&lt;/h3&gt;
   
-              &lt;div&gt;
-                &lt;h3&gt;&lt;strong&gt;Prof Gwyn Griffiths MBE&lt;/strong&gt;&lt;/h3&gt;
-                &lt;p&gt;
-                  Gwyn was Chief Technologist and founder of the Marine Autonomous and Robotic Systems group
-                  at the UK National Oceanography Centre and Professor of Underwater Systems Engineering
-                  at the University of Southampton until 2012. His involvement with the Autosub programme
-                  began in 1989.
-                &lt;/p&gt;
-              &lt;/div&gt;
-            &lt;/div&gt;
-  
-            &lt;h4 style="margin-top: 20px;"&gt;
-              &lt;strong&gt;Autosub under ice: A story of large risks, great people and great science&lt;/strong&gt;
-            &lt;/h4&gt;
             &lt;p&gt;
-              A historical perspective on ambitious under‑ice AUV missions, examining successes,
-              failures, and the case for persistent under‑ice presence.
+              Gwyn was Chief Technologist and founder of the Marine Autonomous and Robotic Systems group
+              at the UK National Oceanography Centre and Professor of Underwater Systems Engineering
+              at the University of Southampton until 2012. His involvement with the Autosub programme
+              began in 1989.
             &lt;/p&gt;
   
+            &lt;h4&gt;&lt;strong&gt;Autosub under ice: A story of large risks, great people and great science&lt;/strong&gt;&lt;/h4&gt;
+  
+            &lt;p&gt;
+              A historical perspective on ambitious under‑ice AUV missions, examining both successes
+              and failures and the case for persistent under‑ice presence.
+            &lt;/p&gt;
           &lt;/div&gt;
   
-          &lt;!-- ===== Keynote 2 ===== --&gt;
+          &lt;!-- Column 2: Dan Hook --&gt;
           &lt;div&gt;
+            &lt;img src="/Dan%20Hook.png" style="height:5cm;width:auto;"&gt;
   
-            &lt;div style="display: flex; gap: 20px; align-items: flex-start;"&gt;
-              &lt;img src="/Dan%20Hook.png"
-                   alt="Dan Hook"
-                   style="height: 5cm; width: auto;"&gt;
+            &lt;h3&gt;&lt;strong&gt;Dan Hook&lt;/strong&gt;&lt;/h3&gt;
   
-              &lt;div&gt;
-                &lt;h3&gt;&lt;strong&gt;Dan Hook&lt;/strong&gt;&lt;/h3&gt;
-                &lt;p&gt;
-                  Dan trained as a Naval Architect at the University of Southampton and co‑founded ASV Ltd.
-                  After its acquisition by L3 Harris in 2018, he became CTO of Ocean Infinity and is now CEO of RAD.
-                &lt;/p&gt;
-              &lt;/div&gt;
-            &lt;/div&gt;
-  
-            &lt;h4 style="margin-top: 20px;"&gt;
-              &lt;strong&gt;USVs – 25 year recap and 5 year look ahead&lt;/strong&gt;
-            &lt;/h4&gt;
             &lt;p&gt;
-              A review of 25 years of USV development and how this experience underpins accelerated adoption.
+              Dan trained as a Naval Architect at the University of Southampton and co‑founded ASV Ltd.
+              After its acquisition by L3 Harris in 2018, he became CTO of Ocean Infinity and is now
+              CEO of RAD.
             &lt;/p&gt;
   
+            &lt;h4&gt;&lt;strong&gt;USVs – 25 year recap and 5 year look ahead&lt;/strong&gt;&lt;/h4&gt;
+  
+            &lt;p&gt;
+              A review of 25 years of USV development and how this experience underpins accelerated
+              adoption across multiple sectors.
+            &lt;/p&gt;
           &lt;/div&gt;
   
         &lt;/div&gt;
