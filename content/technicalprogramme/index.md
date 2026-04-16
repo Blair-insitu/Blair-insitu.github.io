@@ -47,11 +47,8 @@ sections:
               Gwyn was Chief Technologist and founder of the Marine Autonomous and Robotic Systems group
               at the UK National Oceanography Centre and Professor of Underwater Systems Engineering
               at the University of Southampton until 2012. His involvement with the Autosub programme
-              began in 1989.
-            </p>
-  
-            <p><strong>Autosub under ice: A story of large risks, great people and great science</strong><br></p>
-            <p>
+              began in 1989.<br><br>
+              <strong>Autosub under ice: A story of large risks, great people and great science</strong><br>
               A historical perspective on ambitious under‑ice AUV missions, examining both successes
               and failures and the case for persistent under‑ice presence.
             </p>
@@ -64,11 +61,8 @@ sections:
             <p>
               Dan trained as a Naval Architect at the University of Southampton and co‑founded ASV Ltd.
               After its acquisition by L3 Harris in 2018, he became CTO of Ocean Infinity and is now
-              CEO of RAD.
-            </p>
-  
-            <p><strong>USVs – 25 year recap and 5 year look ahead</strong><br></p>
-            <p>
+              CEO of RAD.<br><br>
+              <strong>USVs – 25 year recap and 5 year look ahead</strong><br>            
               A review of 25 years of USV development and how this experience underpins accelerated
               adoption across multiple sectors.
             </p>
