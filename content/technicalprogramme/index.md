@@ -42,9 +42,7 @@ sections:
           <!-- Column 1: Gwyn Griffiths -->
           <div>
             <img src="/Gwyn%20Griffiths.jpg" style="height:5cm;width:auto;">
-  
-            <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
-  
+            <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>  
             <p>
               Gwyn was Chief Technologist and founder of the Marine Autonomous and Robotic Systems group
               at the UK National Oceanography Centre and Professor of Underwater Systems Engineering
@@ -53,7 +51,6 @@ sections:
             </p>
   
             <h4><strong>Autosub under ice: A story of large risks, great people and great science</strong></h4>
-  
             <p>
               A historical perspective on ambitious under‑ice AUV missions, examining both successes
               and failures and the case for persistent under‑ice presence.
@@ -63,9 +60,7 @@ sections:
           <!-- Column 2: Dan Hook -->
           <div>
             <img src="/Dan%20Hook.png" style="height:5cm;width:auto;">
-  
-            <h3><strong>Dan Hook</strong></h3>
-  
+            <h3><strong>Dan Hook</strong></h3>  
             <p>
               Dan trained as a Naval Architect at the University of Southampton and co‑founded ASV Ltd.
               After its acquisition by L3 Harris in 2018, he became CTO of Ocean Infinity and is now
@@ -73,13 +68,11 @@ sections:
             </p>
   
             <h4><strong>USVs – 25 year recap and 5 year look ahead</strong></h4>
-  
             <p>
               A review of 25 years of USV development and how this experience underpins accelerated
               adoption across multiple sectors.
             </p>
           </div>
-  
         </div>
     design:
       columns: '1'
