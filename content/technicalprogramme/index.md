@@ -49,6 +49,8 @@ sections:
               at the University of Southampton until 2012. His involvement with the Autosub programme
               began in 1989.
             </p>
+          </div>
+          <div>
   
             <h3><strong>Autosub under ice: A story of large risks, great people and great science</strong></h3>
             <p>
