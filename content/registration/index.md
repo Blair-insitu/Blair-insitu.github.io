@@ -7,7 +7,7 @@ sections:
     content:
       title: Registration
       text: |
-        AUV2026 will be held in-person. Our registration portal will open here in March 2026. 
+        AUV2026 will be held in-person. Visit the [registration portal](https://store.southampton.ac.uk/conferences-and-events/faculty-of-engineering-and-physical-sciences/school-of-engineering/auv-2026-southampton) to book your ticket.
 
         ## Fees
 
