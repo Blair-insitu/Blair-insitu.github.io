@@ -91,7 +91,6 @@ Information about the **peer-review track** and the **standard track** can be fo
       design:
         columns: '1'
 
-
   - block: markdown
 
     design:
