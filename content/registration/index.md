@@ -9,7 +9,7 @@ sections:
       text: |
         AUV2026 will be held in-person. Visit the [registration portal](https://store.southampton.ac.uk/conferences-and-events/faculty-of-engineering-and-physical-sciences/school-of-engineering/auv-2026-southampton) to book your place.
 
-        ## Fees
+        ## Registration
 
         Pricing details are as follows, where the early bird deadline will be Monday 6th July 2026. When registering, please indicate if you would like to join a Marine Autonomony and Robotic Systems (MARS) facility tour.
 
@@ -54,6 +54,8 @@ sections:
 
         We have a limited number of places for accompanying guests to join the symposium Gala dinner on Wednesday 2nd September 2026. 
 
+        ## Hotels
+        <iframe src="{{ "Hotels - AUV.pdf" | relURL }}" width="100%" height="600px"</iframe>
 
     design:
       columns: '1'
