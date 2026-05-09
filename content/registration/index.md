@@ -76,10 +76,16 @@ sections:
         ">
           <iframe
             src="/Hotels-AUV.pdf"
-            style="width:80%; height:90vh; border:none;">
+            style="
+              width:80%;
+              height:90vh;
+              border:none;
+              display:block;
+              margin:0 auto;
+            ">
           </iframe>
         </div>
-
+        
   - block: markdown
     design:
       columns: '1'
