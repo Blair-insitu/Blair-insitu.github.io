@@ -116,6 +116,7 @@ sections:
                   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
                   gap: 20px;
                   align-items: start;
+                  margin:0 auto;
                 ">
                   <div><img src="/Claire%20Asher_sq.jpg" style="width:100%; height:auto;">
                   <h3><strong>Dr Claire Asher (facilitator)</strong></h3></div>
@@ -143,6 +144,7 @@ sections:
                 grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
                 gap: 20px;
                 align-items: start;
+                margin:0 auto;
             ">
               <div>Freelance science communicator and host of the Robot Talk podcast. She has spent over a decade communicating complex scientific topics — ranging from geology to conservation to robotics — to non-specialists through a variety of formats, including magazines, books, radio shows, television documentaries, podcasts, festivals and comedy nights. She is endlessly curious about nature, science, and technology and she brings that curiosity and enthusiasm to everything she does.</div>
               <div>Trained as a Naval Architect at the University of Southampton. As one of the founders of ASV Ltd he helped grow that company as a pioneer in USV/ASV development for scientific, commercial and defence applications. After selling this business to L3 Harris in 2018 he became the CTO of Ocean Infinity, helping to develop the Armada fleet of lean crewed and uncrewed assets. He was a non-executive director of the National Oceanography Centre for 6 years and seed investor in several robotics start-ups. He is currently the CEO of RAD, developing propulsion and control equipment for surface vessels.</div>
