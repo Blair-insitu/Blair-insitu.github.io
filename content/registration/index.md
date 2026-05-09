@@ -75,7 +75,7 @@ sections:
           margin-left:calc(50% - 50vw);
         ">
           <iframe
-            src="/Hotels-AUV.pdf"
+            src="/Hotels-AUV.pdf#zoom=page-width&view=FitH"
             style="
               width:80%;
               height:90vh;
