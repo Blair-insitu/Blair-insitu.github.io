@@ -58,13 +58,14 @@ sections:
   - block: markdown
     content: |
       ## Hotel Recommendations
-      {{< rawhtml >}}
-      <iframe
-        src="{{ "hotels-auv.pdf" | absURL }}"
+      
+     <iframe
+        src="/hotels-auv.pdf"
         width="100%"
-        height="600px">
+        height="600"
+        style="border: none;">
       </iframe>
-      {{< /rawhtml >}}
+
 
     design:
       columns: '1'
