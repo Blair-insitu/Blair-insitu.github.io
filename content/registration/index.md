@@ -73,6 +73,7 @@ sections:
         <div style="
           width:80vw;
           margin-left:calc(50% - 50vw);
+          margin-right:calc(50% - 50vw);
         ">
           <iframe
             src="/Hotels-AUV.pdf"
