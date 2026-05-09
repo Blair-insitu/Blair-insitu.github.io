@@ -68,7 +68,7 @@ sections:
 
   - block: contact
     content:
-      title: Hotel Reccomendations
+      title: Hotel Recommendations
       text: |
         <div style="
           width: 95vw;
