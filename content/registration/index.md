@@ -67,17 +67,17 @@ sections:
           text_color_light: false
       spacing:
         padding: ['100px', '0', '100px', '0']
-    
+
   - block: markdown
-      content: |
-        ## Hotel Recommendations
-  
-        <iframe
-          src="/hotels-auv.pdf"
-          width="100%"
-          height="600"
-          style="border: none;">
-        </iframe>
+    content: |
+      ## Hotel Recommendations
+
+      <iframe
+        src="/hotels-auv.pdf"
+        width="100%"
+        height="600"
+        style="border: none;"
+      ></iframe>    
 
   - block: markdown
     design:
