@@ -100,11 +100,16 @@ sections:
                 gap: 20px;
                 align-items: start;
               ">
-                <div><img src="/Claire%20Asher_sq.jpg" style="width:100%; height:auto;"></div>
-                <div><img src="/Dan%20Hook_sq.jpg" style="width:100%; height:auto;"></div>
-                <div><img src="/Laura%20Weihl_sq.jpg" style="width:100%; height:auto;"></div>
-                <div><img src="/Gwyn%20Griffiths_sq.jpg" style="width:100%; height:auto;"></div>
-                <div><img src="/Edith%20Sep%2025_sq.jpg" style="width:100%; height:auto;"></div>
+                <div><img src="/Claire%20Asher_sq.jpg" style="width:100%; height:auto;">
+                Claire Asher (Facilitator)</div>
+                <div><img src="/Dan%20Hook_sq.jpg" style="width:100%; height:auto;">
+                Dan Hook</div>
+                <div><img src="/Laura%20Weihl_sq.jpg" style="width:100%; height:auto;">
+                Laura Weihl</div>
+                <div><img src="/Gwyn%20Griffiths_sq.jpg" style="width:100%; height:auto;">
+                Gwyn Griffiths</div>
+                <div><img src="/Edith%20Sep%2025_sq.jpg" style="width:100%; height:auto;">
+                Edith-Clare Hall</div>
               </div>
           </summary>
         
