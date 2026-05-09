@@ -41,9 +41,7 @@ sections:
         <details>
         
         <summary>
-        <p>
-              **Click for details**
-        <\p>
+        <h3><strong>Click for details</strong></h3>        
         <div style="display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 40px; align-items: start;">
     
           <!-- Column 1: Gwyn Griffiths -->
