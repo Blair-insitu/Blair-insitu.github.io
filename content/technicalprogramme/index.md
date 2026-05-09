@@ -121,11 +121,11 @@ sections:
                   <div><img src="/Claire%20Asher_sq.jpg" style="width:100%; height:auto;">
                   <h3><strong>Dr Claire Asher (facilitator)</strong></h3></div>
                   <div><img src="/Gwyn%20Griffiths_sq.jpg" style="width:100%; height:auto;">
-                  <h3><strong>Dan Hook</strong></h3></div>
+                  <h3><strong>Prof Gwyn Griffiths MBE</strong></h3></div>
                   <div><img src="/Laura%20Weihl_sq.jpg" style="width:100%; height:auto;">
                   <h3><strong>Dr Laura Weihl</strong></h3></div>
                   <div><img src="/Dan%20Hook_sq.jpg" style="width:100%; height:auto;">
-                  <h3><strong>Prof Gwyn Griffiths MBE</strong></h3></div>
+                  <h3><strong>Dan Hook</strong></h3></div>
                   <div><img src="/Edith%20Sep%2025_sq.jpg" style="width:100%; height:auto;">
                   <h3><strong>Dr Edith-Clare Hall</strong></h3></div>
                 </div>
