@@ -54,7 +54,6 @@ sections:
 
         We have a limited number of places for accompanying guests to join the symposium Gala dinner on Wednesday 2nd September 2026. 
 
-
   - block: markdown
     content: |
       ## Hotel Recommendations
