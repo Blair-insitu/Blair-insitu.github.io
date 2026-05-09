@@ -51,12 +51,18 @@ sections:
             <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
             <img src="/Gwyn%20Griffiths.jpg" style="width:82%; height:auto;">          
           </div>
+          <p>
+            <strong>Autosub under ice: A story of large risks, great people and great science</strong>
+          </p>
   
           <!-- Column 2: Dan Hook -->
           <div>
             <h3><strong>Dan Hook</strong></h3>
             <img src="/Dan%20Hook.jpg" style="width:100%; height:auto;">          
           </div>
+          <p>
+            <strong>USVs – 25 year recap and 5 year look ahead</strong>
+          <\p>
         </div>
         </summary>
 
