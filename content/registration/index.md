@@ -70,7 +70,7 @@ sections:
     content:
       title: Hotel Reccomendations
       text: |        
-        {{ with .Resources.Get "hotels-auv.pdf" }}
+        {{ with .Resources.Get "Hotels-AUV.pdf" }}
         <object data="{{ .RelPermalink }}" width="100%" height="600"></object>
         {{ end }}
 
