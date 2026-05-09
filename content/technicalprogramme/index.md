@@ -92,9 +92,7 @@ sections:
       title: Panel & Ice Breaker Reception
       text: |
         <details>
-          <summary>
-
-          
+          <summary>          
             <h3><strong>Click for details</strong></h3>
               <div style="
                 display: grid;
@@ -108,7 +106,6 @@ sections:
                 <div><img src="/Gwyn%20Griffiths_sq.jpg" style="width:100%; height:auto;"></div>
                 <div><img src="/Edith%20Sep%2025_sq.jpg" style="width:100%; height:auto;"></div>
               </div>
-
           </summary>
         
           <!-- DETAILS BODY -->
