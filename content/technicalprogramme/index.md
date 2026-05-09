@@ -96,7 +96,8 @@ sections:
     
         <strong>Time: </strong>18:00
 
-        <strong>Venue: </strong>(Southampton City Art Gallery)[https://southamptoncityartgallery.com/], Civic Centre, Commercial Road, Southampton SO14 7LY
+        <strong>Venue: </strong>[Southampton City Art Gallery](https://southamptoncityartgallery.com/), Civic Centre, Commercial Road, Southampton SO14 7LY
+
         Coach travel (leaving National Oceanography Centre at 17:30) is included as part of your booking. No return travel will be provided. The venue is located in the centre of the city of Southampton, and guests are free to depart the reception at their convenience.
 
 
