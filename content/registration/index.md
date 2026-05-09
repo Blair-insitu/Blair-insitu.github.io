@@ -69,10 +69,13 @@ sections:
   - block: contact
     content:
       title: Hotel Reccomendations
-      text: |        
-        {{ with .Resources.Get "Hotels-AUV.pdf" }}
-        <object data="{{ .RelPermalink }}" width="100%" height="600"></object>
-        {{ end }}
+      text: |
+        <iframe
+          src="/Hotels-AUV.pdf"
+          width="100%"
+          height="600"
+          style="border:none;">
+        </iframe>
 
     
   - block: markdown
