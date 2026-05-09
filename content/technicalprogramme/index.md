@@ -89,16 +89,19 @@ sections:
 
   - block: markdown
     content:
-      title: Panel
+      title: Panel & Drinks Reception
       text: |
         <details>
           <summary>
+
+          
             <h3><strong>Click for details</strong></h3>
-        
+
+
             <div style="
               display: grid;
-              grid-template-columns: repeat(5, 1fr);
-              gap: 40px;
+              grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+              gap: 20px;
               align-items: start;
             ">
         
@@ -137,10 +140,10 @@ sections:
         
           <!-- DETAILS BODY -->
           <div style="
-            display: grid;
-            grid-template-columns: repeat(5, 1fr);
-            gap: 40px;
-            align-items: start;
+              display: grid;
+              grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+              gap: 20px;
+              align-items: start;
           ">
             <div><p>Full text 1…</p></div>
             <div><p>Full text 2…</p></div>
