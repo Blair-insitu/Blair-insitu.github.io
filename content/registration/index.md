@@ -75,16 +75,13 @@ sections:
         width: 95vw;
         max-width: 1600px;
         margin-left: calc(50% - 47.5vw);
-        margin-right: calc(50% - 47.5vw);
-      ">
+        margin-right: calc(50% - 47.5vw);">
         <iframe
           src="/hotels-auv.pdf"
           style="width:100%; height:90vh; border:none;">
         </iframe>
       </div>
 
-
-    
   - block: markdown
     design:
       columns: '1'
