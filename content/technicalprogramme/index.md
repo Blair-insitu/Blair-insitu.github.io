@@ -88,13 +88,11 @@ sections:
       text: |
         ## Marine Autonomy's Journey – Overlooked or Overhyped Through Different Lenses?
 
-        The panel event will explore how marine autonomy's journey is perceived from different perspectives, by people in our field working in different sectors, at different career stages, and by people outside our field.
-
-        Following the panel, guests are invited to a drinks reception - an opportunity to network with attendees, and connect with our panelists.
+        The panel event will explore how marine autonomy's journey is perceived from different perspectives, by people in our field working in different sectors, at different career stages, and by people outside our field. Following the panel, guests are invited to a drinks reception - an opportunity to network with attendees, and connect with our panelists.
 
         <strong>Date: </strong>Tuesday 1 September 2026
     
-        <strong>Time: </strong>18:00
+        <strong>Time: </strong>18:00 - 20:00
 
         <strong>Venue: </strong>[Southampton City Art Gallery](https://southamptoncityartgallery.com/), Civic Centre, Commercial Road, Southampton SO14 7LY
 
