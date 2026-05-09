@@ -70,9 +70,11 @@ sections:
     content:
       title: Hotel Recommendations
       text: |
-        <div style="max-width:none;">
+        <div style="
+          width:100vw;
+          margin-left:calc(50% - 50vw);
+        ">
           <div style="
-            width:95vw;
             max-width:1600px;
             margin:0 auto;
           ">
