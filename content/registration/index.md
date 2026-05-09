@@ -77,7 +77,7 @@ sections:
           <iframe
             src="/Hotels-AUV.pdf#zoom=page-width&view=FitH"
             style="
-              width:80%;
+              width:70%;
               height:90vh;
               border:none;
               display:block;
