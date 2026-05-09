@@ -72,7 +72,8 @@ sections:
       text: |
         <div style="
           width: 95vw;
-          max-width: 1600px;">
+          max-width: 1600px;
+          margin: 0 auto;">
           <iframe
             src="/Hotels-AUV.pdf"
             style="width:100%; height:90vh; border:none;">
