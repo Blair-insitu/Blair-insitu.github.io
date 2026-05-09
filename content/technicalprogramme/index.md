@@ -96,46 +96,19 @@ sections:
 
           
             <h3><strong>Click for details</strong></h3>
-
-
             <div style="
               display: grid;
               grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
               gap: 20px;
               align-items: start;
             ">
-        
-              <!-- Column 1 -->
-              <div>
-                <img src="/Claire%20Asher_sq.jpg" style="width:100%; height:auto;">
-                <h3><strong>Speaker 1</strong></h3>
-              </div>
-        
-              <!-- Column 2 -->
-              <div>
-                <img src="/Dan%20Hook_sq.jpg" style="width:100%; height:auto;">
-                <h3><strong>Speaker 2</strong></h3>
-              </div>
-        
-              <!-- Column 3 -->
-              <div>
-                <img src="/Laura%20Weihl_sq.jpg" style="width:100%; height:auto;">
-                <h3><strong>Speaker 2</strong></h3>
-              </div>
-  
-              <!-- Column 4 -->
-              <div>
-                <img src="/Gwyn%20Griffiths_sq.jpg" style="width:100%; height:auto;">
-                <h3><strong>Speaker 2</strong></h3>
-              </div>
-  
-        
-              <!-- Column 5 -->
-              <div>
-                <img src="/Edith%20Sep%2025_sq.jpg" style="width:100%; height:auto;">
-                <h3><strong>Speaker 2</strong></h3>
-              </div>
+              <div><img src="/Claire%20Asher_sq.jpg" style="width:100%; height:auto;"></div>
+              <div><img src="/Dan%20Hook_sq.jpg" style="width:100%; height:auto;"></div>
+              <div><img src="/Laura%20Weihl_sq.jpg" style="width:100%; height:auto;"></div>
+              <div><img src="/Gwyn%20Griffiths_sq.jpg" style="width:100%; height:auto;"></div>
+              <div><img src="/Edith%20Sep%2025_sq.jpg" style="width:100%; height:auto;"></div>
             </div>
+
           </summary>
         
           <!-- DETAILS BODY -->
