@@ -91,6 +91,17 @@ sections:
     content:
       title: Panel & Ice Breaker Reception
       text: |
+        ## Marine Autonomy's Journey – Overlooked or Overhyped Through Different Lenses?
+
+        The panel event will explore how marine autonomy's journey is perceived from different perspectives, by people in our field working in different sectors, at different career stages, and by people outside our field.
+
+        Following the panel, guests are invited to a drinks reception - an opportunity to network with attendees, and connect with our panelists.
+
+        <strong>Date: </strong>Tuesday 1 September 2026
+        <strong>Time: </strong>18:00
+        <strong>Venue: </strong>(Southampton City Art Gallery)[https://southamptoncityartgallery.com/], Civic Centre, Commercial Road, Southampton SO14 7LY
+        Coach travel (leaving National Oceanography Centre at 17:30) is included as part of your booking. No return travel will be provided. The venue is located in the centre of the city of Southampton, and guests are free to depart the reception at their convenience.
+
         <details>
           <summary>          
             <h3><strong>Click for details</strong></h3>
