@@ -51,7 +51,7 @@ sections:
   
           <!-- Column 2: Dan Hook -->
           <div>
-            <h3><strong>USVs – 25 year recap and 5 year look ahead</strong></h3>
+            <h3><strong>USVs – 25 year recap and 5 year look ahead</strong></h3><br>
             <img src="/Dan%20Hook.jpg" style="width:100%; height:auto;">          
             <h3><strong>Dan Hook</strong></h3>
           </div>
