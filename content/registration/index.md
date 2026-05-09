@@ -71,7 +71,7 @@ sections:
       title: Hotel Recommendations
       text: |
         <div style="
-          width:100vw;
+          width:80vw;
           margin-left:calc(50% - 50vw);
         ">
           <iframe
