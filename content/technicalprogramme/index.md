@@ -96,18 +96,18 @@ sections:
 
           
             <h3><strong>Click for details</strong></h3>
-            <div style="
-              display: grid;
-              grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-              gap: 20px;
-              align-items: start;
-            ">
-              <div><img src="/Claire%20Asher_sq.jpg" style="width:100%; height:auto;"></div>
-              <div><img src="/Dan%20Hook_sq.jpg" style="width:100%; height:auto;"></div>
-              <div><img src="/Laura%20Weihl_sq.jpg" style="width:100%; height:auto;"></div>
-              <div><img src="/Gwyn%20Griffiths_sq.jpg" style="width:100%; height:auto;"></div>
-              <div><img src="/Edith%20Sep%2025_sq.jpg" style="width:100%; height:auto;"></div>
-            </div>
+              <div style="
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+                gap: 20px;
+                align-items: start;
+              ">
+                <div><img src="/Claire%20Asher_sq.jpg" style="width:100%; height:auto;"></div>
+                <div><img src="/Dan%20Hook_sq.jpg" style="width:100%; height:auto;"></div>
+                <div><img src="/Laura%20Weihl_sq.jpg" style="width:100%; height:auto;"></div>
+                <div><img src="/Gwyn%20Griffiths_sq.jpg" style="width:100%; height:auto;"></div>
+                <div><img src="/Edith%20Sep%2025_sq.jpg" style="width:100%; height:auto;"></div>
+              </div>
 
           </summary>
         
