@@ -67,7 +67,7 @@ sections:
           text_color_light: false
       spacing:
         padding: ['100px', '0', '100px', '0']
-    
+
   - block: markdown
     content: |
       ## Hotel Recommendations
