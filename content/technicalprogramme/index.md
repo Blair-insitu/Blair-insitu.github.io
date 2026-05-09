@@ -40,23 +40,32 @@ sections:
       text: |
         <details>
         
-        <summary>
+        <summary style="
+          display: grid;
+          grid-template-columns: auto auto;
+          gap: 40px;
+          align-items: center;
+        ">
+          <div style="display:flex; align-items:center; gap:12px;">
             <strong>Prof Gwyn Griffiths MBE</strong>
             <img
               src="/Gwyn%20Griffiths.jpg"
               alt="Prof Gwyn Griffiths"
-              style="
-                height: 40px;
-                width: auto;
-                margin-left: 12px;
-                vertical-align: middle;
-                border-radius: 4px;
-              ">
-          </summary>
+              style="width:82%; height:auto;"
+            >
+          </div>
+        
+          <div style="display:flex; align-items:center; gap:12px;">
+            <strong>Dan Hook</strong>
+            /Dan%20Hook.jpg"
+              alt="Dan Hook"
+              style="width:100%; height:auto;"
+            >
+          </div>
+        </summary>
 
         <div style="display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 40px; align-items: start;">
-          
-  
+    
           <!-- Column 1: Gwyn Griffiths -->
           <div>
             <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
