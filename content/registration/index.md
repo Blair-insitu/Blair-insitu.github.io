@@ -1,3 +1,7 @@
+this still happens.
+
+I need a complete corrected version of this. no changes to content, no shortcuts or anything. word for word with corrected spacing only
+
 ---
 title: Registration
 date: 2025-09-01
