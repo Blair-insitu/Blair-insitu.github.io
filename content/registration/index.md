@@ -70,12 +70,14 @@ sections:
     content:
       title: Hotel Reccomendations
       text: |
-        <iframe
-          src="/Hotels-AUV.pdf"
-          width="100%"
-          height="1200"
-          style="border:none;">
-        </iframe>
+        <div style="max-width:1200px; margin:0 auto;">
+          <iframe
+            src="/Hotels-AUV.pdf"
+            width="100%"
+            height="1200"
+            style="border:none;">
+          </iframe>
+        </div>
 
     
   - block: markdown
