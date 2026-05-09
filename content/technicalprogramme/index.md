@@ -106,8 +106,6 @@ sections:
               <div style="
                 width: 95vw;
                 max-width: 1600px;
-                margin-left: calc(50% - 47.5vw);
-                margin-right: calc(50% - 47.5vw);
                 display: grid;
                 grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
                 gap: 20px;
@@ -130,8 +128,6 @@ sections:
           <div style="
               width: 95vw;
               max-width: 1600px;
-              margin-left: calc(50% - 47.5vw);
-              margin-right: calc(50% - 47.5vw);
               display: grid;
               grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
               gap: 20px;
