@@ -41,6 +41,9 @@ sections:
         <details>
         
         <summary>
+        <p>
+              **Click for details**
+        <\p>
         <div style="display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 40px; align-items: start;">
     
           <!-- Column 1: Gwyn Griffiths -->
@@ -60,9 +63,7 @@ sections:
         <div style="display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 40px; align-items: start;">
     
           <!-- Column 1: Gwyn Griffiths -->
-          <div>
-            <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
-            <img src="/Gwyn%20Griffiths.jpg" style="width:82%; height:auto;">          
+          <div>            
             <p>
               Gwyn was Chief Technologist and founder of the Marine Autonomous and Robotic Systems group at the UK National Oceanography Centre and Professor of Underwater Systems Engineering at the University of Southampton until 2012. His involvement with the Autosub programme and AUVs began in 1989 with an assessment of the mission control requirements. Responsible primarily for strategic direction and, with the science community, creating funding opportunities, he also championed new approaches to AUV risk management. Awards include the SUT President's Award in 2010, the IEEE OES Distinguished Technical Achievement Award in 2013. He was inducted as a Member of the Order of the British Empire (MBE) by Queen Elizabeth II in 2015. He continues to publish on the history of AUVs.
               <br><br>
@@ -74,8 +75,6 @@ sections:
   
           <!-- Column 2: Dan Hook -->
           <div>
-            <h3><strong>Dan Hook</strong></h3>
-            <img src="/Dan%20Hook.jpg" style="width:100%; height:auto;">          
             <p>
               Dan trained as a Naval Architect at the University of Southampton. As one of the founders of ASV Ltd he helped grow that company as a pioneer in USV/ASV development for scientific, commercial and defence applications. After selling this business to L3 Harris in 2018 he became the CTO of Ocean Infinity, helping to develop the Armada fleet of lean crewed and uncrewed assets. He was a non-executive director of the National Oceanography Centre for 6 years and seed investor in several robotics start-ups. He is currently the CEO of RAD, developing propulsion and control equipment for surface vessels.
               <br><br>
