@@ -72,16 +72,9 @@ sections:
       text: |
         <iframe
           src="/Hotels-AUV.pdf"
-          width="120%"
-          height="800"
-          border: 0;
-          padding: 0;
-          margin: 0;
-          display: block;
-          background: transparent;
-        "
-        loading="lazy">
-
+          width="100%"
+          height="1200"
+          style="border:none;">
         </iframe>
 
     
