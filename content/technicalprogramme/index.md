@@ -38,8 +38,7 @@ sections:
     content:
       title: Keynotes
       text: |
-        <details>
-        
+        <details>        
         <summary>
         <h3><strong>Click for details</strong></h3>        
         <div style="display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 40px; align-items: start;">
@@ -49,8 +48,7 @@ sections:
             <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
             <img src="/Gwyn%20Griffiths.jpg" style="width:82%; height:auto;">          
             <p>
-              <strong>Autosub under ice: A story of large risks, great people and great science</strong>
-            </p>
+              <strong>Autosub under ice: A story of large risks, great people and great science</strong></p>
           </div>
   
           <!-- Column 2: Dan Hook -->
@@ -58,8 +56,7 @@ sections:
             <h3><strong>Dan Hook</strong></h3>
             <img src="/Dan%20Hook.jpg" style="width:100%; height:auto;">          
             <p>
-              <strong>USVs – 25 year recap and 5 year look ahead</strong>
-            <\p>
+              <strong>USVs – 25 year recap and 5 year look ahead</strong></p>
           </div>
         </div>
         </summary>
