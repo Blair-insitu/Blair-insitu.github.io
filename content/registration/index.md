@@ -54,12 +54,18 @@ sections:
 
         We have a limited number of places for accompanying guests to join the symposium Gala dinner on Wednesday 2nd September 2026. 
 
-        ## Hotels
-        <iframe
-          src="{{ "hotels-auv.pdf" | absURL }}"
-          width="100%"
-          height="600px">
-        </iframe>
+
+  - block: markdown
+    content: |
+      ## Hotel Recommendations
+      {{< rawhtml >}}
+      <iframe
+        src="{{ "hotels-auv.pdf" | absURL }}"
+        width="100%"
+        height="600px">
+      </iframe>
+      {{< /rawhtml >}}
+
     design:
       columns: '1'
       background:
