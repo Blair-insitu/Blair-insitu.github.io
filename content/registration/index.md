@@ -66,19 +66,19 @@ sections:
       spacing:
         padding: ['100px', '0', '100px', '0']
 
-- block: contact
-  content:
-    title: Hotel Recommendations
-    text: |
-      <div style="
-        width:100vw;
-        margin-left:calc(50% - 50vw);
-      ">
-        <iframe
-          src="/Hotels-AUV.pdf"
-          style="width:100%; height:90vh; border:none;">
-        </iframe>
-      </div>
+  - block: contact
+    content:
+      title: Hotel Recommendations
+      text: |
+        <div style="
+          width:100vw;
+          margin-left:calc(50% - 50vw);
+        ">
+          <iframe
+            src="/Hotels-AUV.pdf"
+            style="width:100%; height:90vh; border:none;">
+          </iframe>
+        </div>
 
   - block: markdown
     design:
