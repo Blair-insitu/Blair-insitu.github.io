@@ -56,14 +56,14 @@ sections:
 
   - block: markdown
     content: |
-      ## Hotel Recommendations
-      
-     <iframe
-        src="/hotels-auv.pdf"
-        width="100%"
-        height="600"
-        style="border: none;">
-      </iframe>
+       ## Hotel Recommendations
+       
+       <iframe
+          src="/hotels-auv.pdf"
+          width="100%"
+          height="600"
+          style="border: none;">
+       </iframe>
 
 
     design:
