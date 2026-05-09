@@ -55,8 +55,8 @@ sections:
         We have a limited number of places for accompanying guests to join the symposium Gala dinner on Wednesday 2nd September 2026. 
   
       design:
-      columns: '1'
-      background:
+        columns: '1'
+        background:
         image: 
           filename: biocam_on_autosub6000_light.png
           filters:
@@ -65,7 +65,7 @@ sections:
           position: center
           size: cover
           text_color_light: false
-      spacing:
+        spacing:
         padding: ['100px', '0', '100px', '0']
 
   - block: markdown
