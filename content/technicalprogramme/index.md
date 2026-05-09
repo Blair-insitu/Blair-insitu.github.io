@@ -89,7 +89,7 @@ sections:
 
   - block: markdown
     content:
-      title: Panel & Drinks Reception
+      title: Panel & Ice Breaker Reception
       text: |
         <details>
           <summary>
