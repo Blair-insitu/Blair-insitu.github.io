@@ -72,8 +72,8 @@ sections:
       text: |
         <iframe
           src="/Hotels-AUV.pdf"
-          width="100%"
-          height="600"
+          width="200%"
+          height="800"
           style="border:none;">
         </iframe>
 
