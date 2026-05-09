@@ -71,13 +71,12 @@ sections:
       title: Hotel Recommendations
       text: |
         <div style="
-          width:80vw;
+          width:100vw;
           margin-left:calc(50% - 50vw);
-          margin-right:calc(50% - 50vw);
         ">
           <iframe
             src="/Hotels-AUV.pdf"
-            style="width:100%; height:90vh; border:none;">
+            style="width:80%; height:90vh; border:none;">
           </iframe>
         </div>
 
