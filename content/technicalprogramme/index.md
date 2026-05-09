@@ -141,7 +141,7 @@ sections:
                 width: 90vw;
                 max-width: 1600px;
                 display: grid;
-                grid-template-columns: 0.85fr 1.2fr 1.15fr 0.9fr 0.9fr;
+                grid-template-columns: 0.9fr 1.1fr 1fr 1fr 1fr;
                 gap: 20px;
                 align-items: start;
                 margin:0 auto;
