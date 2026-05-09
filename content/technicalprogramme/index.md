@@ -34,12 +34,13 @@ sections:
         padding: ['100px', '0', '100px', '0']
 
   
-
   - block: markdown
     content:
       title: Keynotes
       text: |
+        <details>
         <div style="display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 40px; align-items: start;">
+          
   
           <!-- Column 1: Gwyn Griffiths -->
           <div>
@@ -68,6 +69,7 @@ sections:
           </div>
   
         </div>
+        </details>
     design:
       columns: '1'
 
