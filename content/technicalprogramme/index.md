@@ -110,7 +110,7 @@ sections:
                 margin-left:calc(50% - 50vw);
               ">
                 <div style="
-                  width: 70vw;
+                  width: 90vw;
                   max-width: 1600px;
                   display: grid;
                   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
@@ -138,7 +138,7 @@ sections:
             margin-left:calc(50% - 50vw);
           ">
             <div style="
-                width: 70vw;
+                width: 90vw;
                 max-width: 1600px;
                 display: grid;
                 grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
