@@ -114,7 +114,7 @@ sections:
                 align-items: start;
               ">
                 <div><img src="/Claire%20Asher_sq.jpg" style="width:100%; height:auto;">
-                Claire Asher (our facilitator)</div>
+                Claire Asher (facilitator)</div>
                 <div><img src="/Dan%20Hook_sq.jpg" style="width:100%; height:auto;">
                 Dan Hook</div>
                 <div><img src="/Laura%20Weihl_sq.jpg" style="width:100%; height:auto;">
