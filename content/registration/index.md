@@ -67,7 +67,6 @@ sections:
           text_color_light: false
       spacing:
         padding: ['100px', '0', '100px', '0']
-
   - block: markdown
     content: |
       ## Hotel Recommendations
@@ -78,7 +77,6 @@ sections:
         height="600"
         style="border: none;">
       </iframe>
-
   - block: markdown
     design:
       columns: '1'
