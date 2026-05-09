@@ -1,3 +1,7 @@
+this still happens.
+
+I need a complete corrected version of this. no changes to content, no shortcuts or anything. word for word with corrected spacing only
+
 ---
 title: Registration
 date: 2025-09-01
@@ -45,17 +49,19 @@ sections:
               <td style="border: 2px solid black; padding: 0.2rem;">Additional gala dinner guest</td>
               <td style="border: 2px solid black; padding: 0.2rem;">£150</td>
               <td style="border: 2px solid black; padding: 0.2rem;">£150</td>
-            </tr>
+            </tr>    
           </tbody>
         </table>
 
         <br>
 
-        We have a limited number of places for accompanying guests to join the symposium Gala dinner on Wednesday 2nd September 2026.
-    design:
-      columns: '1'
-      background:
-        image:
+
+        We have a limited number of places for accompanying guests to join the symposium Gala dinner on Wednesday 2nd September 2026. 
+  
+      design:
+        columns: '1'
+        background:
+        image: 
           filename: biocam_on_autosub6000_light.png
           filters:
             brightness: 0.4
@@ -63,7 +69,7 @@ sections:
           position: center
           size: cover
           text_color_light: false
-      spacing:
+        spacing:
         padding: ['100px', '0', '100px', '0']
 
   - block: markdown
@@ -75,13 +81,13 @@ sections:
         width="100%"
         height="600"
         style="border: none;"
-      ></iframe>
+      ></iframe>    
 
   - block: markdown
     design:
       columns: '1'
       background:
-        image:
+        image: 
           filename: sponsors_d.png
           filters:
             brightness: 1
