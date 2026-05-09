@@ -7,15 +7,3 @@
 .cta-group {
   justify-content: center;
 }
-
-details summary {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  cursor: pointer;
-  font-size: 1.1rem;
-}
-
-details summary::-webkit-details-marker {
-  margin-right: 0.25rem;
-}
