@@ -39,6 +39,21 @@ sections:
       title: Keynotes
       text: |
         <details>
+        
+        <summary>
+            <strong>Prof Gwyn Griffiths MBE</strong>
+            <img
+              src="/Gwyn%20Griffiths.jpg"
+              alt="Prof Gwyn Griffiths"
+              style="
+                height: 40px;
+                width: auto;
+                margin-left: 12px;
+                vertical-align: middle;
+                border-radius: 4px;
+              ">
+          </summary>
+
         <div style="display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 40px; align-items: start;">
           
   
