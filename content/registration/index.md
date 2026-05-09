@@ -53,10 +53,10 @@ sections:
 
 
         We have a limited number of places for accompanying guests to join the symposium Gala dinner on Wednesday 2nd September 2026. 
-  
-      design:
-        columns: '1'
-        background:
+
+    design:
+      columns: '1'
+      background:
         image: 
           filename: biocam_on_autosub6000_light.png
           filters:
@@ -65,19 +65,19 @@ sections:
           position: center
           size: cover
           text_color_light: false
-        spacing:
+      spacing:
         padding: ['100px', '0', '100px', '0']
 
   - block: markdown
     content: |
-      ## Hotel Recommendations
-
-      <iframe
-        src="/hotels-auv.pdf"
-        width="100%"
-        height="600"
-        style="border: none;"
-      ></iframe>    
+       ## Hotel Recommendations
+       
+       <iframe
+          src="/hotels-auv.pdf"
+          width="100%"
+          height="600"
+          style="border: none;">
+       </iframe>
 
   - block: markdown
     design:
