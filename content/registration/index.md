@@ -70,7 +70,7 @@ sections:
     content:
       title: Hotel Reccomendations
       text: |
-        <div style="max-width:1200px; margin:0 auto;">
+        <div style="max-width:2000px; margin:0 auto;">
           <iframe
             src="/Hotels-AUV.pdf"
             width="100%"
