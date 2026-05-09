@@ -43,17 +43,15 @@ sections:
         <div style="display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 40px; align-items: start;">
     
           <!-- Column 1: Gwyn Griffiths -->
-          <div>
-            <h3><strong>Autosub under ice: A story of large risks, great people and great science</strong></h3>
+          <div>            
             <img src="/Gwyn%20Griffiths.jpg" style="width:82%; height:auto;">          
-            <h3><strong>Prof Gwyn Griffiths MBE</strong></h3>
+            <h3><strong>Autosub under ice: A story of large risks, great people and great science - Prof Gwyn Griffiths MBE</strong></h3>
           </div>
   
           <!-- Column 2: Dan Hook -->
-          <div>
-            <h3><strong>USVs – 25 year recap and 5 year look ahead</strong></h3><br>
+          <div>            
             <img src="/Dan%20Hook.jpg" style="width:100%; height:auto;">          
-            <h3><strong>Dan Hook</strong></h3>
+            <h3><strong>USVs – 25 year recap and 5 year look ahead - Dan Hook</strong></h3>
           </div>
         </div>
         </summary>
