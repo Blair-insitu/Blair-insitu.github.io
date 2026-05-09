@@ -70,12 +70,15 @@ sections:
     content:
       title: Hotel Reccomendations
       text: |
-        <iframe
-          src="/hotels-auv.pdf"
+        <object
+          data="/hotels-auv.pdf"
+          type="application/pdf"
           width="100%"
-          height="600"
-          style="border: none;">
-        </iframe>
+          height="600">
+          <p>Your browser can’t display PDFs.
+             <a href="/hotels-auv.pdf">Download the PDF</a>.
+          </p>
+        </object>
     
   - block: markdown
     design:
