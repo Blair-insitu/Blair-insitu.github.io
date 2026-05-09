@@ -69,16 +69,11 @@ sections:
   - block: contact
     content:
       title: Hotel Reccomendations
-      text: |
-        <object
-          data="/hotels-auv.pdf"
-          type="application/pdf"
-          width="100%"
-          height="600">
-          <p>Your browser can’t display PDFs.
-             <a href="/hotels-auv.pdf">Download the PDF</a>.
-          </p>
-        </object>
+      text: |        
+        {{ with .Resources.Get "hotels-auv.pdf" }}
+        <object data="{{ .RelPermalink }}" width="100%" height="600"></object>
+        {{ end }}
+
     
   - block: markdown
     design:
