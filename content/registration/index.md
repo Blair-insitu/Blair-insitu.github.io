@@ -13,43 +13,43 @@ sections:
 
         Pricing details are as follows, where the early bird deadline will be Monday 6th July 2026. When registering, please indicate if you would like to join a Marine Autonomony and Robotic Systems (MARS) facility tour.
 
-        &lt;table style="border-collapse: collapse; width: 50%; margin: auto;"&gt;
-          &lt;thead&gt;
-            &lt;tr&gt;
-              &lt;th style="border: 2px solid black; padding: 0.2rem;"&gt;Category&lt;/th&gt;
-              &lt;th style="border: 2px solid black; padding: 0.2rem;"&gt;Regular&lt;/th&gt;
-              &lt;th style="border: 2px solid black; padding: 0.2rem;"&gt;Early bird&lt;/th&gt;
-            &lt;/tr&gt;
-          &lt;/thead&gt;
-          &lt;tbody&gt;
-            &lt;tr&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;Non-IEEE&lt;/td&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;£550&lt;/td&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;£495&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;IEEE&lt;/td&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;£495&lt;/td&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;£415&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;Student&lt;/td&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;£220&lt;/td&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;£195&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;Life member&lt;/td&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;£220&lt;/td&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;£195&lt;/td&gt;
-            &lt;/tr&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;Additional gala dinner guest&lt;/td&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;£150&lt;/td&gt;
-              &lt;td style="border: 2px solid black; padding: 0.2rem;"&gt;£150&lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;/tbody&gt;
-        &lt;/table&gt;
+        <table style="border-collapse: collapse; width: 50%; margin: auto;">
+          <thead>
+            <tr>
+              <th style="border: 2px solid black; padding: 0.2rem;">Category</th>
+              <th style="border: 2px solid black; padding: 0.2rem;">Regular</th>
+              <th style="border: 2px solid black; padding: 0.2rem;">Early bird</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;">Non-IEEE</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">£550</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">£495</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;">IEEE</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">£495</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">£415</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;">Student</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">£220</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">£195</td>
+            </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;">Life member</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">£220</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">£195</td>
+            </tr>
+              <td style="border: 2px solid black; padding: 0.2rem;">Additional gala dinner guest</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">£150</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">£150</td>
+            </tr>
+          </tbody>
+        </table>
 
-        &lt;br&gt;
+        <br>
 
         We have a limited number of places for accompanying guests to join the symposium Gala dinner on Wednesday 2nd September 2026.
     design:
@@ -70,12 +70,12 @@ sections:
     content: |
       ## Hotel Recommendations
 
-      &lt;iframe
+      <iframe
         src="/hotels-auv.pdf"
         width="100%"
         height="600"
         style="border: none;"
-      &gt;&lt;/iframe&gt;
+      ></iframe>
 
   - block: markdown
     design:
