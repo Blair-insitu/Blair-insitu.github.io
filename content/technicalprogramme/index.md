@@ -100,36 +100,37 @@ sections:
 
   - block: contact
     content:
-      title: Hotel Recommendations
+      title: 
       text: |
         <details>
           <summary>          
-            <h3><strong>Our panelists (click for details)</strong></h3>
-              <div style="
+            
+            <div style="
                 width:100vw;
                 margin-left:calc(50% - 50vw);
+            ">
+            <h3><strong>Our panelists (click for details)</strong></h3>
+              <div style="
+                width: 90vw;
+                max-width: 1600px;
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+                gap: 20px;
+                align-items: start;
+                margin:0 auto;
               ">
-                <div style="
-                  width: 90vw;
-                  max-width: 1600px;
-                  display: grid;
-                  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-                  gap: 20px;
-                  align-items: start;
-                  margin:0 auto;
-                ">
-                  <div><img src="/Claire%20Asher_sq.jpg" style="width:100%; height:auto;">
-                  <h3><strong>Dr Claire Asher (facilitator)</strong></h3></div>
-                  <div><img src="/Gwyn%20Griffiths_sq.jpg" style="width:100%; height:auto;">
-                  <h3><strong>Prof Gwyn Griffiths MBE</strong></h3></div>
-                  <div><img src="/Laura%20Weihl_sq.jpg" style="width:100%; height:auto;">
-                  <h3><strong>Dr Laura Weihl</strong></h3></div>
-                  <div><img src="/Dan%20Hook_sq.jpg" style="width:100%; height:auto;">
-                  <h3><strong>Dan Hook</strong></h3></div>
-                  <div><img src="/Edith%20Sep%2025_sq.jpg" style="width:100%; height:auto;">
-                  <h3><strong>Dr Edith-Clare Hall</strong></h3></div>
-                </div>
+                <div><img src="/Claire%20Asher_sq.jpg" style="width:100%; height:auto;">
+                <h3><strong>Dr Claire Asher (facilitator)</strong></h3></div>
+                <div><img src="/Gwyn%20Griffiths_sq.jpg" style="width:100%; height:auto;">
+                <h3><strong>Prof Gwyn Griffiths MBE</strong></h3></div>
+                <div><img src="/Laura%20Weihl_sq.jpg" style="width:100%; height:auto;">
+                <h3><strong>Dr Laura Weihl</strong></h3></div>
+                <div><img src="/Dan%20Hook_sq.jpg" style="width:100%; height:auto;">
+                <h3><strong>Dan Hook</strong></h3></div>
+                <div><img src="/Edith%20Sep%2025_sq.jpg" style="width:100%; height:auto;">
+                <h3><strong>Dr Edith-Clare Hall</strong></h3></div>
               </div>
+            </div>
           </summary>
         
           <!-- DETAILS BODY -->
