@@ -100,7 +100,7 @@ sections:
 
   - block: contact
     content:
-      title: Hotel Recommendations
+      title: 
       text: |
         <details>
           <summary>          
