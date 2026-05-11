@@ -104,12 +104,12 @@ sections:
       text: |
         <details>
           <summary>          
-            
+            <h3><strong>Our panelists (click for details)</strong></h3>
             <div style="
                 width:100vw;
                 margin-left:calc(50% - 50vw);
             ">
-            <h3><strong>Our panelists (click for details)</strong></h3>
+            
               <div style="
                 width: 90vw;
                 max-width: 1600px;
