@@ -15,6 +15,18 @@ sections:
 
           Nominations must be received using the [nomination form](https://forms.office.com/e/xe3TRnMLeq) by the **6th July 2026** for consideration by the award committee. The awards will be presented at AUV 2026.
 
+Below is a list of recent recipients 
+
+| Year | AUV Technical Achievement / Lifetime Achievement | Rising Star |
+|------|--------------------------------------------------|-------------|
+| 2010 | Tony Healey                                     |   NA         |
+| 2016 | Tamaki Ura                                      |   NA         |
+| 2018 | William Kirkwood                                | Hayato Kondo, João Sousa |
+| 2020 | António Pascoal                                 | Martin Ludvigsen, Mike Jakuba |
+| 2022 | Hanumant Singh                                  | Blair Thornton, Nikola Mišković |
+| 2024 | Tom Austin                                      | Toshihiro Maki |
+| 2026 |  ???                                            |   ???         |
+
     design:
       columns: '1'
       background:
