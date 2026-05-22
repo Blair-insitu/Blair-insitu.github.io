@@ -15,17 +15,51 @@ sections:
 
           Nominations must be received using the [nomination form](https://forms.office.com/e/xe3TRnMLeq) by the **6th July 2026** for consideration by the award committee. The awards will be presented at AUV 2026.
 
-          Below is a list of recent recipients 
+          Below is a list of recent awardees. 
           
-          | Year | Technical/Lifetime Achievement | Rising Star |
-          |------|--------------------------------|-------------|
-          | 2010 | Tony Healey                    |   NA         |
-          | 2016 | Tamaki Ura                     |   NA         |
-          | 2018 | William Kirkwood               | Hayato Kondo, João Sousa |
-          | 2020 | António Pascoal                | Martin Ludvigsen, Mike Jakuba |
-          | 2022 | Hanumant Singh                 | Blair Thornton, Nikola Mišković |
-          | 2024 | Tom Austin                     | Toshihiro Maki |
-          | 2026 |  ???                           |   ???         |
+          <table style="border-collapse: collapse;">
+            <tr>
+              <th style="border:1px solid black;">Year</th>
+              <th style="border:1px solid black;">Technical/Lifetime Achievement</th>
+              <th style="border:1px solid black;">Rising Star</th>
+            </tr>
+            <tr>
+              <td style="border:1px solid black;">2010</td>
+              <td style="border:1px solid black;">Tony Healey</td>
+              <td style="border:1px solid black;">NA</td>
+            </tr>
+            <tr>
+              <td style="border:1px solid black;">2016</td>
+              <td style="border:1px solid black;">Tamaki Ura</td>
+              <td style="border:1px solid black;">NA</td>
+            </tr>
+            <tr>
+              <td style="border:1px solid black;">2018</td>
+              <td style="border:1px solid black;">William Kirkwood</td>
+              <td style="border:1px solid black;">Hayato Kondo, João Sousa</td>
+            </tr>
+            <tr>
+              <td style="border:1px solid black;">2020</td>
+              <td style="border:1px solid black;">António Pascoal</td>
+              <td style="border:1px solid black;">Martin Ludvigsen, Mike Jakuba</td>
+            </tr>
+            <tr>
+              <td style="border:1px solid black;">2022</td>
+              <td style="border:1px solid black;">Hanumant Singh</td>
+              <td style="border:1px solid black;">Blair Thornton, Nikola Mišković</td>
+            </tr>
+            <tr>
+              <td style="border:1px solid black;">2024</td>
+              <td style="border:1px solid black;">Tom Austin</td>
+              <td style="border:1px solid black;">Toshihiro Maki</td>
+            </tr>
+            <tr>
+              <td style="border:1px solid black;">2026</td>
+              <td style="border:1px solid black;">???</td>
+              <td style="border:1px solid black;">???</td>
+            </tr>
+          </table>
+
 
     design:
       columns: '1'
