@@ -53,11 +53,6 @@ sections:
               <td style="border:1px solid black;">Tom Austin</td>
               <td style="border:1px solid black;">Toshihiro Maki</td>
             </tr>
-            <tr>
-              <td style="border:1px solid black;">2026</td>
-              <td style="border:1px solid black;">???</td>
-              <td style="border:1px solid black;">???</td>
-            </tr>
           </table>
 
 
