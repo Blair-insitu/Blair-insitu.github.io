@@ -17,15 +17,15 @@ sections:
 
           Below is a list of recent recipients 
           
-          | Year | AUV Technical Achievement / Lifetime Achievement | Rising Star |
-          |------|--------------------------------------------------|-------------|
-          | 2010 | Tony Healey                                     |   NA         |
-          | 2016 | Tamaki Ura                                      |   NA         |
-          | 2018 | William Kirkwood                                | Hayato Kondo, João Sousa |
-          | 2020 | António Pascoal                                 | Martin Ludvigsen, Mike Jakuba |
-          | 2022 | Hanumant Singh                                  | Blair Thornton, Nikola Mišković |
-          | 2024 | Tom Austin                                      | Toshihiro Maki |
-          | 2026 |  ???                                            |   ???         |
+          | Year | Technical/Lifetime Achievement | Rising Star |
+          |------|--------------------------------|-------------|
+          | 2010 | Tony Healey                    |   NA         |
+          | 2016 | Tamaki Ura                     |   NA         |
+          | 2018 | William Kirkwood               | Hayato Kondo, João Sousa |
+          | 2020 | António Pascoal                | Martin Ludvigsen, Mike Jakuba |
+          | 2022 | Hanumant Singh                 | Blair Thornton, Nikola Mišković |
+          | 2024 | Tom Austin                     | Toshihiro Maki |
+          | 2026 |  ???                           |   ???         |
 
     design:
       columns: '1'
