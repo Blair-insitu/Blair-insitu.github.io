@@ -17,7 +17,7 @@ sections:
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
           <li>Use the <a href="https://www.ieee.org/conferences/publishing/templates" target="_blank">IEEE conference template</a></li>
           <li>A4, English language</li>
-          <li>No more than <strong>6 pages</strong> including title, figures, tables, acknoweledgements and references</li>
+          <li>No more than <strong>6 pages</strong> including title, figures, tables, acknowledgements and references</li>
           <li>Convert your paper to a <strong>PDF</strong> when ready to submit</li>
         </ul>
 
