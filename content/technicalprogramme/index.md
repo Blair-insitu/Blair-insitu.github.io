@@ -163,9 +163,7 @@ sections:
 
         This workshop will take place on Friday, 4th September 2026, directly following the IEEE OES AUV Symposium, also held in Southampton.
 
-        You can submit an abstract for a technical talk in one of two tracks: lightning talks and standard talks.
-
-        For more details, including abstract submission, preliminary agenda, and registration, see:
+        You can submit an abstract for a technical talk in one of two tracks: lightning talks and standard talks. For more details, including abstract submission, preliminary agenda, and registration, see:
 
         <a href="https://oceansoft.org/community-day-uk-2026" target="_blank"> oceansoft.org/community-day-uk-2026 </a>
     design:
