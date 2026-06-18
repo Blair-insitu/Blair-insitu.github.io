@@ -86,8 +86,17 @@ sections:
               <td style="border: 2px solid black; padding: 0.2rem;">1–3 September 2026</td>
               <td style="border: 2px solid black; padding: 0.2rem;">Symposium dates</td>
             </tr>
+            <tr>
+              <td style="border: 2px solid black; padding: 0.2rem;">*4 September 2026*</td>
+              <td style="border: 2px solid black; padding: 0.2rem;">*Open Ocean Software Community Day UK*</td>
+            </tr>
           </tbody>
         </table>
+
+        Note the Open Ocean Software Community Day UK is not part of the IEEE OES AUV2026 programme, but is an independently organised event that will take place at the same venue after the conference. Please visit 
+a href="https://oceansoft.org/community-day-uk-2026" target="_blank">
+      oceansoft.org/community-day-uk-2026
+for more information.
     design:
       columns: '1'
 
