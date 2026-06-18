@@ -41,11 +41,11 @@ sections:
 
           ## Accomodation
 
-          Information on local hotels will be provided nearer the time.
+          Hotel recommendations are provided on the [registration page](https://www.auv2026-southampton.com/registration/).
 
           ## VISA letters
 
-          Information about UK visa requirements is available via the [government website](https://www.gov.uk/browse/visas-immigration). Letters will be made available to registered authors of accepted papers on request.'
+          Information about UK visa requirements is available via the [government website](https://www.gov.uk/browse/visas-immigration). Letters are available to registered authors of accepted papers on request.'
 
     design:
       columns: '1'
