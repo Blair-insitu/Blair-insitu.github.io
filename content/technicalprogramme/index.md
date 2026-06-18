@@ -159,11 +159,11 @@ sections:
     content:
       title: Open Ocean Software Community Day UK – Friday, 4th September 2026
       text: |
-        Open Ocean Software would like to invite you to our first community day at the National Oceanography Centre in Southampton, UK, where you can expect focused talks, in-depth discussions, and plenty of time for networking in a single-track format. This is also your chance to have early feedback on the goals and implementation of the Open Ocean Software organization.
+        Open Ocean Software would like to invite you to their first community day at the National Oceanography Centre in Southampton, UK, where you can expect focused talks, in-depth discussions, and plenty of time for networking in a single-track format. This is also your chance to have early feedback on the goals and implementation of the Open Ocean Software organization.
 
         This workshop will take place on Friday, 4th September 2026, directly following the IEEE OES AUV Symposium, also held in Southampton.
 
-        We invite you to submit an abstract for a technical talk in one of two tracks: lightning talks and standard talks.
+        You can submit an abstract for a technical talk in one of two tracks: lightning talks and standard talks.
 
         For more details, including abstract submission, preliminary agenda, and registration, see:
 
