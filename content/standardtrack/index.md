@@ -23,7 +23,7 @@ sections:
 
         <br>
     
-        **<span style="color:#C68600;"><strong>Submit: Deadline <del>1st July 2026</del><span style="color:red;">6th July 2026</span></strong></span>**
+        **<span style="color:#C68600;"><strong>Submit: Deadline <del>1st July 2026</del> <span style="color:red;">6th July 2026</span></strong></span>**
     
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
           <li>Upload a PDF of your paper and a signed <a href="/pdfs/ieeecopyrightform-2.pdf" target="_blank"> IEEE copyright and consent form</a> to the <a href="https://southampton.qualtrics.com/jfe/form/SV_6QcwJcyebgTQpng" target="_blank">PAPER PORTAL</a>.</li>
