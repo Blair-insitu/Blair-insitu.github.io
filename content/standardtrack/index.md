@@ -93,10 +93,7 @@ sections:
           </tbody>
         </table>
 
-        Note the Open Ocean Software Community Day UK is not part of the IEEE OES AUV2026 programme, but is an independently organised event that will take place at the same venue after the conference. Please visit 
-a href="https://oceansoft.org/community-day-uk-2026" target="_blank">
-      oceansoft.org/community-day-uk-2026
-for more information.
+        Note the Open Ocean Software Community Day UK is an independently organised event that will take place at the same venue after IEEE OES AUV2026 programme. Please visit <a href="https://oceansoft.org/community-day-uk-2026" target="_blank"> oceansoft.org/community-day-uk-2026</a> for more information.
     design:
       columns: '1'
 
