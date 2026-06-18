@@ -168,8 +168,8 @@ sections:
         For more details, including abstract submission, preliminary agenda, and registration, see:
 
         <a href="https://oceansoft.org/community-day-uk-2026" target="_blank"> oceansoft.org/community-day-uk-2026 </a>
-  design:
-    columns: '1'
+    design:
+      columns: '1'
     
   - block: markdown
     design:
