@@ -23,7 +23,8 @@ sections:
 
         <br>
     
-        **<span style="color:#C68600;"><strong>Submit: Deadline 1st July 2026</strong></span>**
+        **<span style="color:#C68600;"><strong>Submit: Deadline <del>1st July 2026</del><span style="color:red;">6th July 2026</span></strong></span>**
+    
         <ul style="margin-top:0; margin-bottom:0; padding-left:1.2em; line-height:0.8;">
           <li>Upload a PDF of your paper and a signed <a href="/pdfs/ieeecopyrightform-2.pdf" target="_blank"> IEEE copyright and consent form</a> to the <a href="https://southampton.qualtrics.com/jfe/form/SV_6QcwJcyebgTQpng" target="_blank">PAPER PORTAL</a>.</li>
           <li>You should receive a confirmation email; if not contact <a href="mailto:auv2026@soton.ac.uk">auv2026@soton.ac.uk</a>.</li>
@@ -74,7 +75,7 @@ sections:
               <td style="border: 2px solid black; padding: 0.2rem;">Registration opens</td>
             </tr>
             <tr>
-              <td style="border: 2px solid black; padding: 0.2rem;">1 July 2026</td>
+              <td style="border: 2px solid black; padding: 0.2rem;"><s>1 July 2026</s> <b style="color:red;">6 July 2026</b></td>
               <td style="border: 2px solid black; padding: 0.2rem;">Final paper submission</td>
             </tr>
             <tr>
