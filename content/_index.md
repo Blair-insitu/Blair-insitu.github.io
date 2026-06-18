@@ -89,6 +89,7 @@ Information about the **peer-review track** and the **standard track** can be fo
           </div>
 
         </div>
+
         We are also pleased to acknowledge the Office of Naval Research Global for its support of IEEE AUV2026 through the Collaborative Science Program.
     design:
       columns: '1'
