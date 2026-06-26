@@ -98,7 +98,7 @@ sections:
 
         Coach travel (leaving National Oceanography Centre at 17:30) is included as part of your booking. No return travel will be provided. The venue is located in the centre of the city of Southampton, and guests are free to depart the reception at their convenience.
 
-        If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Panel and Ice Breaker)
+        If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Panel%20and%20Ice%20Breaker)
 
   - block: contact
     content:
@@ -187,7 +187,7 @@ sections:
         - Smoking and vaping are not permitted onboard. There is a designated area on the jetty next to the ship.
         - Footwear: Stilettos or very narrow heels should be avoided to prevent damage to the ship. Heels should be no narrower than a 5p coin. Heel stoppers are recommended.
    
-        If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Gala Dinner)
+        If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Gala%20Dinner)
         
     design:
       columns: '1'
