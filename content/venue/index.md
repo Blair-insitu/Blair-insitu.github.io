@@ -45,7 +45,11 @@ sections:
 
           ## VISA letters
 
-          Information about UK visa requirements is available via the [government website](https://www.gov.uk/browse/visas-immigration). Letters are available to registered authors of accepted papers on request.'
+          Information about UK visa requirements is available via the [government website](https://www.gov.uk/browse/visas-immigration). Letters are available to registered authors of accepted papers on request.
+
+          ## Events
+
+          Information about our panel event and gala dinner can be found about on the [technical programme](https://www.auv2026-southampton.com/technicalprogramme/).'
 
     design:
       columns: '1'
