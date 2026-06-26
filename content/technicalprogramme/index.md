@@ -155,6 +155,41 @@ sections:
           </div>
         </details>      
 
+
+  - block: markdown
+    content:
+      title: Gala Dinner
+      text: |
+        
+        <img src="/HMS%20warrior.png" style="width:100%; height:auto;">
+
+        The Gala Dinner will be on the  Main Gun Deck at HMS Warrior, [Portsmouth Historic Dockyard](https://www.royalnavymuseums.org.uk/venue-hire/hms-warrior)
+        <strong>Date: </strong>Wednesday 2 September 2026
+    
+        <strong>Time: </strong>19:00 - 21:30
+
+        <strong>Venue: </strong>[HMS Warrior, Portsmouth Historic Dockyard, Victory Gate, Portsmouth PO1 3QX](https://www.royalnavymuseums.org.uk/venue-hire/hms-warrior)
+
+        <strong>Dress code: </strong>Smart casual
+    
+        The HMS Warrior was launched in 1860 as the Royal Navy’s first iron-hulled, armoured warship and is a landmark of Victorian engineering. Coach travel (leaving National Oceanography Centre at 17:55) is included as part of your booking, and will return to the same location. Dinner will be served at mess tables among the cannons on the Main Gun Deck, with a bar located mid-deck in the galley area.
+
+        Access is via a jetty and gangway to the Top Deck, incline varies with tide and can be steep at high tide. There are ladder steps with rope handrails to the lower decks where food will be served. Lighting is low, and some areas have low ceilings and steps. Toilet facilities are located two decks below the Main Gun Deck.
+
+        <strong>Accessibility: </strong> A chair lift is available from the Upper Deck to Main Gun Deck dining area. Guests must be able to transfer in/out of the chair independently, and the lift has a weight limit of 100kgs. There are two wheelchairs available for guests to use, and there is a maximum of 2 wheelchair users onboard at any time due to fire, health & safety regulations. Accessible toilets are available on the Cable deck.
+
+        <strong>Health and safety: </strong> HMS is a historic ship. Staff will be available to assist guests, but guests are required to take care onboard due to:
+    - Trip hazards, low ceilings and low lighting.
+    - Steep ladders with rope handrails.
+    - The deck can be slippery in wet weather.
+    - Smoking and vaping are not permitted onboard. There is a designated area on the jetty next to the ship.
+    - Footwear: Stilettos or very narrow heels should be avoided to prevent damage to the ship. Heels should be no narrower than a 5p coin. Heel stoppers are recommended.
+   
+      If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk)
+        
+    design:
+      columns: '1'
+
   - block: markdown
     content:
       title: Open Ocean Software Community Day UK – Friday, 4th September 2026
