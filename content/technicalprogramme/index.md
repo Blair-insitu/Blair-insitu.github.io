@@ -16,7 +16,7 @@ sections:
         - **Posters:** Posters must be prepared in A0 (841 mm × 1189 mm) or A1 (594 mm × 841 mm) format and displayed in portrait orientation. The poster boards measure 1000 mm wide × 1800 mm tall, anything exceeding these dimensions cannot be accommodated. **All authors are required to bring their posters already printed**. There are no printing facilities available onsite during the conference.	All necessary fixtures for mounting posters will be provided.
         - **Presentations:** 12 minutes + 3minutes for questions. There will be a windows PC with the latest version of microsoft powerpoint and adobe PDF installed. Upload presentation before the start of your session. There will also be an HDMI input if you prefer to use your own laptop. Please coordinate with your session chair.
 
-        All authors should have been contacted by our technical committee on their presentation format. If you submitted to our Journal or Standard track, and you **are unsure whether/how you will be presenting, get in touch [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk)**
+        All authors should have been contacted by our technical committee on their presentation format. If you submitted to our Journal or Standard track, and you **are unsure whether/how you will be presenting, get in touch [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Technical Programme)**
 
     
     design:
@@ -97,6 +97,8 @@ sections:
         <strong>Venue: </strong>[Southampton City Art Gallery](https://southamptoncityartgallery.com/), Civic Centre, Commercial Road, Southampton SO14 7LY
 
         Coach travel (leaving National Oceanography Centre at 17:30) is included as part of your booking. No return travel will be provided. The venue is located in the centre of the city of Southampton, and guests are free to depart the reception at their convenience.
+
+        If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Panel and Ice Breaker)
 
   - block: contact
     content:
@@ -184,7 +186,7 @@ sections:
         - Smoking and vaping are not permitted onboard. There is a designated area on the jetty next to the ship.
         - Footwear: Stilettos or very narrow heels should be avoided to prevent damage to the ship. Heels should be no narrower than a 5p coin. Heel stoppers are recommended.
    
-        If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk)
+        If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Gala Dinner)
         
     design:
       columns: '1'
