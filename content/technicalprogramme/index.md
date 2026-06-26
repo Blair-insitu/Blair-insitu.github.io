@@ -155,7 +155,6 @@ sections:
           </div>
         </details>      
 
-
   - block: markdown
     content:
       title: Gala Dinner
@@ -179,13 +178,13 @@ sections:
         <strong>Accessibility: </strong> A chair lift is available from the Upper Deck to Main Gun Deck dining area. Guests must be able to transfer in/out of the chair independently, and the lift has a weight limit of 100kgs. There are two wheelchairs available for guests to use, and there is a maximum of 2 wheelchair users onboard at any time due to fire, health & safety regulations. Accessible toilets are available on the Cable deck.
 
         <strong>Health and safety: </strong> HMS is a historic ship. Staff will be available to assist guests, but guests are required to take care onboard due to:
-    - Trip hazards, low ceilings and low lighting.
-    - Steep ladders with rope handrails.
-    - The deck can be slippery in wet weather.
-    - Smoking and vaping are not permitted onboard. There is a designated area on the jetty next to the ship.
-    - Footwear: Stilettos or very narrow heels should be avoided to prevent damage to the ship. Heels should be no narrower than a 5p coin. Heel stoppers are recommended.
+        - Trip hazards, low ceilings and low lighting.
+        - Steep ladders with rope handrails.
+        - The deck can be slippery in wet weather.
+        - Smoking and vaping are not permitted onboard. There is a designated area on the jetty next to the ship.
+        - Footwear: Stilettos or very narrow heels should be avoided to prevent damage to the ship. Heels should be no narrower than a 5p coin. Heel stoppers are recommended.
    
-      If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk)
+        If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk)
         
     design:
       columns: '1'
