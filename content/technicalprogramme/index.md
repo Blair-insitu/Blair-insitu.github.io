@@ -124,7 +124,7 @@ sections:
                   <h3><strong>Dr Claire Asher (facilitator)</strong></h3></div>
                   <div><img src="/Gwyn%20Griffiths_sq.jpg" style="width:100%; height:auto;">
                   <h3><strong>Prof Gwyn Griffiths MBE</strong></h3></div>
-                  <div><img src="/Emma%20Curtis_sq.jpg" style="width:100%; height:auto;">
+                  <div><img src="/Emma_Curtis_sq.jpg" style="width:100%; height:auto;">
                   <h3><strong>Dr Emma Curtis</strong></h3></div>
                   <div><img src="/Dan%20Hook_sq.jpg" style="width:100%; height:auto;">
                   <h3><strong>Dan Hook</strong></h3></div>
