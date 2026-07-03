@@ -99,14 +99,10 @@ sections:
         <img src="/southampton_city_art_gallery.png" style="width:100%; height:auto;">
 
         The Southampton City Art Gallery is located in the centre of Southampton. Its collection spans eight centuries of Western art from the Renaissance to the contemporary British art, including works by Claude Monet, J.M.W. Turner, and recent Turner Prize winners
-    
-        Please note that bags with wheels and/or those larger than standard cabin baggage size (56 × 40 × 21 cm) are not permitted inside the gallery.
-    
-        While it is possible to walk from the National Oceanography Centre (NOC), we recommend using the coach service provided as part of your conference registration.
 
-        Coach travel (leaving National Oceanography Centre at 17:30) is included as part of your registration. No return travel will be provided. The venue is located in the centre of the city of Southampton, and guests are free to depart the reception at their convenience.
+        <strong>Travel and bags</strong> Two coaches will leave the National Oceanography Centre at 17:30. These are included in your registration. No return travel will be provided. The venue is located in the centre of the city of Southampton, and guests are free to depart the reception at their convenience. The gallery is about a 35 minute walk from the main symposium venue.
 
-        
+        Please note that bags with wheels and/or those larger than standard cabin allowance (56 × 40 × 21 cm) are not permitted inside the gallery.        
 
         If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Panel%20and%20Ice%20Breaker)
 
