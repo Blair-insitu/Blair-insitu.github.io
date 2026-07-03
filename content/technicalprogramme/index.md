@@ -100,7 +100,7 @@ sections:
             
         Southampton City Art Gallery is located in the centre of Southampton. Its collection spans eight centuries of Western art from the Renaissance to the contemporary British art, including works by Claude Monet, J.M.W. Turner, and recent Turner Prize winners.
 
-        <strong>Travel and bags</strong> Two coaches will leave the National Oceanography Centre at 17:30. These are included in your registration. No return travel will be provided. The venue is located in the centre of the city of Southampton, and guests are free to depart the reception at their convenience. The gallery is about a 35 minute walk from the main symposium venue.
+        <strong>Travel and bags</strong> Two coaches will leave the National Oceanography Centre at 17:30. These are included in your registration. No return travel will be provided. The venue is located in the centre of the city of Southampton, and guests are free to depart the reception at their convenience. The gallery is about a [35 minute walk](https://www.google.com/maps/dir/National+Oceanography+Centre,+European+Way,+Southampton+SO14+3ZH/Southampton+City+Art+Gallery,+Civic+Centre,+Commercial+Rd,+Southampton+SO14+7LY/@50.901033,-1.411477,2203m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x487471330f9a8ae7:0x34c40d8613d16fc9!2m2!1d-1.3945735!2d50.8932327!1m5!1m1!1s0x487476b1caf1d5bb:0xc4c6838e674f4d54!2m2!1d-1.4064441!2d50.9085521!3e2?entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D) from the main symposium venue.
 
         Please note that bags with wheels and/or those larger than cabin allowance (56x40x21cm) are not permitted inside the gallery.        
 
