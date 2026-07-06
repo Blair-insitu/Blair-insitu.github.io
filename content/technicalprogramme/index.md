@@ -106,10 +106,6 @@ sections:
 
         If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Panel%20and%20Ice%20Breaker)
 
-  - block: markdown
-    content:
-      title: 
-      text: |
         <details>
           <summary><strong><strong>Our panelists (click for details)</strong></strong></summary>
               
