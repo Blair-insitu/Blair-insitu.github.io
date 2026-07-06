@@ -114,7 +114,7 @@ sections:
               ">
                 <div style="
                   width: 90vw;
-                  max-width: 1600px;
+                  max-width: 1200px;
                   display: grid;
                   grid-template-columns: 1fr 1fr 1fr;
                   gap: 20px;
