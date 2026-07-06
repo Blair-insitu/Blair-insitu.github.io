@@ -111,9 +111,7 @@ sections:
       title: 
       text: |
         <details>
-          <summary>          
-            <h3><strong>Our panelists (click for details)</strong></h3>
-              </summary>
+          <summary><strong><strong>Our panelists (click for details)</strong></strong></summary>
               
               <div style="
                 width:100vw;
