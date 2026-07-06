@@ -107,8 +107,7 @@ sections:
         If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Panel%20and%20Ice%20Breaker)
 
         <details>
-          <summary><strong>Our panelists (click for details)</strong></summary>
-              
+          <summary><strong>Our panelists (click for details)</strong></summary>             
               <div style="
                 width:100vw;
                 margin-left:calc(50% - 50vw);
@@ -141,7 +140,7 @@ sections:
                   <h3><strong>Dr Edith-Clare Hall</strong></h3>
                   A technical generalist focused on accelerating scientific breakthroughs for the Advanced Research and Invention Agency (ARIA). Her doctoral work developed bespoke wearable robots for progressive disease, leveraging novel hardware and AI. Her current interest is on critical interfaces where interconnected systems meet, bridging the gap between academic research and real-world application to unlock cyber-physical autonomy. Edith was winner of the Robotics & Automation Magazine Rising Star Award (2024) and is leader of Women in Robotics UK.</div>
                 </div>
-              </div>
+                </div>
 
         </details>      
 
