@@ -123,7 +123,7 @@ sections:
                   width: 90vw;
                   max-width: 1600px;
                   display: grid;
-                  grid-template-columns: repeat(3, 1fr);
+                  grid-template-columns: 1fr 1fr 1fr;
                   gap: 20px;
                   align-items: start;
                   margin:0 auto;
