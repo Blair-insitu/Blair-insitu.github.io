@@ -315,7 +315,7 @@ sections:
              style="color:inherit;">
              <strong>Board B - Novel Systems &amp; Vehicle Designs:</strong> Fernandes • Takahashi • Schumann Larson • Bolhuis • Colony • Rodriguez • Kakami </a>
         
-             <a href="https://sotonac.sharepoint.com/:f:/r/teams/IEEE-OESAUV2026SymposiumProceedings/Shared%20Documents/General/Board%20C%20%E2%80%93%20Sensing%20%26%20Environmental%20Monitoring%20(Linked%20Sessions%206,%209)?csf=1&web=1&e=Qw2XRA"
+             <br><a href="https://sotonac.sharepoint.com/:f:/r/teams/IEEE-OESAUV2026SymposiumProceedings/Shared%20Documents/General/Board%20C%20%E2%80%93%20Sensing%20%26%20Environmental%20Monitoring%20(Linked%20Sessions%206,%209)?csf=1&web=1&e=Qw2XRA"
              target="_blank"
              title="Click Board C for papers&#10;&#10;PC-1 Bekki - Sperm whale localisation using a compact hydrophone array on an underwater glider&#10;PC-2 Chaloux - Autonomous Optical Surveying of Atlantic Sea Scallops Using Long-Range AUVs&#10;PC-3 Bhayani - Communication-Efficient Coral Reef Monitoring Framework for AUVs using SfM and NeRF Pipelines&#10;PC-4 Sayed - Robustness Verification of an Autonomous Underwater Vehicle-based Plankton Classifier&#10;PC-5 Liang - Investigating Location-Regularised Self-Supervised Feature Learning for Seafloor Visual Imagery"
              style="color:inherit;">
