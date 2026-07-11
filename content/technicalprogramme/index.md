@@ -86,7 +86,8 @@ sections:
     content:
       title: Panel & Ice Breaker Reception
       text: |        
-        ## Marine Autonomy's Journey – Overlooked or Overhyped Through Different Lenses?
+        <h3 style="margin-bottom:0.5em; font-weight:700;">
+        Marine Autonomy's Journey – Overlooked or Overhyped Through Different Lenses?</h3>
 
         The panel event will explore how marine autonomy's journey is perceived from different perspectives, by people in our field working in different sectors, at different career stages, and by people outside our field. Following the panel, guests are invited to a drinks reception - an opportunity to network with attendees, and connect with our panelists.
 
