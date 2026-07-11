@@ -124,7 +124,7 @@ sections:
         
         <div class="event info"
              style="grid-column:2;grid-row:11 / 14;">
-        <br><strong>Registration:</strong> Snacks & Exhibits
+        <strong>Registration:</strong> Snacks & Exhibits
         </div>
         
         <div class="event keynote"
