@@ -37,9 +37,8 @@ sections:
   - block: markdown
     content:
       title: Keynotes
-      text: |
-        <div id="keynotes"></div>
-        <details>    
+      text: |        
+        <details id="keynotes" open>    
         <summary><strong>Our speakers (click for details)</strong>
         <div style="display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 40px; align-items: start;">
     
