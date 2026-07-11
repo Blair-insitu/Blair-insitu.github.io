@@ -320,7 +320,7 @@ sections:
              title="Click Board C for papers&#10;&#10;PC-1 Bekki - Sperm whale localisation using a compact hydrophone array on an underwater glider&#10;PC-2 Chaloux - Autonomous Optical Surveying of Atlantic Sea Scallops Using Long-Range AUVs&#10;PC-3 Bhayani - Communication-Efficient Coral Reef Monitoring Framework for AUVs using SfM and NeRF Pipelines&#10;PC-4 Sayed - Robustness Verification of an Autonomous Underwater Vehicle-based Plankton Classifier&#10;PC-5 Liang - Investigating Location-Regularised Self-Supervised Feature Learning for Seafloor Visual Imagery"
              style="color:inherit;">
              <strong>Board C – Sensing &amp; Environmental Monitoring:</strong><br>Bekki • Chaloux • Bhayani • Sayed • Liang </a>
-        
+             <br>
              <a href="https://sotonac.sharepoint.com/:f:/r/teams/IEEE-OESAUV2026SymposiumProceedings/Shared%20Documents/General/Board%20D%20%E2%80%93%20Autonomy,%20Control%20%26%20Software%20(Linked%20Sessions%2011,%2012)?csf=1&web=1&e=lpB1KX"
              target="_blank"
              title="Click Board D for papers&#10;&#10;PD-1 McGinley - Frontseat Backseat Control Architecture for AUVs Enabling Mission-Specific Autonomy&#10;PD-2 Posłuszny - Control Problem Formulation for Collaborative UxV Systems for Subsea Infrastructure Inspection&#10;PD-3 Rezayan - Interpretable Physics-Informed Hydrodynamic Derivative Identification for Autonomous Marine Vehicles Using Virtual Sea Trials and Symbolic Residuals&#10;PD-4 Von Ellenrieder - Modified Second Order Sliding Mode Observer for Acoustically-aided State Estimation of AUVs&#10;PD-5 Zhou - An Encoder-based Modeler-Actor Network for Learning-based Low-level AUV Pose Control&#10;PD-6 De Kruif - Autonomous monopile inspection in a turbulent wake&#10;PD-7 Liu - Near-Bottom Tracking Control of an X-Rudder AUV with a Bow Rudder"
@@ -503,7 +503,6 @@ sections:
            style="text-decoration:none;color:inherit;">
         <strong>Board A – Advanced Operation &amp; Multi-system Coordination (Linked Sessions 1, 5, 7)</strong>
         <br>
-        <br>
         <strong>PA-1</strong> Mahmoudian - Scalable Autonomous Underwater Docking on a Hovering AUV for Persistent Operations<br>
         <strong>PA-2</strong> Tebcherani - Fleet Size-Mobility Trade-offs for Passive Intermittent Acoustic Target Detection Using Autonomous Underwater Vehicles<br>
         <strong>PA-3</strong> Gajska - A Simulation and Field Study Analysis of Cooperative Range-Aided Localization Strategies for Compact, Low-Cost AUV Teams<br>
@@ -522,6 +521,7 @@ sections:
            rel="noopener noreferrer"
            style="text-decoration:none;color:inherit;">
         <strong>Board B – Novel Systems &amp; Vehicle Designs (Linked Sessions 3, 5)</strong>
+        <br>
         <strong>PB-1</strong> Fernandes - Modeling and Nonlinear Control Design for a Small Hydrobatic Autonomous Underwater Vehicle<br>
         <strong>PB-2</strong> Takahashi - Development of a Self-rotating Cylindrical ASV for Wave Height Observation<br>
         <strong>PB-3</strong> Schurmann Larsen - Systematic Design and Conceptualization of an Automated Seagrass Planter<br>
