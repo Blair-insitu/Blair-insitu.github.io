@@ -30,7 +30,7 @@ sections:
             grid-template-columns:80px 1fr 1fr 1fr;
         
             /* 08:00–22:00 = 14h = 56 x 15min slots */
-            grid-template-rows:60px repeat(60,30px);        
+            grid-template-rows:60px repeat(60,25px);        
             border:1px solid #444;
         }
         
@@ -312,12 +312,11 @@ sections:
              title="Click Board B for papers&#10;&#10;PB-1 Fernandes - Modeling and Nonlinear Control Design for a Small Hydrobatic Autonomous Underwater Vehicle&#10;PB-2 Takahashi - Development of a Self-rotating Cylindrical ASV for Wave Height Observation&#10;PB-3 Schurmann Larsen - Systematic Design and Conceptualization of an Automated Seagrass Planter&#10;PB-4 Bolhuis - A Modular Hydraulic Micro Manipulator for One Person Deployable Autonomous Underwater Vehicles&#10;PB-5 Colony - Novel Ballast System Design using ABENICS Mechanism&#10;PB-6 Rodriguez - MOLA AUV Toward Scalable Near-Terrain Ocean Exploration with a Cost-Effective Agile Autonomous Underwater Vehicle&#10;PB-7 Kakami - Redesign from 3,500m-class AUV to 8,000m-class AUV"
              style="color:inherit;">
              <strong>Board B - Novel Systems &amp; Vehicle Designs:</strong> Fernandes • Takahashi • Schumann Larson • Bolhuis • Colony • Rodriguez • Kakami </a>
-             <br><a href="https://sotonac.sharepoint.com/:f:/r/teams/IEEE-OESAUV2026SymposiumProceedings/Shared%20Documents/General/Board%20C%20%E2%80%93%20Sensing%20%26%20Environmental%20Monitoring%20(Linked%20Sessions%206,%209)?csf=1&web=1&e=Qw2XRA"
+             <a href="https://sotonac.sharepoint.com/:f:/r/teams/IEEE-OESAUV2026SymposiumProceedings/Shared%20Documents/General/Board%20C%20%E2%80%93%20Sensing%20%26%20Environmental%20Monitoring%20(Linked%20Sessions%206,%209)?csf=1&web=1&e=Qw2XRA"
              target="_blank"
              title="Click Board C for papers&#10;&#10;PC-1 Bekki - Sperm whale localisation using a compact hydrophone array on an underwater glider&#10;PC-2 Chaloux - Autonomous Optical Surveying of Atlantic Sea Scallops Using Long-Range AUVs&#10;PC-3 Bhayani - Communication-Efficient Coral Reef Monitoring Framework for AUVs using SfM and NeRF Pipelines&#10;PC-4 Sayed - Robustness Verification of an Autonomous Underwater Vehicle-based Plankton Classifier&#10;PC-5 Liang - Investigating Location-Regularised Self-Supervised Feature Learning for Seafloor Visual Imagery"
              style="color:inherit;">
-             <strong>Board C – Sensing &amp; Environmental Monitoring:</strong><br>Bekki • Chaloux • Bhayani • Sayed • Liang </a>
-             <br>
+             <strong>Board C – Sensing &amp; Environmental Monitoring:</strong><br>Bekki • Chaloux • Bhayani • Sayed • Liang </a>  
              <a href="https://sotonac.sharepoint.com/:f:/r/teams/IEEE-OESAUV2026SymposiumProceedings/Shared%20Documents/General/Board%20D%20%E2%80%93%20Autonomy,%20Control%20%26%20Software%20(Linked%20Sessions%2011,%2012)?csf=1&web=1&e=lpB1KX"
              target="_blank"
              title="Click Board D for papers&#10;&#10;PD-1 McGinley - Frontseat Backseat Control Architecture for AUVs Enabling Mission-Specific Autonomy&#10;PD-2 Posłuszny - Control Problem Formulation for Collaborative UxV Systems for Subsea Infrastructure Inspection&#10;PD-3 Rezayan - Interpretable Physics-Informed Hydrodynamic Derivative Identification for Autonomous Marine Vehicles Using Virtual Sea Trials and Symbolic Residuals&#10;PD-4 Von Ellenrieder - Modified Second Order Sliding Mode Observer for Acoustically-aided State Estimation of AUVs&#10;PD-5 Zhou - An Encoder-based Modeler-Actor Network for Learning-based Low-level AUV Pose Control&#10;PD-6 De Kruif - Autonomous monopile inspection in a turbulent wake&#10;PD-7 Liu - Near-Bottom Tracking Control of an X-Rudder AUV with a Bow Rudder"
