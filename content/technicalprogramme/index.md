@@ -38,7 +38,8 @@ sections:
     content:
       title: Keynotes
       text: |
-        <details id="keynotes">    
+        <div id="keynotes"></div>
+        <details>    
         <summary><strong>Our speakers (click for details)</strong>
         <div style="display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 40px; align-items: start;">
     
