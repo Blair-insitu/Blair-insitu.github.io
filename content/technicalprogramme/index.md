@@ -522,9 +522,6 @@ sections:
            rel="noopener noreferrer"
            style="text-decoration:none;color:inherit;">
         <strong>Board B – Novel Systems &amp; Vehicle Designs (Linked Sessions 3, 5)</strong>
-        
-        <br><br>
-        
         <strong>PB-1</strong> Fernandes - Modeling and Nonlinear Control Design for a Small Hydrobatic Autonomous Underwater Vehicle<br>
         <strong>PB-2</strong> Takahashi - Development of a Self-rotating Cylindrical ASV for Wave Height Observation<br>
         <strong>PB-3</strong> Schurmann Larsen - Systematic Design and Conceptualization of an Automated Seagrass Planter<br>
