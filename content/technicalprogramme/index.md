@@ -85,8 +85,7 @@ sections:
   - block: markdown
     content:
       title: Panel & Ice Breaker Reception
-      text: |
-        <div id="panel"></div>
+      text: |        
         ## Marine Autonomy's Journey – Overlooked or Overhyped Through Different Lenses?
 
         The panel event will explore how marine autonomy's journey is perceived from different perspectives, by people in our field working in different sectors, at different career stages, and by people outside our field. Following the panel, guests are invited to a drinks reception - an opportunity to network with attendees, and connect with our panelists.
@@ -107,7 +106,7 @@ sections:
 
         If you have any questions regarding this event, please contact: [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Panel%20and%20Ice%20Breaker)
 
-        <details>
+        <details id="panel" open>
           <summary><strong>Our panelists (click for details)</strong></summary>             
           <div style="
                 width:100vw;
