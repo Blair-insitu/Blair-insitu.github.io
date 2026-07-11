@@ -155,7 +155,7 @@ sections:
         
         <div class="event lunch"
              style="grid-column:2;grid-row:20 / 24;">
-        <br><strong>Lunch:</strong> <br> Exhibits & Posters
+        <strong>Lunch:</strong> <br> Exhibits & Posters
         </div>
         
         
@@ -196,7 +196,7 @@ sections:
              target="_blank"
              title="Click cell for papers&#10;&#10;03-1 Sakai - Autonomous Grasping of Seafloor Objects Under Flow Experimental Validation with AUV Tri-TON&#10;03-2 Bucci - Field deployment of a multi-robot aerial and underwater system for Posidonia oceanica monitoring&#10;03-3 Ozkahraman - Gone Fishing Post-Mission Autonomous Aerial Recovery of Unmanned Underwater Vehicles&#10;03-4 Wehbe - AUV Hydrobatics Trajectory Optimization for Water-Exit Jumps&#10;03-5 Odenwald - The Dart AUV Bridging Benthic Float and Drop Camera Concepts&#10;03-6 Meurer - State estimation and control for a tethered spiraling AUV to enable persistent and repeated sea floor monitoring"
              style="text-decoration:none;color:inherit;">
-            <br><strong>Session 3:</strong> Novel Systems & Operation<br>
+            <strong>Session 3:</strong> Novel Systems & Operation<br>
             <small><strong>Speakers:</strong> Sakai • Bucci • Wehbe <br> Ozkahraman • Odenwald • Meurer</small><br>
             <small>> Registered attendees click cell for papers</small>
           </a>
@@ -385,8 +385,6 @@ sections:
                   target="_blank"
                   rel="noopener noreferrer"
                   style="text-decoration:none;color:inherit;">     
-             <br>
-             <br>
              <strong>Gala Dinner:</strong> Onboard HMS Warrior <br>
              <br>
              <strong>IEEE OES Awards:</strong> Rising Star Award • Lifetime Achievement Award <br>
