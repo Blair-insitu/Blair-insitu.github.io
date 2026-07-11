@@ -30,8 +30,7 @@ sections:
             grid-template-columns:80px 1fr 1fr 1fr;
         
             /* 08:00–22:00 = 14h = 56 x 15min slots */
-            grid-template-rows:40px repeat(60,20px);
-        
+            grid-template-rows:50px repeat(60,20px);        
             border:1px solid #444;
         }
         
@@ -308,13 +307,11 @@ sections:
              title="Click Board A for papers&#10;&#10;PA-1 Mahmoudian - Scalable Autonomous Underwater Docking on a Hovering AUV for Persistent Operations&#10;PA-2 Tebcherani - Fleet Size-Mobility Trade-offs for Passive Intermittent Acoustic Target Detection Using Autonomous Underwater Vehicles&#10;PA-3 Gajski - A Simulation and Field Study Analysis of Cooperative Range-Aided Localization Strategies for Compact, Low-Cost AUV Teams&#10;PA-4 Yew - Low-cost, High-Precision Multi-AUV System for Close-range Coordinated Observations&#10;PA-5 Mai - Opto-Acoustic Sensing Payload for Leader-Follower AUV System"
              style="color:inherit;">
              <br><strong>Board A - Advanced Operation &amp; Multi-system Coordination:</strong> Mahmoudian • Tebcherani • Gajski • Yew • Mai </a>
-        
              <a href="https://sotonac.sharepoint.com/:f:/r/teams/IEEE-OESAUV2026SymposiumProceedings/Shared%20Documents/General/Board%20B%20%E2%80%93%20Novel%20Systems%20%26%20Vehicle%20Designs%20(Linked%20Sessions%203,%205)?csf=1&web=1&e=QaOFkD"
              target="_blank"
              title="Click Board B for papers&#10;&#10;PB-1 Fernandes - Modeling and Nonlinear Control Design for a Small Hydrobatic Autonomous Underwater Vehicle&#10;PB-2 Takahashi - Development of a Self-rotating Cylindrical ASV for Wave Height Observation&#10;PB-3 Schurmann Larsen - Systematic Design and Conceptualization of an Automated Seagrass Planter&#10;PB-4 Bolhuis - A Modular Hydraulic Micro Manipulator for One Person Deployable Autonomous Underwater Vehicles&#10;PB-5 Colony - Novel Ballast System Design using ABENICS Mechanism&#10;PB-6 Rodriguez - MOLA AUV Toward Scalable Near-Terrain Ocean Exploration with a Cost-Effective Agile Autonomous Underwater Vehicle&#10;PB-7 Kakami - Redesign from 3,500m-class AUV to 8,000m-class AUV"
              style="color:inherit;">
              <strong>Board B - Novel Systems &amp; Vehicle Designs:</strong> Fernandes • Takahashi • Schumann Larson • Bolhuis • Colony • Rodriguez • Kakami </a>
-        
              <br><a href="https://sotonac.sharepoint.com/:f:/r/teams/IEEE-OESAUV2026SymposiumProceedings/Shared%20Documents/General/Board%20C%20%E2%80%93%20Sensing%20%26%20Environmental%20Monitoring%20(Linked%20Sessions%206,%209)?csf=1&web=1&e=Qw2XRA"
              target="_blank"
              title="Click Board C for papers&#10;&#10;PC-1 Bekki - Sperm whale localisation using a compact hydrophone array on an underwater glider&#10;PC-2 Chaloux - Autonomous Optical Surveying of Atlantic Sea Scallops Using Long-Range AUVs&#10;PC-3 Bhayani - Communication-Efficient Coral Reef Monitoring Framework for AUVs using SfM and NeRF Pipelines&#10;PC-4 Sayed - Robustness Verification of an Autonomous Underwater Vehicle-based Plankton Classifier&#10;PC-5 Liang - Investigating Location-Regularised Self-Supervised Feature Learning for Seafloor Visual Imagery"
@@ -327,8 +324,7 @@ sections:
              style="color:inherit;">
              <strong>Board D – Autonomy, Control & Software:</strong>McGinley • Posluszny • Rezayan • Von Ellenrieder• Zhou • De Kruif • Liu</a>
              <strong>Exhibits &
-             MARS Facility Tours (Pre-booked)</strong></span>
-        
+             MARS Facility Tours (Pre-booked)</strong></span>       
              </span>
         
         
