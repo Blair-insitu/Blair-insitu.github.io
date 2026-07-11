@@ -540,8 +540,7 @@ sections:
            rel="noopener noreferrer"
            style="text-decoration:none;color:inherit;">
         <strong>Board C – Sensing &amp; Environmental Monitoring (Linked Sessions 6, 9)</strong>
-        <br><br>
-        
+        <br>        
         <strong>PC-1</strong> Bekki - Sperm whale localisation using a compact hydrophone array on an underwater glider<br>
         <strong>PC-2</strong> Chaloux - Autonomous Optical Surveying of Atlantic Sea Scallops Using Long-Range AUVs<br>
         <strong>PC-3</strong> Bhayani - Communication-Efficient Coral Reef Monitoring Framework for AUVs using SfM and NeRF Pipelines)<br>
@@ -550,18 +549,15 @@ sections:
         </td>
         </tr>
         </a>
-        
-        
+                
         <tr>
         <td style="vertical-align:top; padding:15px; background:#f4eaf8; border:1px solid #999;">
         <a href="https://sotonac.sharepoint.com/:f:/r/teams/IEEE-OESAUV2026SymposiumProceedings/Shared%20Documents/General/Board%20D%20%E2%80%93%20Autonomy,%20Control%20%26%20Software%20(Linked%20Sessions%2011,%2012)?csf=1&web=1&e=atid1h" target="_blank"
              title="Click cell for papers"
            rel="noopener noreferrer"
            style="text-decoration:none;color:inherit;">
-        <strong>Board D – Autonomy, Control &amp; Software (Linked Sessions 11, 12)</strong>
-        
-        <br><br>
-        
+        <strong>Board D – Autonomy, Control &amp; Software (Linked Sessions 11, 12)</strong>        
+        <br>        
         <strong>PD-1</strong> McGinley - Frontseat-Backseat Control Architecture for AUVs: Enabling Mission-Specific Autonomy<br>
         <strong>PD-2</strong> Posłuszny - Control Problem Formulation for Collaborative UxV Systems for Subsea Infrastructure Inspection<br>
         <strong>PD-3</strong> Rezayan - Interpretable Physics-Informed Hydrodynamic Derivative Identification for Autonomous Marine Vehicles Using Virtual Sea Trials and Symbolic Residuals<br>
