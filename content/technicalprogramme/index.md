@@ -151,13 +151,13 @@ sections:
         <div id="gala"></div>
         <img src="/HMS%20warrior.png" style="width:100%; height:auto;">
 
-        The Gala Dinner will be on the  Main Gun Deck at HMS Warrior, [Portsmouth Historic Dockyard](https://www.royalnavymuseums.org.uk/venue-hire/hms-warrior)
+        The Gala Dinner will be on the  Main Gun Deck at HMS Warrior, [Portsmouth Historic Dockyard](https://historicdockyard.co.uk/attractions/hms-warrior/)
     
         <strong>Date: </strong>Wednesday 2 September 2026
     
         <strong>Time: </strong>19:00 - 21:30
 
-        <strong>Venue: </strong>[HMS Warrior, Portsmouth Historic Dockyard, Victory Gate, Portsmouth PO1 3QX](https://www.royalnavymuseums.org.uk/venue-hire/hms-warrior)
+        <strong>Venue: </strong>[HMS Warrior, Portsmouth Historic Dockyard, Victory Gate, Portsmouth PO1 3QX](https://historicdockyard.co.uk/attractions/hms-warrior/)
 
         <strong>Dress code: </strong>Smart casual
     
