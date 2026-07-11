@@ -30,7 +30,7 @@ sections:
             grid-template-columns:80px 1fr 1fr 1fr;
         
             /* 08:00–22:00 = 14h = 56 x 15min slots */
-            grid-template-rows:60px repeat(60,25px);        
+            grid-template-rows:60px repeat(60,30px);        
             border:1px solid #444;
         }
         
