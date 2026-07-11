@@ -540,7 +540,7 @@ sections:
            rel="noopener noreferrer"
            style="text-decoration:none;color:inherit;">
         <strong>Board C – Sensing &amp; Environmental Monitoring (Linked Sessions 6, 9)</strong>
-        <br>        
+        <br>
         <strong>PC-1</strong> Bekki - Sperm whale localisation using a compact hydrophone array on an underwater glider<br>
         <strong>PC-2</strong> Chaloux - Autonomous Optical Surveying of Atlantic Sea Scallops Using Long-Range AUVs<br>
         <strong>PC-3</strong> Bhayani - Communication-Efficient Coral Reef Monitoring Framework for AUVs using SfM and NeRF Pipelines)<br>
