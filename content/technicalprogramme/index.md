@@ -18,80 +18,12 @@ sections:
         There will be a dedicated poster core time, and session chairs will give brief “poster shouts” during relevant oral sessions to direct attendees to related posters boards. Poster presenters should be by their boards during the poster core time, and hang around near their posters during lunch, and networking breaks (after getting food and drink).
     
         **All papers must be presented in person by an author.** There is no online or hybrid provision, and if a paper is not presented, it will not be included in the proceedings. If you submitted to our Journal or Standard track, and you **are unsure whether/how you will be presenting, get in touch [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Technical%20Programme)**. 
-
-        <style>
-          body{
-              font-family:Arial,sans-serif;
-              margin:20px;
-          }
-
-        .schedule{
-            display:grid;
-            grid-template-columns:80px 1fr 1fr 1fr;
-        
-            /* 08:00–22:00 = 14h = 56 x 15min slots */
-            grid-template-rows:60px repeat(60,30px);        
-            border:1px solid #444;
-        }
-        
-        .schedule > div{
-            border:1px solid #666;
-            box-sizing:border-box;
-        }
-        
-        .heading{
-            font-weight:bold;
-            text-align:center;
-            padding:10px;
-            background:#f2f2f2;
-        }
-        
-        .time{
-            padding:2px 6px;
-            background:#efefef;
-            font-weight:bold;
-        }
-        
-        .event{
-        text-align:left;
-        padding:0px 4px;
-        overflow:hidden;
-        line-height:1.25;
-        }
-        
-        .event a{
-            color:black;
-            text-decoration:none;
-            display:block;
-            width:100%;    
-        }
-        
-        .notice{
-            max-width:1200px;
-            margin:0 auto 20px auto;
-            padding:15px 20px;
-            background:#f8f8f8;
-            border:1px solid #d0d0d0;
-            border-left:5px solid #00629b;
-            line-height:1.5;
-        }
-        
-        .talks{background:#f4b400;}
-        .keynote{background:#c3bc97;}
-        .lunch{background:#e8c5a7;}
-        .breaks{background:#d5cce3;}
-        .travel{background:#e5e5e5;}
-        .social{background:#c6bdd7;}
-        .info{background:#cfe8f3;}
-        </style>
-        </head>
-        <body>
         
 
         <iframe
             src="https://blair-insitu.github.io/auv2026_technical_programme.html"
             width="100%"
-            height="1200"
+            height="100%"
             style="border:none;">
         </iframe>
 
