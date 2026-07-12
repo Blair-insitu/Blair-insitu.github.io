@@ -95,9 +95,9 @@ sections:
         
         <!-- Header -->
         <div class="heading" style="grid-column:1">Time</div>
-        <div class="heading" style="grid-column:2">Day 1 (Tuesday 1st September)</div>
-        <div class="heading" style="grid-column:3">Day 2 (Wednesday 2nd September)</div>
-        <div class="heading" style="grid-column:4">Day 3 (Thursday 3rd September)</div>
+        <div class="heading" style="grid-column:2">Day 1 (Tues. 1st September)</div>
+        <div class="heading" style="grid-column:3">Day 2 (Wed. 2nd September)</div>
+        <div class="heading" style="grid-column:4">Day 3 (Thur. 3rd September)</div>
         
         <!-- Time column -->
         <div class="time" style="grid-column:1;grid-row:2 / 6;">08:00</div>
