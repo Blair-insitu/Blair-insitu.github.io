@@ -87,8 +87,7 @@ sections:
         </head>
         <body>
         
-        <h2 style="margin-top:40px; margin-bottom:15px;">
-        IEEE-OES AUV2026 Technical Programme (<a href="https://blair-insitu.github.io/auv2026_technical_programme.html" download="auv2026_technical_programme.html">Direct link</a>)
+
         <iframe
             src="https://blair-insitu.github.io/auv2026_technical_programme.html"
             width="100%"
