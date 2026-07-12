@@ -23,7 +23,7 @@ sections:
         <iframe
             src="https://blair-insitu.github.io/auv2026_technical_programme.html"
             width="100%"
-            height="2000px"
+            height="2000"
             style="border:none;">
         </iframe>
 
