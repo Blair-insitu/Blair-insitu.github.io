@@ -17,7 +17,7 @@ sections:
         
         There will be a dedicated poster core time, and session chairs will give brief “poster shouts” during relevant oral sessions to direct attendees to related posters boards. Poster presenters should be by their boards during the poster core time, and hang around near their posters during lunch, and networking breaks (after getting food and drink).
     
-        **All papers must be presented in person by an author.** There is no online or hybrid provision, and if a paper is not presented, it will not be included in the proceedings. If you submitted to our Journal or Standard track, and you **are unsure whether/how you will be presenting, get in touch [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Technical%20Programme)**. You can download the <a href="https://blair-insitu.github.io/static/auv2026_technical_programme.html" download>latest version of the AUV2026 Technical Programme on this link</a> and open it using any browser.
+        **All papers must be presented in person by an author.** There is no online or hybrid provision, and if a paper is not presented, it will not be included in the proceedings. If you submitted to our Journal or Standard track, and you **are unsure whether/how you will be presenting, get in touch [auv2026@soton.ac.uk](mailto:auv2026@soton.ac.uk?subject=Technical%20Programme)**. You can download the latest <a href="https://blair-insitu.github.io/static/auv2026_technical_programme.html" download>AUV2026 Technical Programme (link)</a> and open it using any browser.
 
         <style>
           body{
