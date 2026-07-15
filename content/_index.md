@@ -61,13 +61,7 @@ Information about the **peer-review track** and the **standard track** can be fo
             <img src="/sonardyne.png" style="width:100%; height:auto;">
             <h3><strong>Sonardyne</strong></h3>
             <p>
-            Sonardyne has built a reputation for innovation, reliability, and technical excellence, 
-          and is a key sponsor for AUV 2026. With over 50 years of experience at the forefront of 
-          underwater technology, Sonardyne engineers, manufactures, and supports advanced solutions 
-          that enable precise navigation, positioning, communication, and data acquisition in subsea 
-          environments. Operating in sectors spanning offshore energy, maritime defence, and ocean 
-          science, Sonardyne’s portfolio of acoustic, optical, and sonar technologies plays a critical 
-          role in expanding and supporting the safe and effective operation of marine systems worldwide.
+            We have beenwriting the future of underwater technology for over 50 years. Our extensive range of acoustic, optical and sonar products, backed by decades of experience and expertise, open up a world of subsea opportunities for your operations. With our products you can communicate, navigate, monitor and position with reliable precision from shallow water to deep and across many operational fields.
             </p>
             
           </div>
