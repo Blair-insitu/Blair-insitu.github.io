@@ -61,7 +61,7 @@ Information about the **peer-review track** and the **standard track** can be fo
             <img src="/sonardyne.png" style="width:100%; height:auto;">
             <h3><strong>Sonardyne</strong></h3>
             <p>
-            We have beenwriting the future of underwater technology for over 50 years. Our extensive range of acoustic, optical and sonar products, backed by decades of experience and expertise, open up a world of subsea opportunities for your operations. With our products you can communicate, navigate, monitor and position with reliable precision from shallow water to deep and across many operational fields.
+            We have been writing the future of underwater technology for over 50 years. Our extensive range of acoustic, inertial and optical solutions, backed by decades of experience and expertise, open up a world of subsea opportunities for your AUV operations. With Sonardyne inside your AUV you can communicate, navigate, monitor and position with reliable precision for all operational requirements from shallow water to deep.
             </p>
             
           </div>
