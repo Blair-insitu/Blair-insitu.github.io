@@ -9,7 +9,7 @@ last_name: Banet
 # Is this the primary user of the site?
 
 # Role/position
-role: Symposium coordinator 
+role: Symposium Manager
 
 # Organizations/Affiliations
 organizations:
