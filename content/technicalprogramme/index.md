@@ -10,7 +10,7 @@ sections:
         AUV2026 is a single-track conference. Poster presenters and exhibitors are
         encouraged to attend the oral sessions and participate fully in the technical programme.
 
-        - **Presentations:** 12 minutes + 3minutes for questions. There will be a windows PC with the latest version of microsoft powerpoint and adobe PDF installed. Upload presentation before the start of your session. There will also be an HDMI input if you prefer to use your own laptop. Please coordinate with your session chair.
+        - **Presentations:** 12 minutes + 3minutes for questions. There will be a windows PC with the latest version of microsoft powerpoint and adobe PDF installed. There will also be an HDMI input if you prefer to use your own laptop. Please make yourself known to your session chair during the break before your session, upload files and check connections work.
 
         - **Posters:** Should be prepared in **A0 (841 mm × 1189 mm)** portrait, although A0 (841 mm × 1189 mm) can also be accomodated. Authors are required to bring their posters already printed, and mount them on their assigned <strong>Board A/B/C/D</strong> on registration. Posters will remain on display throughout the conference in the poster
         and exhibitor area. The poster boards measure 1000 mm wide × 1800 mm tall, anything exceeding these dimensions cannot be accommodated. There are no printing facilities available onsite during the conference.	All necessary fixtures for mounting posters will be provided.
