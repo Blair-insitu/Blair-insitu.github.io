@@ -12,7 +12,7 @@ sections:
         
         </details>
 
-        <a href="https://www.sonardyne.com" target="_blank"><img src="/Sonardyne-logo_500px.png" alt="Sonardyne" style="width: 100%; height: auto;"></a>
+        <a href="https://www.sonardyne.com" target="_blank"><img src="/Sonardyne-logo_500px.png" alt="Sonardyne" style="width: 30%; height: auto;"></a>
         <details>
         <summary><strong>Sonardyne</strong></summary>
         We have been writing the future of underwater technology for over 50 years. Our extensive range of acoustic, inertial and optical solutions, backed by decades of experience and expertise, open up a world of subsea opportunities for your AUV operations. With Sonardyne inside your AUV you can communicate, navigate, monitor and position with reliable precision for all operational requirements from shallow water to deep. 
@@ -21,7 +21,7 @@ sections:
         
         </details>
 
-        <a href="https://cellula.com/" target="_blank"><img src="/CELLULA_logo.png" alt="Cellula Robotics" style="width: 100%; height: auto;"></a>
+        <a href="https://cellula.com/" target="_blank"><img src="/CELLULA_logo.png" alt="Cellula Robotics" style="width: 30%; height: auto;"></a>
         <details>
         <summary><strong>Cellula Robotics</strong></summary>
         As a key sponsor of AUV2026, Cellula Robotics brings deep expertise in long-range autonomous underwater vehicle (AUV) systems and integrated subsea solutions. With operations spanning Canada, the USA, and the UK, Cellula supports defence, security, environmental, and surveying applications to address the world’s most complex maritime challenges. The company specialises in hydrogen fuel cell-powered, long-endurance AUV platforms designed for persistent subsea monitoring and mission-critical operations. Their focus on reliability, collaboration, and real-world deployment makes them a valuable contributor to the advancement of autonomous submersible robotics. 
@@ -30,7 +30,7 @@ sections:
         
         </details>
 
-        <a href="https://www.iquarobotics.com" target="_blank"><img src="/11_IQUA_logo.png" alt="Iqua Robotics" style="width: 100%; height: auto;"></a>
+        <a href="https://www.iquarobotics.com" target="_blank"><img src="/11_IQUA_logo.png" alt="Iqua Robotics" style="width: 30%; height: auto;"></a>
         
         <details>
         <summary><strong>IQUA ROBOTICS SL</strong></summary>
@@ -41,7 +41,7 @@ sections:
         
         </details>
 
-        <a href="https://www.ecosub.uk" target="_blank"><img src="/ecoSUB-Logo_Transparent.png" alt="ecoSUB" style="width: 100%; height: auto;"></a>
+        <a href="https://www.ecosub.uk" target="_blank"><img src="/ecoSUB-Logo_Transparent.png" alt="ecoSUB" style="width: 30%; height: auto;"></a>
         
         <details>
         <summary><strong>ecoSUB Robotics</strong></summary>
@@ -52,7 +52,7 @@ sections:
         
         </details>
 
-        <a href="https://www.edgetech.com" target="_blank"><img src="/ET510-60-Years-Logo.png" alt="edgetech" style="width: 100%; height: auto;"></a>
+        <a href="https://www.edgetech.com" target="_blank"><img src="/ET510-60-Years-Logo.png" alt="edgetech" style="width: 30%; height: auto;"></a>
         
         <details>
         <summary><strong>EdgeTech</strong></summary>
@@ -64,7 +64,7 @@ sections:
         </details>
 
  
-        <a href="https://poseidonsforge.com" target="_blank"><img src="/PSFi-Logo-2026-06-26-110445.jpg" alt="Poseidon's Forge " style="width: 100%; height: auto;"></a>
+        <a href="https://poseidonsforge.com" target="_blank"><img src="/PSFi-Logo-2026-06-26-110445.jpg" alt="Poseidon's Forge " style="width: 30%; height: auto;"></a>
         
         <details>
         <summary><strong>Poseidon's Forge</strong></summary>
@@ -75,7 +75,7 @@ sections:
         
         </details>
 
-        <a href="https://amloceanographic.com" target="_blank"><img src="/AML-Oceanographic-LOGO.png" alt="AML Oceanographic" style="width: 100%; height: auto;"></a>
+        <a href="https://amloceanographic.com" target="_blank"><img src="/AML-Oceanographic-LOGO.png" alt="AML Oceanographic" style="width: 30%; height: auto;"></a>
         <details>
         <summary><strong>AML Oceanographic</strong></summary>
 
@@ -85,7 +85,7 @@ sections:
         
         </details>
 
-        <a href="https://noc-innovations.com" target="_blank"><img src="/MARS.png" alt="NOC Innovation Hub" style="width: 100%; height: auto;"></a>
+        <a href="https://noc-innovations.com" target="_blank"><img src="/MARS.png" alt="NOC Innovation Hub" style="width: 30%; height: auto;"></a>
         <details>
         <summary><strong>NOC Innovations</strong></summary>
 
@@ -95,7 +95,7 @@ sections:
         
         </details>
 
-        <a href="https://www.southampton.ac.uk/research/institutes-centres/marine-maritime-institute" target="_blank"><img src="/SMMI.png" alt="SMMI" style="width: 100%; height: auto;"></a>
+        <a href="https://www.southampton.ac.uk/research/institutes-centres/marine-maritime-institute" target="_blank"><img src="/SMMI.png" alt="SMMI" style="width: 30%; height: auto;"></a>
         <details>
         <summary><strong>Southampton Marine & Maritime Institute</strong></summary>
 
