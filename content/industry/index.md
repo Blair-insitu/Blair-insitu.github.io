@@ -78,7 +78,7 @@ sections:
         <a href="https://amloceanographic.com" target="_blank"><img src="AML-Oceanographic-LOGO.png" alt="AML Oceanographic" style="width: 100%; height: auto;"></a>
         <details>
         <summary><strong>AML Oceanographic</strong></summary>
-        
+
         At the AUV Symposium, AML Oceanographic is showcasing our pioneering, field-proven swappable X2change sensor solutions, engineered for AUV and autonomous platform integration. Say goodbye to vehicle downtime. Our unique X2change ecosystem allows you to swap sensors instantly in the field without sending the entire instrument back for recalibration. From our industry-standard time-of-flight Sound Velocity to CTD and environmental sensors, AML keeps your autonomous missions moving. Visit our stand in Southampton to see how field-swappable technology can streamline your next AUV deployment. 
         
         Website: https://amloceanographic.com
