@@ -21,6 +21,28 @@ sections:
         Website: https://www.iquarobotics.com
         
         </details>
+
+        <a href="https://www.ecosub.uk" target="_blank"><img src="ecoSUB-Logo_Transparent.png" alt="ecoSUB" style="width: 100%; height: auto;"></a>
+        
+        <details>
+        <summary><strong>ecoSUB Robotics</strong></summary>
+        
+        Originally developed with the National Oceanography Centre, ecoSUB Robotics AUVs pioneered the rise of Micro-AUV technology. Today, they deliver survey-grade navigation and support a wide range of advanced science and imaging payloads. Designed to democratise access to underwater robotics, ecoSUB systems redefine the budget, logistics and expertise required to operate at both shallow and deep depths. Trusted across research, offshore energy and defence, our AUVs make highâ€‘quality data collection more accessible than ever. Talk to us about your mission needs and discover what ecoSUB can do for you. 
+        
+        Website: www.ecosub.uk
+        
+        </details>
+
+        <a href="https://www.edgetech.com " target="_blank"><img src="ET510-60-Years-Logo.png" alt="edgetech" style="width: 100%; height: auto;"></a>
+        
+        <details>
+        <summary><strong>EdgeTech</strong></summary>
+        
+        EdgeTech, the leader in high resolution sonar imaging systems, and acoustic release solutions has recently expanded their OEM side scan sonar product offering.  EdgeTech designed the new Trace OEM side scan sonar specifically with micro-UUV, small ROV and shallow water USV in mind. The Trace system is a small form factor, low power, high quality EdgeTech OEM side scan sonar solution for small and micro vehicles. 
+        
+        Website: www.edgetech.com 
+        
+        </details>
       
     design:
       columns: '1'
