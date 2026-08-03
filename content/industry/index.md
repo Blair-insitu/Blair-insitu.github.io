@@ -11,7 +11,7 @@ sections:
         We are delighted to welcome a range of leading organisations and industry leaders to exhibit at the AUV2026 Symposium. Visit their stands throughout the event to find out about their latest products, services, to network and build professional connections.
         
         
-        <a href="https://www.iquarobotics.com" target="_blank"><img src="/11_IQUA_logo.png.png" alt="Iqua Robotics" style="width: 100%; height: auto;"></a>
+        <a href="https://www.iquarobotics.com" target="_blank"><img src="/11_IQUA_logo.png" alt="Iqua Robotics" style="width: 100%; height: auto;"></a>
         
         <details>
         <summary>**IQUA ROBOTICS SL**</summary>
