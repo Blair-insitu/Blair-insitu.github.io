@@ -13,7 +13,7 @@ sections:
         
         <details style="margin-bottom: 2rem;">
         <summary><img src="/Sonardyne-logo_500px.png" alt="Sonardyne" style="width: 30%; height: auto;"></summary>
-        We have been writing the future of underwater technology for over 50 years. Our extensive range of acoustic, inertial and optical solutions, backed by decades of experience and expertise, open up a world of subsea opportunities for your AUV operations. With Sonardyne inside your AUV you can communicate, navigate, monitor and position with reliable precision for all operational requirements from shallow water to deep. 
+        <p>We have been writing the future of underwater technology for over 50 years. Our extensive range of acoustic, inertial and optical solutions, backed by decades of experience and expertise, open up a world of subsea opportunities for your AUV operations. With Sonardyne inside your AUV you can communicate, navigate, monitor and position with reliable precision for all operational requirements from shallow water to deep. </p>
         
         Website: https://www.sonardyne.com
         
