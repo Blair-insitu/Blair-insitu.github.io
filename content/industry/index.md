@@ -13,6 +13,7 @@ sections:
         
         <details style="margin-bottom: 2rem;">
         <summary><img src="/Sonardyne-logo_500px.png" alt="Sonardyne" style="width: 30%; height: auto;"></summary>
+
         <br>We have been writing the future of underwater technology for over 50 years. Our extensive range of acoustic, inertial and optical solutions, backed by decades of experience and expertise, open up a world of subsea opportunities for your AUV operations. With Sonardyne inside your AUV you can communicate, navigate, monitor and position with reliable precision for all operational requirements from shallow water to deep.
         <br>Website: https://www.sonardyne.com
         
@@ -20,6 +21,7 @@ sections:
 
         <details style="margin-bottom: 2rem;">
         <summary><img src="/CELLULA_logo.png" alt="Cellula Robotics" style="width: 30%; height: auto;"></summary>
+
         <br>As a key sponsor of AUV2026, Cellula Robotics brings deep expertise in long-range autonomous underwater vehicle (AUV) systems and integrated subsea solutions. With operations spanning Canada, the USA, and the UK, Cellula supports defence, security, environmental, and surveying applications to address the world’s most complex maritime challenges. The company specialises in hydrogen fuel cell-powered, long-endurance AUV platforms designed for persistent subsea monitoring and mission-critical operations. Their focus on reliability, collaboration, and real-world deployment makes them a valuable contributor to the advancement of autonomous submersible robotics. 
         <br>Website: https://cellula.com
         
