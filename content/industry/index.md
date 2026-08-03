@@ -4,13 +4,6 @@ date: 2025-03-12
 type: landing
 sections:
 
-
----
-title: Industry
-date: 2025-03-12
-type: landing
-sections:
-
   - block: markdown
     content:
       title: Meet our Exhibitors
@@ -71,3 +64,5 @@ sections:
         padding: ['-300px', '0', '-300px', '0']
       css_class:
 ---
+
+
