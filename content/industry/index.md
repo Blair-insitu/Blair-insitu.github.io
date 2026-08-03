@@ -30,7 +30,7 @@ sections:
 
               
         <details>
-        <summary>img src="/11_IQUA_logo.png" alt="Iqua Robotics" style="width: 30%; height: auto;"></summary>
+        <summary><img src="/11_IQUA_logo.png" alt="Iqua Robotics" style="width: 30%; height: auto;"></summary>
         
         We develop innovative solutions for exploring and understanding the underwater environment using autonomous vehicles. Our team of specialists designs, builds, and tests high-quality products tailored to customer needs. We provide expertise, customization, and technical support to help our customers achieve advanced mapping and inspection capabilities in scientific research, industrial/offshore, and security/defense applications.
         
