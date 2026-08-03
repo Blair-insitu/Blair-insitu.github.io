@@ -95,11 +95,11 @@ sections:
         
         </details>
 
-        <a href="https://www.southampton.ac.uk/research/institutes-centres/marine-maritime-institute" target="_blank"><img src="SMMI.png" alt="NOC Innovation Hub" style="width: 100%; height: auto;"></a>
+        <a href="https://www.southampton.ac.uk/research/institutes-centres/marine-maritime-institute" target="_blank"><img src="SMMI.png" alt="SMMI" style="width: 100%; height: auto;"></a>
         <details>
         <summary><strong>Southampton Marine & Maritime Institute</strong></summary>
 
-        The Southampton Marine & Maritime Institute (SMMI) is an interdisciplinary research institute for addressing global ocean challenges through research, innovation, and education. Established in 2012, the SMMI leverages the expertise of over 400 academics from across the University of Southampton in ocean science, engineering, maritime law, archaeology, and more, acting as a gateway to connect them to partners from industry and government. At AUV2026, we will be showcasing some of the recent research projects we have supported in Marine Autonomy.
+        The Southampton Marine & Maritime Institute (SMMI) is an interdisciplinary research institute for addressing global ocean challenges through research, innovation, and education. Established in 2012, the SMMI leverages the expertise of over 400 academics from across the University of Southampton in ocean science, engineering, maritime law, archaeology, and more, acting as a gateway to connect them to partners from industry and government. At AUV2026, we will be showcasing some of recent marine autonomy projects we have supported.
         
         Website: https://www.southampton.ac.uk/research/institutes-centres/marine-maritime-institute
         
